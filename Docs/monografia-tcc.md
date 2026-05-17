@@ -44,11 +44,13 @@ In the context of preparing for university entrance exams, many students face di
 
 ## LISTA DE ABREVIATURAS E SIGLAS
 
-01 – TÍTULO 01
+Abreviatura ou sigla 01 – Título	01
+
+---
 
 ## LISTA DE ILUSTRAÇÕES
 
-01
+Ilustração  01 – Título	01
 
 ---
 
