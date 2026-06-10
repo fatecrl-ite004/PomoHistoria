@@ -1327,159 +1327,228 @@ Como o PomoHistória é um serviço digital, as evidências físicas são repres
 | Pacotes para licenças corporativas   | Profissionalizar venda B2B.                                   | Criar apresentação em PDF, contrato digital, proposta piloto e manual básico para professores.   |
 | Conteúdo gratuito                    | Demonstrar autoridade e captar leads.                         | Publicar blog, e-books simples, webinars e materiais com chamada para cadastro.                  |
 
-# ESTRUTURA ADMINISTRATIVA DA EMPRESA. 
+# 4. ESTRUTURA ADMINISTRATIVA DA EMPRESA
 
-## Constituição Jurídica
+## 4.1. Constituição Jurídica
 
-### Natureza do Projeto
+### 4.1.1. Natureza do Projeto
 
-O PomoHistória é um projeto de pesquisa e desenvolvimento vinculado à disciplina de Marketing e Negócios do curso de Sistemas para Internet da FATEC Rubens Lara. Não possui CNPJ, inscrição municipal ou qualquer outra forma de personalidade jurídica. As atividades são realizadas pelos próprios estudantes-autores, sem vínculo empregatício ou societário formal.
+Atualmente, o PomoHistória configura-se como um projeto acadêmico de pesquisa, desenvolvimento e planejamento de negócio vinculado à disciplina de Marketing e Negócios do curso de Sistemas para Internet da FATEC Rubens Lara. Portanto, nesta fase, ainda não possui CNPJ, inscrição municipal, contrato social ou personalidade jurídica constituída. A operação descrita no plano deve ser entendida como uma simulação estruturada e realista de uma EdTech em fase de MVP, com potencial de transformação futura em startup de software educacional.
 
-### Regime Tributário
+### 4.1.2. Regime Tributário
 
-Não se aplica. Por se tratar de projeto acadêmico sem fins lucrativos e sem comercialização real (apenas simulação de modelo de negócio), não há obrigações tributárias ou fiscais. Caso no futuro o grupo decida transformar o projeto em uma startup, o regime seria Simples Nacional ou MEI (para faturamento inicial baixo).
+Na fase acadêmica, o regime tributário não se aplica, pois não há comercialização real, emissão de notas fiscais ou faturamento efetivo. As assinaturas, planos Premium, parcerias B2B e projeções de receita apresentados no documento fazem parte da simulação do modelo de negócio e servem para avaliar a viabilidade mercadológica do PomoHistória.
 
-### Responsabilidade Social e Ambiental
+Caso no futuro o grupo decida transformar o projeto em uma startup, o regime seria Simples Nacional ou MEI (para faturamento inicial baixo).
 
-Mesmo sem constituição legal, o projeto incorpora princípios de responsabilidade social e ambiental em sua condução:
+### 4.1.3. Responsabilidade Social e Ambiental
 
-- **Social:** O plano de marketing prevê um programa de bolsas (simulado) para estudantes de baixa renda. No âmbito acadêmico, os integrantes se comprometem a compartilhar os resultados e o conhecimento gerado com a comunidade da FATEC.
+Mesmo sem constituição jurídica formal, o PomoHistória incorpora princípios de responsabilidade social e ambiental desde sua concepção. A proposta do projeto não se limita à venda de uma ferramenta digital; ela também busca ampliar o acesso a métodos de estudo mais organizados e contribuir para uma rotina educacional mais acessível, especialmente entre vestibulandos com menor poder aquisitivo.
 
-- **Ambiental:** Todo o desenvolvimento é digital, evitando impressões desnecessárias. O código e a documentação são armazenados em repositórios na nuvem. As reuniões são preferencialmente remotas, reduzindo deslocamentos.
+No aspecto social, o plano prevê a concessão inicial de 50 bolsas Premium para estudantes de baixa renda de escolas públicas no primeiro ano de operação simulada. Essa meta é mais adequada à fase de MVP do que promessas amplas de impacto imediato, pois considera a estrutura reduzida da equipe, o baixo custo marginal do produto digital e a necessidade de validar a plataforma antes de ampliar o programa. Com o crescimento da receita e das parcerias, o número de bolsas poderá ser expandido gradualmente.
 
-## Estrutura Organizacional da Empresa
+No aspecto ambiental, o PomoHistória apresenta impacto físico reduzido por ser uma aplicação web. A operação inicial será remota, com uso de computadores pessoais, repositórios em nuvem, ferramentas digitais de gestão e reuniões online. Essa configuração evita gastos com impressões, deslocamentos frequentes, estoque, embalagem e logística física. Futuramente, a empresa poderá priorizar provedores de hospedagem com práticas ambientais responsáveis e adotar políticas de compensação de carbono, desde que essas ações sejam compatíveis com a viabilidade financeira do negócio.
 
-A estrutura organizacional do PomoHistória é funcional e enxuta, composta pelos três integrantes do grupo, que acumulam múltiplas funções. Eventualmente, contamos com a colaboração voluntária de um professor de História (revisor de conteúdo) e de um designer amigo (apoio pontual). Não há hierarquia rígida; as decisões estratégicas são tomadas por consenso.
+## 4.2. Estrutura Organizacional da Empresa
 
-### Equipe Gerencial
+A estrutura organizacional do PomoHistória é funcional, enxuta e compatível com a fase de MVP. No primeiro ciclo, a operação será conduzida pelos três proponentes do projeto, que acumulam funções técnicas, criativas, pedagógicas e comerciais. Essa configuração reduz custos fixos e permite agilidade nas decisões, mas também exige priorização clara de entregas, documentação dos processos e divisão objetiva de responsabilidades.
 
-| **Papel**                                        | **Responsável**                           | **Principais atribuições**                                                                                                                                                                                           |
-|--------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Líder Técnico (CTO)**                          | Diego de Oliveira Ferreira                | Arquitetura de software, back-end, banco de dados, infraestrutura (hospedagem), integração de pagamentos (simulação), segurança e manutenção.                                                                        |
-| **Desenvolvedor Front-end**                      | Kauê de Oliveira Martins                  | Implementação da interface (React/CSS), gamificação (lógica do personagem), quizzes, trava pedagógica, testes de usabilidade.                                                                                        |
-| **Designer e Marketing (CMO)**                   | Gabrielle Almeida Lima                    | Identidade visual, design da interface (UI/UX), criação de conteúdo (questões, textos históricos), gestão de redes sociais (simulada), parcerias com influenciadores (simulação), atendimento ao usuário (feedback). |
-| **Revisor de Conteúdo (colaborador voluntário)** | Professor/estudante de História (externo) | Revisão e validação da precisão histórica dos quizzes e módulos.                                                                                                                                                     |
-| **Apoio de Design (colaborador voluntário)**     | Designer freelancer (amigo)               | Ajustes pontuais em logotipo, ícones e assets visuais.                                                                                                                                                               |
+A empresa não terá, inicialmente, departamentos formais ou cargos contratados. Os núcleos apresentados a seguir representam áreas funcionais de atuação, não setores com equipes independentes.
 
-## Organograma da Empresa Detalhado
+Conforme a plataforma gerar receita, validar retenção e estabelecer parcerias, a estrutura poderá evoluir para a contratação de professor conteudista, profissional de suporte, designer UI/UX dedicado e profissionais de marketing ou vendas B2B.
 
-### Diretoria Executiva
+### 4.2.1. Equipe Gerencial
 
-- **Composto por:** Diego, Gabrielle e Kauê (decisões colegiadas).
+**Tabela 4.1 - Equipe gerencial e responsabilidades iniciais**
 
-- **Funções:** Definir roadmap, priorizar funcionalidades, aprovar mudanças no escopo, gerenciar prazos e entregas acadêmicas.
+| Papel | Responsável | Principais atribuições |
+|---|---|---|
+| Coordenação estratégica e gestão do projeto | Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima | Definir prioridades, roadmap, metas do MVP, precificação, parcerias, orçamento e decisões de expansão. As decisões estratégicas devem ser tomadas de forma colegiada, buscando consenso entre os integrantes. |
+| Desenvolvimento back-end e infraestrutura | Diego de Oliveira Ferreira | Arquitetura da aplicação, banco de dados, integração com gateway de pagamento, hospedagem, segurança básica, manutenção técnica e correção de bugs. |
+| Desenvolvimento front-end, quizzes e gamificação | Kauê de Oliveira Martins | Implementação da interface, integração dos quizzes, lógica da trava pedagógica de 70%, evolução do personagem, testes de usabilidade e ajustes de experiência do usuário. |
+| Design, conteúdo e marketing digital | Gabrielle Almeida Lima | Identidade visual, design da interface, organização de conteúdo, comunicação nas redes sociais, relacionamento com usuários beta, influenciadores, cursinhos e escolas parceiras. |
+| Revisão pedagógica de História | Professor ou estudante de História parceiro/voluntário | Revisar questões, textos explicativos, módulos temáticos e coerência histórica dos conteúdos antes da publicação na plataforma. |
+| Suporte inicial e relacionamento com usuários | Gabrielle, com apoio de Diego e Kauê | Responder dúvidas, coletar feedback, registrar bugs, organizar sugestões, acompanhar satisfação e encaminhar problemas técnicos ou pedagógicos para o responsável adequado. |
 
-### Núcleo de Desenvolvimento de Software
+## 4.3. Organograma da Empresa Detalhado
 
-**Líder:** Diego
+### 4.3.1. Diretoria Executiva
 
-**Membros:** Kauê
+- **Composição:** Diego de Oliveira Ferreira, Gabrielle Almeida Lima e Kauê de Oliveira Martins.
+- **Funções:** definir o posicionamento estratégico da marca, aprovar mudanças de escopo, controlar o orçamento, priorizar funcionalidades, acompanhar indicadores, avaliar parcerias e decidir sobre a evolução do produto. A diretoria executiva, neste contexto, não representa cargos formais registrados, mas sim a coordenação colegiada do projeto.
 
-**Atividades:** Programação (front-end e back-end), configuração de ambiente, versionamento (Git), testes, deploy.
+### 4.3.2. Núcleo de Desenvolvimento de Software
 
-### Núcleo de Design e Experiência do Usuário (UX/UI)
+- **Líder técnico:** Diego de Oliveira Ferreira.
+- **Apoio principal:** Kauê de Oliveira Martins.
+- **Atividades:** desenvolvimento back-end e front-end, configuração de ambiente, versionamento em GitHub, banco de dados, testes, deploy, integração com pagamento, manutenção e melhoria de performance. Esse núcleo será responsável por transformar a proposta de marketing em uma aplicação funcional, estável e escalável.
 
-**Líder:** Gabrielle
+### 4.3.3. Núcleo de Design e Experiência do Usuário (UX/UI)
 
-**Atividades:** Criação de wireframes, prototipagem, design visual, definição de paleta de cores, tipografia, ícones, animações do personagem.
+- **Líder:** Gabrielle Almeida Lima.
+- **Atividades:** criação de wireframes, prototipagem, definição de identidade visual, paleta de cores, tipografia, ícones, telas do sistema, fluxos de navegação, experiência de onboarding e elementos visuais do personagem evolutivo. O foco será reduzir fricção e permitir que o estudante entenda rapidamente como iniciar seu primeiro ciclo de estudo.
 
-### Núcleo de Conteúdo e Pedagogia
+### 4.3.4. Núcleo de Conteúdo e Pedagogia
 
-**Líder:** Kauê (com apoio do revisor voluntário)
+- **Líder de organização do conteúdo:** Gabrielle Almeida Lima.
+- **Apoio técnico:** Kauê de Oliveira Martins.
+- **Apoio externo:** professor ou estudante de História parceiro/voluntário.
+- **Atividades:** seleção de temas de História Geral e História do Brasil, elaboração de questões, organização dos módulos, definição de trilhas iniciais, criação de textos explicativos e revisão pedagógica. A participação do revisor externo é importante para garantir precisão histórica e credibilidade acadêmica.
 
-**Atividades:** Pesquisa e elaboração de questões de História, estruturação dos módulos (Pré-História ao Brasil República), escrita de textos explicativos, definição da trava pedagógica.
+### 4.3.5. Núcleo de Marketing e Comunicação
 
-### Núcleo de Marketing e Comunicação 
+- **Líder:** Gabrielle Almeida Lima.
+- **Atividades:** planejamento de campanhas de pré-lançamento, criação de conteúdo para redes sociais, gestão da landing page, relacionamento com micro e nano influenciadores, contato com cursinhos e escolas, organização de webinars, programa de indicação e coleta de depoimentos de usuários beta. As ações serão inicialmente orgânicas, com tráfego pago limitado a testes piloto.
 
-**Líder:** Gabrielle
+### 4.3.6. Núcleo de Suporte e Relacionamento com Usuários
 
-**Atividades:** Planejamento de campanhas (para o plano de marketing), criação de posts simulados, contato simulado com influenciadores, elaboração de material para feiras e eventos acadêmicos.
+- **Responsáveis:** Gabrielle Almeida Lima, com apoio de Diego e Kauê conforme o tipo de demanda.
+- **Atividades:** atendimento inicial via e-mail, WhatsApp Business ou formulário, registro de dúvidas, organização de feedback, classificação de bugs, encaminhamento de problemas técnicos e acompanhamento de satisfação. Para manter coerência com a equipe reduzida, o prazo inicial de resposta será de até 24 horas úteis para usuários Premium, até 48 horas úteis para usuários gratuitos e até 12 horas úteis para parceiros B2B em fase de teste.
 
-### Núcleo de Suporte e Relacionamento com Usuários 
+### 4.3.7. Imagem do Organograma Detalhado da Empresa
 
-**Líder:** Diego(com auxílio dos demais)
+![Organograma detalhado da empresa](plano-marketing_pdf_atualizado_media/page49_image1.jpg)
 
-**Atividades:** Coleta de feedback dos usuários beta, resposta a e-mails simulados, registro de bugs e sugestões.
+# 5. ESTRUTURA FÍSICA DA EMPRESA
 
-### Imagem do Organograma Detalhado da Empresa. 
+## 5.1. Layout
 
-<img src="plano-marketing_atualizado_media/media/image1.png" style="width:6.29897in;height:2.47222in" />
+Por se tratar de uma EdTech em fase de MVP e de uma aplicação web responsiva, o PomoHistória não necessita de loja, estoque, atendimento presencial fixo ou sede própria para iniciar suas atividades. O layout operacional será predominantemente digital, organizado em ambientes virtuais de desenvolvimento, comunicação, design, documentação e gestão de tarefas.
 
-# ESTRUTURA FÍSICA DA EMPRESA
+As atividades serão realizadas de forma remota ou híbrida, utilizando computadores pessoais dos integrantes, internet própria, ferramentas colaborativas e encontros pontuais em espaços acadêmicos ou ambientes compartilhados quando necessário. Essa escolha está alinhada ao orçamento mínimo de R$2.000,00 previsto no plano, pois evita custos de aluguel, mobiliário, contas fixas e manutenção de uma estrutura física que ainda não é necessária para validar o produto.
 
-## Layout
+O ambiente de trabalho será distribuído entre ferramentas como GitHub para versionamento do código, Trello, Notion ou GitHub Projects para organização das tarefas, Google Drive para documentação, Figma ou ferramenta similar para prototipagem, Google Meet ou WhatsApp para comunicação e plataformas como Vercel, Render ou serviços equivalentes para hospedagem inicial. Assim, o layout da empresa deve ser compreendido como um fluxo digital de produção, e não como uma planta física tradicional.
 
-O desenvolvimento das atividades ocorre de forma híbrida e remota, utilizando computadores pessoais, plataformas colaborativas online e ambientes digitais de desenvolvimento. As reuniões de planejamento, alinhamento e acompanhamento do projeto são realizadas majoritariamente de maneira virtual, por meio de ferramentas de comunicação, organização e gerenciamento de tarefas, garantindo integração e produtividade entre os membros da equipe. A empresa PomoHistoria, conforme o crescimento do projeto e a obtenção de lucros ao longo das etapas implementadas, poderá futuramente contar com uma sede física em uma pequena sala comercial, destinada à realização de encontros presenciais, reuniões estratégicas e integração entre parceiros e colaboradores.
+No futuro, caso o PomoHistória alcance receita recorrente, parcerias institucionais e necessidade de reuniões presenciais frequentes, poderá ser considerada a utilização de coworking, sala compartilhada ou pequeno escritório. Essa possibilidade deve ser tratada como etapa posterior, vinculada à viabilidade financeira e ao crescimento real da base de usuários, não como requisito para o primeiro ano de operação.
 
-## Capacidade Instalada
+## 5.2. Capacidade Instalada
 
-A capacidade operacional do projeto está diretamente relacionada à infraestrutura digital utilizada pelos integrantes, incluindo computadores pessoais, serviços de hospedagem em nuvem e plataformas de versionamento de código.
+A capacidade instalada do PomoHistória está diretamente relacionada à infraestrutura digital e à disponibilidade operacional da equipe.
 
-A aplicação foi planejada para suportar crescimento gradual de usuários, utilizando arquitetura escalável baseada em serviços cloud e banco de dados online.
+No primeiro ano, a plataforma deve ser dimensionada para atender a validação do MVP, contemplando 50 usuários beta, aproximadamente 1.000 usuários cadastrados e meta de 500 usuários ativos mensais. Esses números estão alinhados às metas revisadas dos capítulos anteriores e evitam superdimensionamento da estrutura antes da comprovação de demanda.
 
-# IMPLEMENTAÇÃO DO PLANO DE MARKETING
+Do ponto de vista técnico, a aplicação será hospedada em ambiente cloud de baixo custo, com possibilidade de expansão conforme aumento de tráfego, armazenamento, processamento e número de usuários simultâneos. A equipe deverá monitorar tempo de carregamento, estabilidade, falhas, uso do banco de dados e volume de acessos para decidir quando migrar para planos superiores de hospedagem ou contratar serviços adicionais.
 
-## Avaliação e Controle
+Do ponto de vista humano, a capacidade inicial é limitada pela equipe de três integrantes. Isso significa que o desenvolvimento, o suporte e a criação de conteúdo precisarão seguir prioridades claras. A plataforma poderá crescer em número de usuários mais rapidamente do que a equipe consegue produzir novos módulos ou responder dúvidas; por isso, automações, FAQ, tutoriais e organização do backlog serão essenciais para sustentar a experiência do usuário.
 
-|                                                | **MÉTRICAS** | **FERRAMENTAS** | **FREQUÊNCIA** | **AÇÕES** |
-|------------------------------------------------|--------------|-----------------|----------------|-----------|
-| **Criação e manutenção do website**            |              |                 |                |           |
-| **Campanhas de publicidade on line**           |              |                 |                |           |
-| **Seo e Marketing de conteúdo**                |              |                 |                |           |
-| **Marketing de Influenciadores**               |              |                 |                |           |
-| **Parcerias com Lojas Varejos e Outros**       |              |                 |                |           |
-| **Campanhas de email Marketing**               |              |                 |                |           |
-| **Treinamentos da Equipe**                     |              |                 |                |           |
-| **Degustações em Lojas Parceiras e Eventos**   |              |                 |                |           |
-| **Promoções de Lançamentos de Novos Produtos** |              |                 |                |           |
-| **Ações em Datas Festivas**                    |              |                 |                |           |
+**Tabela 5.1 - Capacidade instalada inicial do PomoHistória**
 
-## Processos de Controle e Avaliação (Trimestral)
+| Recurso | Capacidade inicial planejada | Critério de ampliação |
+|---|---|---|
+| Usuários beta | 50 usuários em fase de teste fechado até setembro de 2026. | Ampliação após correção dos principais bugs e validação do onboarding. |
+| Usuários cadastrados | Aproximadamente 1.000 cadastros até abril de 2027. | Crescimento por conteúdo orgânico, parcerias, indicação e teste piloto de mídia paga. |
+| Usuários ativos mensais (MAU) | Meta de 500 usuários ativos mensais no primeiro ano. | Expansão conforme retenção, recorrência de uso e capacidade de suporte. |
+| Infraestrutura técnica | Hospedagem em nuvem de baixo custo, banco de dados online e versionamento em GitHub. | Migração para planos superiores quando houver aumento consistente de acessos, lentidão ou necessidade de maior segurança. |
+| Produção de conteúdo | Módulos iniciais de História Geral, quizzes básicos e primeiros conteúdos Premium de História do Brasil. | Contratação ou parceria com professor conteudista após receita recorrente ou captação. |
+| Atendimento e suporte | Suporte por e-mail, formulário ou WhatsApp Business, com prazos realistas para equipe reduzida. | Contratação de atendimento dedicado ou implantação de central de ajuda conforme aumento da base de usuários. |
 
-A cada trimestre, a equipe do PomoHistória realizará uma análise geral das ações desenvolvidas. Essa avaliação servirá para comparar os resultados obtidos com os objetivos planejados, permitindo entender se a empresa está avançando na direção correta ou se será necessário realizar mudanças nas estratégias.
+Portanto, a estrutura física e operacional do PomoHistória é coerente com um negócio digital em validação. A prioridade não é criar uma sede ou uma operação robusta logo no início, mas garantir que o MVP funcione, que os usuários consigam estudar com fluidez e que a equipe tenha dados suficientes para decidir os próximos investimentos.
 
-### Planejamento
+# 6. IMPLEMENTAÇÃO DO PLANO DE MARKETING
 
-No planejamento trimestral, serão definidas as metas principais do período, como aumento no número de usuários cadastrados, crescimento das redes sociais, maior acesso ao site e melhoria na conversão para o plano premium. Também serão organizadas as campanhas que serão realizadas, os conteúdos que serão publicados e as possíveis parcerias com escolas, cursinhos ou influenciadores educacionais.
+## 6.1. Avaliação e Controle
 
-### Monitoramento
+**Tabela 6.1 - Avaliação e controle do plano de marketing**
 
-O monitoramento será feito durante toda a execução das ações. A equipe acompanhará os dados das redes sociais, do site e da própria plataforma, observando o desempenho das campanhas e o comportamento dos usuários por meio de ferramentas como Google Analytics, Meta Business Suite, Instagram Insights, Facebook Insights e Google Search Console. Esse acompanhamento permitirá perceber rapidamente quais estratégias geram mais interesse e quais apresentam baixo retorno.
+| Ação controlada | Métricas | Ferramentas | Frequência | Ações corretivas |
+|---|---|---|---|---|
+| Landing page e website | Visitantes, taxa de conversão para cadastro, cliques em planos e tempo médio na página. | Google Analytics, Search Console, mapa de cliques ou ferramenta similar. | Semanal no lançamento; mensal após estabilização. | Ajustar chamada principal, provas sociais, formulários, velocidade da página e clareza dos planos. |
+| Cadastro e ativação do MVP | Usuários cadastrados, primeiro login, primeiro Pomodoro concluído e primeiro quiz respondido. | Eventos internos da plataforma, planilha de controle e painel de produto. | Semanal. | Simplificar onboarding, reduzir etapas, melhorar tutorial inicial e corrigir pontos de abandono. |
+| Redes sociais orgânicas | Alcance, impressões, curtidas, comentários, compartilhamentos, salvamentos e cliques no link. | Instagram Insights, TikTok Analytics, YouTube Studio e UTMs. | Semanal. | Reforçar formatos com melhor desempenho, testar horários, ajustar linguagem e priorizar conteúdos educativos. |
+| SEO e marketing de conteúdo | Visitas orgânicas, palavras-chave, tempo de leitura, páginas mais acessadas e cadastros originados do blog. | Search Console, Analytics e planilha editorial. | Mensal. | Atualizar títulos, melhorar artigos, criar conteúdos de busca sazonal e conectar posts à landing page. |
+| Tráfego pago piloto | CTR, custo por lead, custo por cadastro, criativos com maior resposta e taxa de conversão. | Google Ads, TikTok Ads, Instagram Ads e parâmetros UTM. | Durante os 2 meses de teste. | Pausar anúncios fracos, redistribuir verba, alterar criativos e manter orçamento limitado até validação. |
+| Influenciadores micro e nano | Cliques por link, cadastros por cupom, comentários, publicações geradas e conversões atribuídas. | UTM, cupons personalizados e relatório manual por parceiro. | Por campanha. | Priorizar perfis com maior engajamento real, revisar briefing e manter parcerias por permuta quando viável. |
+| E-mail marketing e automação | Taxa de abertura, CTR, respostas, usuários reativados e upgrades para Premium. | Mailchimp, Brevo ou ferramenta gratuita semelhante. | Quinzenal. | Melhorar assunto, segmentar usuários, revisar frequência e criar fluxos de boas-vindas e reengajamento. |
+| Comunidade e indicação | Membros ativos, mensagens úteis, participantes de desafios, convites enviados e cadastros por indicação. | Discord, WhatsApp, Telegram, links únicos e planilha de indicações. | Mensal. | Criar desafios mais simples, reconhecer usuários ativos e ajustar regras do programa de indicação. |
+| Parcerias B2B com escolas e cursinhos | Contatos realizados, reuniões, demonstrações, instituições parceiras e cadastros gerados por parceiro. | Planilha comercial, e-mail, apresentações e landing page de parceiros. | Mensal e trimestral. | Revisar abordagem comercial, melhorar material institucional e priorizar parceiros da Baixada Santista. |
+| Programa de bolsas | Inscrições, bolsas concedidas, uso efetivo da plataforma e relatos dos estudantes bolsistas. | Formulários, planilha de seleção e painel de uso. | Por edital e revisão trimestral. | Ajustar critérios de seleção, comunicação com escolas públicas e quantidade de bolsas conforme capacidade. |
 
-### Avaliação
+## 6.2. Processos de Controle e Avaliação (Trimestral)
 
-Na etapa de avaliação, os resultados serão comparados com as metas estabelecidas no planejamento. Caso o número de acessos, cadastros ou assinaturas esteja abaixo do esperado, a equipe analisará os motivos e buscará entender se o problema está na comunicação, no público-alvo, no conteúdo divulgado ou na experiência do usuário dentro da plataforma.
+O controle trimestral organizará as decisões do plano em ciclos curtos, permitindo que a equipe avalie avanços sem esperar o encerramento do ano. Cada trimestre terá metas compatíveis com a fase do produto e com o orçamento mínimo de MVP. Essa divisão ajuda a evitar cobranças incompatíveis com a maturidade da plataforma, como exigir grande volume de assinaturas antes de validar cadastro, ativação e retenção.
 
-### Ação Corretiva
+**Tabela 6.2 - Ciclos trimestrais de controle e avaliação**
 
-Quando forem encontrados problemas ou resultados abaixo do esperado, serão aplicadas ações corretivas. Essas ações podem envolver mudanças nas campanhas, melhoria dos conteúdos publicados, ajustes na linguagem usada nas redes sociais, revisão das promoções ou aprimoramento de funcionalidades da plataforma.
+| Período | Foco do trimestre | Entregas esperadas | Critério de avaliação |
+|---|---|---|---|
+| Maio a julho/2026 | Pré-lançamento e desenvolvimento inicial. | Requisitos definidos, protótipo funcional, primeiros módulos de História Geral e estrutura da landing page. | Verificar se a proposta está clara, se o protótipo é compreensível e se há interessados para lista beta. |
+| Agosto a outubro/2026 | Beta fechado e lançamento público do MVP. | Gamificação, trava pedagógica, 50 usuários beta, ajustes de onboarding e campanha Semana do Foco Histórico. | Analisar ativação, bugs, comentários dos beta testers, primeiros cadastros e desempenho do tráfego piloto. |
+| Novembro/2026 a janeiro/2027 | Retenção, conteúdo Premium e melhoria da experiência. | Módulos iniciais de História do Brasil, relatórios básicos, comunidade ativa e primeiros assinantes Premium. | Comparar usuários ativos, retorno à plataforma, conversão Premium, uso dos quizzes e satisfação inicial. |
+| Fevereiro a abril/2027 | Consolidação do primeiro ciclo e preparação para expansão controlada. | Meta aproximada de 1.000 cadastrados, 500 MAU, 25 a 50 assinantes pagos, 3 parcerias e relatório anual. | Decidir quais canais continuar, quais funcionalidades priorizar e quais metas revisar para o segundo ano. |
 
-### Comunicação Interna
+### 6.2.1. Planejamento
 
-A comunicação interna será realizada por meio de reuniões periódicas entre os integrantes da equipe. Nessas reuniões, serão discutidos os resultados das ações, as dificuldades encontradas e as próximas decisões do projeto. A organização das tarefas poderá ser feita com ferramentas como Trello, Google Drive ou GitHub Projects, garantindo que todos acompanhem o andamento das atividades.
+No planejamento trimestral, a equipe definirá metas específicas para produto, marketing, conteúdo e parcerias. Essas metas devem estar sempre conectadas aos objetivos do primeiro ano e ao estágio real do MVP. No início, o planejamento deve priorizar requisitos, protótipo, landing page, validação beta e clareza da proposta.
 
-## Relatórios e Ferramentas.
+Após o lançamento, o foco passa para ativação, retenção, conversão e satisfação. Cada ciclo deverá registrar responsáveis, prazos, entregáveis e indicadores. Diego ficará mais ligado às metas técnicas e de infraestrutura; Kauê acompanhará front-end, quizzes, gamificação e usabilidade; Gabrielle acompanhará conteúdo, identidade visual, campanhas, redes sociais, parcerias e atendimento inicial. Essa divisão facilita a cobrança interna sem perder a colaboração entre os integrantes.
 
-Os relatórios e ferramentas terão a função de reunir as informações mais importantes sobre o desempenho do plano de marketing. Eles ajudarão a equipe a tomar decisões com base em dados reais, evitando que as estratégias sejam definidas apenas por opinião ou tentativa.
+### 6.2.2. Monitoramento
 
-### Painel de Marketing
+O monitoramento será contínuo, mas com intensidade diferente conforme a fase. Durante lançamento, testes beta e campanhas sazonais, os indicadores deverão ser observados semanalmente. Em períodos de manutenção, uma análise mensal será suficiente para acompanhar tendências e evitar excesso de tempo gasto apenas em relatórios.
 
-O painel de marketing reunirá dados sobre acessos ao site, número de usuários cadastrados, origem dos visitantes, desempenho das campanhas, crescimento das redes sociais e conversões para o plano premium. Esse painel facilitará a visualização dos resultados e ajudará a identificar quais canais estão trazendo mais retorno para a marca.
+Os indicadores principais serão: visitantes da landing page, cadastros, taxa de ativação, usuários ativos mensais, ciclos Pomodoro concluídos, quizzes respondidos, taxa de acerto, retorno do usuário, conversão para Premium, churn, NPS, origem dos cadastros e desempenho das parcerias. Esses dados devem ser reunidos em painel simples, acessível aos três integrantes.
 
-### Relatórios de Desempenho
+### 6.2.3. Avaliação
 
-Os relatórios de desempenho serão elaborados mensalmente e analisados de forma mais completa a cada trimestre. Eles apresentarão um resumo das ações realizadas, os resultados alcançados, as dificuldades encontradas e as propostas de melhoria para o próximo período. Esses relatórios serão importantes para manter o controle do crescimento do PomoHistória.
+Na avaliação, os resultados obtidos serão comparados com as metas previstas. A análise não deve observar apenas números absolutos, mas também a qualidade do comportamento dos usuários. Por exemplo, uma campanha pode gerar muitos cadastros, mas poucos usuários ativos; nesse caso, o problema pode estar no público atraído, na promessa de comunicação ou no onboarding.
 
-### Feedback dos Clientes
+Também será necessário avaliar indicadores qualitativos, como dúvidas frequentes, reclamações, elogios, comentários sobre dificuldade de uso e sugestões de conteúdo. Essas informações ajudam a interpretar os dados quantitativos e orientam melhorias no produto, na comunicação e no suporte.
 
-O feedback dos usuários será utilizado como uma fonte importante de melhoria. Por meio de formulários, mensagens no suporte, comentários nas redes sociais e pesquisas de satisfação, a equipe poderá compreender melhor as necessidades dos estudantes. Essas informações ajudarão no aperfeiçoamento da interface, dos conteúdos de História, da gamificação e do atendimento ao usuário.
+### 6.2.4. Ação Corretiva
 
-### Reuniões de Revisão
+Quando os resultados ficarem abaixo do esperado, a equipe aplicará ações corretivas proporcionais ao problema identificado. Se a landing page tiver visitas, mas poucos cadastros, a correção poderá envolver mudança de título, formulário mais simples, prova social e demonstração mais clara da plataforma. Se houver muitos cadastros, mas baixa ativação, a prioridade será melhorar o onboarding e orientar o usuário até o primeiro Pomodoro e o primeiro quiz.
 
-As reuniões de revisão serão realizadas para discutir os relatórios, avaliar os resultados e definir os próximos passos. Nelas, a equipe poderá decidir quais campanhas devem continuar, quais precisam ser alteradas e quais novas ações podem ser colocadas em prática. Com esse acompanhamento constante, a implementação do plano de marketing do PomoHistória será mais organizada e alinhada aos objetivos da empresa.
+Se a conversão para Premium for baixa, será necessário revisar a percepção de valor do plano pago, os recursos exclusivos, a comunicação de preço e os gatilhos de oferta. Se a retenção for baixa, a equipe deverá analisar notificações, trilhas de estudo, dificuldade dos quizzes, progressão do personagem e frequência de contato por e-mail ou comunidade. As correções devem ser documentadas para que a equipe saiba o que foi testado e quais resultados foram obtidos.
 
-# ANEXOS
+### 6.2.5. Comunicação Interna
 
-## Foto do Produto escolhido inicialmente
+A comunicação interna será organizada por reuniões semanais rápidas e revisões quinzenais de sprint. As reuniões semanais servirão para acompanhar tarefas, remover impedimentos e alinhar prioridades. As revisões quinzenais devem avaliar entregas, bugs, conteúdos publicados, feedback dos usuários e próximos testes de marketing.
 
-## Foto do Produto Depois com sua Marca.
+As decisões relevantes devem ser registradas em ferramentas compartilhadas, como Trello, Notion ou GitHub Projects. Esse registro evita perda de informações e facilita a continuidade do projeto, principalmente porque os integrantes acumulam funções técnicas, criativas e administrativas.
+
+## 6.3. Relatórios e Ferramentas
+
+Os relatórios e ferramentas terão a função de transformar os dados de marketing e produto em decisões práticas. Como o PomoHistória está em fase inicial, os relatórios devem ser objetivos, com poucos indicadores realmente úteis, evitando excesso de métricas que não geram ação. A prioridade é acompanhar o funil completo: atração, cadastro, ativação, engajamento, conversão, retenção e satisfação.
+
+**Tabela 6.3 - Ferramentas de acompanhamento do plano de marketing**
+
+| Ferramenta | Finalidade | Uso principal |
+|---|---|---|
+| Google Analytics ou alternativa similar | Acompanhar acessos, origem dos visitantes, eventos de cadastro e comportamento na landing page. | Marketing e produto. |
+| Google Search Console | Monitorar desempenho orgânico, palavras-chave e problemas de indexação do blog e site. | SEO e conteúdo. |
+| Planilhas e Looker Studio | Consolidar métricas semanais e trimestrais em um painel simples de acompanhamento. | Controle gerencial. |
+| UTM e cupons personalizados | Identificar quais redes, campanhas, influenciadores e parceiros geram cadastros ou assinaturas. | Aquisição e parcerias. |
+| Trello, Notion ou GitHub Projects | Organizar backlog, tarefas, responsáveis, prazos, bugs e decisões de sprint. | Gestão interna. |
+| Formulários, NPS e canais de suporte | Coletar feedback, medir satisfação, registrar dúvidas e identificar oportunidades de melhoria. | Experiência do usuário. |
+
+### 6.3.1. Painel de Marketing
+
+O painel de marketing deverá reunir os principais indicadores do funil. No topo, devem aparecer usuários cadastrados, usuários ativos mensais, taxa de ativação, conversão para Premium, churn e receita recorrente. Em seguida, o painel deve mostrar origem dos usuários, desempenho das redes sociais, tráfego orgânico, resultados do tráfego pago piloto, cadastros por influenciador ou parceiro e evolução da comunidade.
+
+Esse painel não precisa ser complexo no primeiro ano. Uma planilha bem organizada, alimentada semanalmente, já é suficiente para orientar decisões. Caso o volume de dados aumente, a equipe poderá evoluir para um dashboard no Looker Studio ou ferramenta semelhante.
+
+### 6.3.2. Relatórios de Desempenho
+
+Os relatórios de desempenho serão elaborados mensalmente e consolidados a cada trimestre. O relatório mensal deve apresentar o que foi feito, quais canais foram usados, quanto foi investido, quais resultados foram alcançados e quais dificuldades apareceram. O relatório trimestral deve interpretar os dados com mais profundidade, indicando decisões para o próximo período.
+
+Para manter coerência com o orçamento enxuto, o relatório também deverá acompanhar custos. A equipe deve comparar investimento em anúncios, tempo dedicado às ações, número de cadastros gerados e conversões obtidas. Essa análise evitará que o projeto dependa de mídia paga antes de comprovar retenção e valor percebido.
+
+### 6.3.3. Feedback dos Clientes
+
+O feedback dos usuários será uma fonte central para melhorar o PomoHistória. No beta fechado, a equipe deverá coletar comentários sobre clareza da interface, facilidade de iniciar um ciclo Pomodoro, entendimento dos quizzes, motivação gerada pelo personagem e percepção de valor do Premium.
+
+Após o lançamento, o feedback deverá continuar por formulários, suporte, comunidade e pesquisas rápidas dentro da plataforma.
+
+As respostas devem ser classificadas por tema: problema técnico, dúvida de uso, sugestão de conteúdo, sugestão de gamificação, dificuldade de preço, elogio ou reclamação. Essa classificação permitirá transformar comentários soltos em backlog de melhoria.
+
+### 6.3.4. Reuniões de Revisão
+
+As reuniões de revisão serão realizadas para discutir relatórios, avaliar resultados e definir próximos passos. A reunião semanal deverá ser curta e operacional, voltada a tarefas imediatas. A reunião trimestral deverá ser mais analítica, comparando metas, indicadores, custos, feedback dos usuários e prioridades do próximo ciclo.
+
+Ao final de cada revisão trimestral, a equipe deverá registrar decisões sobre continuidade ou interrupção de campanhas, melhorias do produto, ajustes de conteúdo, mudanças na comunicação, novas parcerias e eventuais revisões de metas. Dessa forma, o capítulo de implementação deixa de ser apenas descritivo e passa a funcionar como instrumento prático de gestão do plano de marketing.
+
+# 7. ANEXOS
+
+## 7.1. Foto do Produto escolhido inicialmente
+
+## 7.2. Foto do Produto Depois com sua Marca
