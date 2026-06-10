@@ -1407,7 +1407,7 @@ Conforme a plataforma gerar receita, validar retenção e estabelecer parcerias,
 
 ### 4.3.7. Imagem do Organograma Detalhado da Empresa
 
-![Organograma detalhado da empresa](plano-marketing_pdf_atualizado_media/page49_image1.jpg)
+![Organograma detalhado da empresa](plano-marketing_atualizado_media/media/image1.png)
 
 # 5. ESTRUTURA FÍSICA DA EMPRESA
 
