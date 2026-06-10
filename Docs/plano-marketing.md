@@ -22,396 +22,473 @@
 >
 > Santos, junho/2026
 
-## Sumário
+**Sumário**
 
-[1. SUMÁRIO EXECUTIVO 6](#sumário-executivo)
-> [1.1. Desenvolvimento do Produto 6](#desenvolvimento-do-produto)
->
-> [1.2. Criação e Consolidação da Marca 7](#criação-e-consolidação-da-marca)
->
-> [1.2.1. Objetivo do Plano De Marketing 8](#objetivo-do-plano-de-marketing)
->
-> [1.2.2. Estratégias de Produto 8](#estratégias-de-produto)
->
-> [1.2.3. Estratégias de Preço 8](#estratégias-de-preço)
->
-> [1.2.4. Estratégias de Promoção 9](#estratégias-de-promoção)
->
-> [1.2.5. Estratégias de Praças 10](#estratégias-de-praças)
->
-> [1.2.6. Estratégias de Pessoas 10](#estratégias-de-pessoas)
->
-> [1.2.7. Estratégias de Processos 10](#estratégias-de-processos)
->
-> [1.2.8. Estratégias de Evidências Físicas 11](#estratégias-de-evidências-físicas)
->
-> [1.2.9. Visão de Futuro 11](#visão-de-futuro)
->
-> [1.3. Proponente 11](#proponente)
+[***1. SUMÁRIO EXECUTIVO 6***](#sumário-executivo)
 
-[2. EMPREENDEDOR 12](#empreendedor)
-> [2.1. Perfil do Empreendedor 12](#perfil-do-empreendedor)
+> [***1.1. Desenvolvimento do Produto 6***](#desenvolvimento-do-produto)
+>
+> [***1.2. Criação e Consolidação da Marca 7***](#criação-e-consolidação-da-marca)
+>
+> [**1.2.1. Objetivo do Plano De Marketing 8**](#objetivo-do-plano-de-marketing)
+>
+> [**1.2.2. Estratégias de Produto 8**](#estratégias-de-produto)
+>
+> [**1.2.3. Estratégias de Preço 8**](#estratégias-de-preço)
+>
+> [**1.2.4. Estratégias de Promoção 9**](#estratégias-de-promoção)
+>
+> [**1.2.5. Estratégias de Praças 10**](#estratégias-de-praças)
+>
+> [**1.2.6. Estratégias de Pessoas 10**](#estratégias-de-pessoas)
+>
+> [**1.2.7. Estratégias de Processos 10**](#estratégias-de-processos)
+>
+> [**1.2.8. Estratégias de Evidências Físicas 11**](#estratégias-de-evidências-físicas)
+>
+> [**1.2.9. Visão de Futuro 11**](#visão-de-futuro)
+>
+> [***1.3. Proponente 11***](#proponente)
 
-[3. EMPREENDIMENTO 13](#empreendimento)
-> [3.1. PomoHistória 13](#pomohistória)
->
-> [3.2. Características do Negócio 13](#características-do-negócio)
->
-> [3.3. Situação Atual 14](#situação-atual)
->
-> [3.4. Plano de Aprimoramento 15](#plano-de-aprimoramento)
->
-> [3.4.1. Objetivos: 15](#objetivos)
->
-> [3.4.2. Estratégias: 15](#estratégias)
->
-> [3.4.3. Plano de Ação: 15](#plano-de-ação)
->
-> [3.4.4. Controle e Avaliação: 21](#controle-e-avaliação)
->
-> [3.5. Análise de Ambiente 21](#análise-de-ambiente)
->
-> [3.5.1. Fatores Econômicos 21](#fatores-econômicos)
->
-> [3.5.2. Fatores Socioculturais 21](#fatores-socioculturais)
->
-> [3.5.3. Fatores Políticos/Legais 22](#fatores-políticoslegais)
->
-> [3.5.4. Fatores Tecnológicos 22](#fatores-tecnológicos)
->
-> [3.5.5. Concorrência 22](#concorrência)
->
-> [3.5.6. Fatores Internos 23](#fatores-internos)
->
-> [3.6. Definição do Público-Alvo 24](#definição-do-público-alvo)
->
-> [3.6.1. Pessoas Físicas 24](#pessoas-físicas)
->
-> [3.6.2. Pessoas Jurídicas 25](#pessoas-jurídicas)
->
-> [3.7. Posicionamento no mercado 25](#posicionamento-no-mercado)
->
-> [3.7.1. Imagem Empresarial que desejamos 25](#imagem-empresarial-que-desejamos)
->
-> [3.7.2. Posicionamento Estratégico da Marca no Mercado 26](#posicionamento-estratégico-da-marca-no-mercado)
->
-> [3.8. Definição da Marca 28](#definição-da-marca)
->
-> [3.8.1. Logotipo da empresa 28](#logotipo-da-empresa)
->
-> [3.8.2. Slogan 28](#slogan)
->
-> [3.8.3. Posicionamento Online 28](#posicionamento-online)
->
-> [3.9. Definições de Objetivos e Metas (Período De Maio/2026 a Abril/2027) 29](#definições-de-objetivos-e-metas-período-de-maio2026-a-abril2027)
->
-> [3.9.1. Objetivos 29](#objetivos-1)
->
-> [3.10. Definição das estratégias de marketing 30](#definição-das-estratégias-de-marketing)
->
-> [3.10.1. Investimentos e suas possíveis fontes 30](#investimentos-e-suas-possíveis-fontes)
->
-> [3.10.2. Fatores para a montagem da estratégia de marketing 32](#fatores-para-a-montagem-da-estratégia-de-marketing)
->
-> [3.11. PRODUTO 33](#produto)
->
-> [3.11.1. Ciclo de Vida Do Produto - Fase Atual 33](#ciclo-de-vida-do-produto---fase-atual)
->
-> [3.11.2. Ações a partir da fase atual 33](#ações-a-partir-da-fase-atual)
->
-> [3.11.3. Estratégias de Crescimento 34](#estratégias-de-crescimento)
->
-> [3.11.4. Oportunidades de Crescimento Visualizadas 34](#oportunidades-de-crescimento-visualizadas)
->
-> [3.12. PREÇO 35](#preço)
->
-> [3.12.1. Estratégias a serem Adotadas pela Empresa. 35](#estratégias-a-serem-adotadas-pela-empresa.)
->
-> [3.12.2. Diversificação de Preços na Diversidade dos Produtos 35](#diversificação-de-preços-na-diversidade-dos-produtos)
->
-> [3.12.3. Preço Baseado Nos Valores Percebidos Aos Produtos Especiais 35](#preço-baseado-nos-valores-percebidos-aos-produtos-especiais)
->
-> [3.12.4. Estratégia De Preços Acessíveis Aos Produtos Tradicionais 35](#estratégia-de-preços-acessíveis-aos-produtos-tradicionais)
->
-> [3.12.5. Ajuste de Preços por Segmento 36](#ajuste-de-preços-por-segmento)
->
-> [3.12.6. Estrutura de Preços Dinâmico 36](#estrutura-de-preços-dinâmico)
->
-> [3.12.7. Preços com Relação aos Custos 36](#preços-com-relação-aos-custos)
->
-> [3.12.8. Estratégia de Pacotes Combinados de Vendas. 36](#estratégia-de-pacotes-combinados-de-vendas.)
->
-> [3.12.9. Fidelização do Cliente. 36](#fidelização-do-cliente.)
->
-> [3.12.10. Preço para Adentrar no Mercado 36](#preço-para-adentrar-no-mercado)
->
-> [3.12.11. Transparência nos Preços 36](#transparência-nos-preços)
->
-> [3.13. PRAÇA 36](#praça)
->
-> [3.13.1. Estratégias de Praça 36](#estratégias-de-praça)
->
-> [3.13.2. Diversificação dos Pontos de Venda 36](#diversificação-dos-pontos-de-venda)
->
-> [3.13.3. Parcerias com Serviços de Entrega 36](#parcerias-com-serviços-de-entrega)
->
-> [3.13.4. Degustações e Experiências Sensoriais 37](#degustações-e-experiências-sensoriais)
->
-> [3.13.5. Amostras Grátis em Eventos 37](#amostras-grátis-em-eventos)
->
-> [3.13.6. Canais de Venda Direta 37](#canais-de-venda-direta)
->
-> [3.13.7. Plataforma de Multi Canais 37](#plataforma-de-multi-canais)
->
-> [3.13.8. Distribuição Seletiva 37](#distribuição-seletiva)
->
-> [3.13.9. Expansão Mercadológica 37](#expansão-mercadológica)
->
-> [3.13.10. Distribuição Inteligente 37](#distribuição-inteligente)
->
-> [3.13.11. Experiência de Compra Personalizada 37](#experiência-de-compra-personalizada)
->
-> [3.14. PROMOÇÃO 37](#promoção)
->
-> [3.14.1. Estratégias de Promoções a serem Praticadas 37](#estratégias-de-promoções-a-serem-praticadas)
->
-> [3.14.2. Campanhas Publicitárias 37](#campanhas-publicitárias)
->
-> [3.14.3. Participação em Eventos 38](#participação-em-eventos)
->
-> [3.14.4. Parcerias com Influenciadores Digitais 38](#parcerias-com-influenciadores-digitais)
->
-> [3.14.5. Promoções Especiais De Lançamento 38](#promoções-especiais-de-lançamento)
->
-> [3.14.6. Publicidade Online e Offline 38](#publicidade-online-e-offline)
->
-> [3.14.7. Vendas Diretas e Telemarketing 38](#vendas-diretas-e-telemarketing)
->
-> [3.14.8. Marketing Direto 38](#marketing-direto)
->
-> [3.14.9. Segmentação de Comunicação 38](#segmentação-de-comunicação)
->
-> [3.14.10. Integração de Marketing Digital e Tradicional 38](#integração-de-marketing-digital-e-tradicional)
->
-> [3.14.11. Campanhas de Aquisição 38](#campanhas-de-aquisição)
->
-> [3.14.12. Campanhas de Monetização 38](#campanhas-de-monetização)
->
-> [3.14.13. Campanhas de Fidelização 39](#campanhas-de-fidelização)
->
-> [3.15. PESSOAS 39](#pessoas)
->
-> [3.15.1. Estratégias Voltadas aos Funcionários 39](#estratégias-voltadas-aos-funcionários)
->
-> [3.15.2. Recrutamento 39](#recrutamento)
->
-> [3.15.3. Treinamento 39](#treinamento)
->
-> [3.15.4. Código De Conduta 39](#código-de-conduta)
->
-> [3.15.5. Comunicação Interna 39](#comunicação-interna)
->
-> [3.15.6. Avaliação e Remuneração 40](#avaliação-e-remuneração)
->
-> [3.15.7. Desenvolvimento de Conhecimento 40](#desenvolvimento-de-conhecimento)
->
-> [3.16. PROCESSOS 40](#processos)
->
-> [3.16.1. Estratégias para os Processos da Empresa 40](#estratégias-para-os-processos-da-empresa)
->
-> [3.16.2. Adoção de Normas de Qualidade e Segurança. 40](#adoção-de-normas-de-qualidade-e-segurança.)
->
-> [3.16.3. Atenção aos Detalhes e Qualidade. 40](#atenção-aos-detalhes-e-qualidade.)
->
-> [3.16.4. Seleção Cuidadosa de Fornecedores e Parceiros. 40](#seleção-cuidadosa-de-fornecedores-e-parceiros.)
->
-> [3.16.5. Sistema de Entrega Eficiente e Confiável. 41](#sistema-de-entrega-eficiente-e-confiável.)
->
-> [3.16.6. Experiência do Cliente no Uso do Produto. 41](#experiência-do-cliente-no-uso-do-produto.)
->
-> [3.16.7. Garantia de Qualidade e Satisfação. 41](#garantia-de-qualidade-e-satisfação.)
->
-> [3.16.8. Práticas Ambientais Responsáveis. 41](#práticas-ambientais-responsáveis.)
->
-> [3.17. Evidências Físicas 41](#evidências-físicas)
->
-> [3.17.1. Estratégias voltadas ao ambiente 41](#estratégias-voltadas-ao-ambiente)
+[***2. EMPREENDEDOR 12***](#empreendedor)
 
-[4. ESTRUTURA ADMINISTRATIVA DA EMPRESA. 42](#estrutura-administrativa-da-empresa.)
-> [4.1. Constituição Jurídica 42](#constituição-jurídica)
->
-> [4.1.1. Constituição Jurídica 42](#constituição-jurídica-1)
->
-> [4.1.2. Regime Tributário 42](#regime-tributário)
->
-> [4.1.3. Responsabilidade Social e Ambiental 42](#responsabilidade-social-e-ambiental)
->
-> [4.2. Estrutura Organizacional da Empresa 42](#estrutura-organizacional-da-empresa)
->
-> [4.2.1. Equipe Gerencial 42](#equipe-gerencial)
->
-> [4.3. Organograma da Empresa Detalhado: 43](#organograma-da-empresa-detalhado)
->
-> [4.3.1. Diretoria Executiva: 43](#diretoria-executiva)
->
-> [4.3.2. Departamento de Marketing e Vendas: 43](#departamento-de-marketing-e-vendas)
->
-> [4.3.3. Departamento Administrativo e Financeiro: 43](#departamento-administrativo-e-financeiro)
->
-> [4.3.4. Departamento de Recursos Humanos: 43](#departamento-de-recursos-humanos)
->
-> [4.3.5. Departamento de Logística e Distribuição: 43](#departamento-de-logística-e-distribuição)
->
-> [4.3.6. Departamento de Pesquisa e Desenvolvimento: 43](#departamento-de-pesquisa-e-desenvolvimento)
->
-> [4.3.7. Departamento de Qualidade e Segurança Alimentar: 44](#departamento-de-qualidade-e-segurança-alimentar)
->
-> [4.3.8. Imagem do Organograma Detalhado da Empresa. 44](#imagem-do-organograma-detalhado-da-empresa.)
+> [***2.1. Perfil do Empreendedor 12***](#perfil-do-empreendedor)
 
-[5. ESTRUTURA FÍSICA DA EMPRESA 44](#estrutura-física-da-empresa)
-> [5.1. Layout: 44](#layout)
->
-> [5.2. Capacidade Instalada 44](#capacidade-instalada)
->
-> [5.3. Infraestrutura 44](#infraestrutura)
->
-> [5.4. Imagem da Planta Baixa da Empresa 44](#imagem-da-planta-baixa-da-empresa)
+[***3. EMPREENDIMENTO 13***](#empreendimento)
 
-[6. IMPLEMENTAÇÃO DO PLANO DE MARKETING 45](#implementação-do-plano-de-marketing)
-> [6.1. Avaliação e Controle 45](#avaliação-e-controle)
+> [***3.1. PomoHistória 13***](#pomohistória)
 >
-> [6.2. Processos de Controle e Avaliação (Trimestral) 45](#processos-de-controle-e-avaliação-trimestral)
+> [***3.2. Características do Negócio 13***](#características-do-negócio)
 >
-> [6.2.1. Planejamento 46](#planejamento)
+> [***3.3. Situação Atual 14***](#situação-atual)
 >
-> [6.2.2. Monitoramento 46](#monitoramento)
+> [***3.4. Plano de Aprimoramento 14***](#plano-de-aprimoramento)
 >
-> [6.2.3. Avaliação 46](#avaliação)
+> [**3.4.1. Objetivos: 15**](#objetivos)
 >
-> [6.2.4. Ação Corretiva 46](#ação-corretiva)
+> [**3.4.2. Estratégias: 15**](#estratégias)
 >
-> [6.2.5. Comunicação Interna 46](#comunicação-interna-1)
+> [**3.4.3. Plano de Ação: 15**](#plano-de-ação)
 >
-> [6.3. Relatórios e Ferramentas. 46](#relatórios-e-ferramentas.)
+> [**3.4.4. Controle e Avaliação: 21**](#controle-e-avaliação)
 >
-> [6.3.1. Painel de Marketing. 46](#painel-de-marketing.)
+> [***3.5. Análise de Ambiente 21***](#análise-de-ambiente)
 >
-> [6.3.2. Relatórios de Desempenho. 46](#relatórios-de-desempenho.)
+> [**3.5.1. Fatores Econômicos 21**](#fatores-econômicos)
 >
-> [6.3.3. Feedback dos Clientes. 46](#feedback-dos-clientes.)
+> [**3.5.2. Fatores Socioculturais 22**](#fatores-socioculturais)
 >
-> [6.3.4. Reuniões de Revisão. 46](#reuniões-de-revisão.)
+> [**3.5.3. Fatores Políticos/Legais 22**](#fatores-políticoslegais)
+>
+> [**3.5.4. Fatores Tecnológicos 23**](#fatores-tecnológicos)
+>
+> [**3.5.5. Concorrência 23**](#concorrência)
+>
+> [**3.5.6. Fatores Internos 23**](#fatores-internos)
+>
+> [***3.6. Definição do Público-Alvo 24***](#definição-do-público-alvo)
+>
+> [**3.6.1. Pessoas Físicas 24**](#pessoas-físicas)
+>
+> [**3.6.2. Pessoas Jurídicas 25**](#pessoas-jurídicas)
+>
+> [***3.7. Posicionamento no mercado 26***](#posicionamento-no-mercado)
+>
+> [**3.7.1. Imagem Empresarial que desejamos 26**](#imagem-empresarial-que-desejamos)
+>
+> [**3.7.2. Posicionamento Estratégico da Marca no Mercado 27**](#_yjw3du6m7pvu)
+>
+> [***3.8. Definição da Marca 28***](#_1bbdjrmhuc54)
+>
+> [**3.8.1. Logotipo da empresa 28**](#_6t8sce5vos6v)
+>
+> [**3.8.2. Slogan 29**](#_qo9zg64uejzm)
+>
+> [**3.8.3. Posicionamento Online 29**](#_xquwls95m1up)
+>
+> [***3.9. Definições de Objetivos e Metas (Período De Maio/2026 a Abril/2027) 29***](#_ei0da7yk2ary)
+>
+> [**3.9.1. Objetivos 29**](#_65z8u5v4l0xd)
+>
+> [***3.10. Definição das estratégias de marketing 31***](#_ungvw6nr7o8)
+>
+> [**3.10.1. Investimentos e suas possíveis fontes 31**](#_98tcafh5uygp)
+>
+> [**3.10.2. Fatores para a montagem da estratégia de marketing 33**](#_z9klkeaceyta)
+>
+> [***3.11. PRODUTO 34***](#_i5jxjbxqa5vh)
+>
+> [**3.11.1. Ciclo de Vida Do Produto - Fase Atual 34**](#_cl36t2g53cil)
+>
+> [**3.11.2. Ações a partir da fase atual 34**](#_snxdsaejr9vm)
+>
+> [**3.11.3. Estratégias de Crescimento 35**](#_fmh7a4b5guym)
+>
+> [**3.11.4. Oportunidades de Crescimento Visualizadas 35**](#_1bo1zx6hmg2u)
+>
+> [***3.12. PREÇO 36***](#_hzw79c1jcran)
+>
+> [**3.12.1. Estratégias a serem Adotadas pela Empresa. 36**](#_2qtxmbbhlbj5)
+>
+> [**3.12.2. Diversificação de Preços na Diversidade dos Produtos 36**](#_2nujrzkwfrjw)
+>
+> [**3.12.3. Preço Baseado Nos Valores Percebidos Aos Produtos Especiais 36**](#_hubpvyz97kaf)
+>
+> [**3.12.4. Estratégia De Preços Acessíveis Aos Produtos Tradicionais 36**](#_ctx97ztk4xrr)
+>
+> [**3.12.5. Ajuste de Preços por Segmento 36**](#_xj2fvtjpxbh5)
+>
+> [**3.12.6. Estrutura de Preços Dinâmico 36**](#_k0xtei84iims)
+>
+> [**3.12.7. Preços com Relação aos Custos 37**](#_l91qo9ckx84c)
+>
+> [**3.12.8. Estratégia de Pacotes Combinados de Vendas. 37**](#_kks4p3yjybra)
+>
+> [**3.12.9. Fidelização do Cliente. 37**](#_yrdwn2sebfsw)
+>
+> [**3.12.10. Preço para Adentrar no Mercado 37**](#_idtje2tum8ra)
+>
+> [**3.12.11. Transparência nos Preços 37**](#_9wb6vi9sxpr7)
+>
+> [***3.13. PRAÇA 37***](#_put7k88m70ah)
+>
+> [**3.13.1. Estratégias de Praça 37**](#_dn2mwp8bfiok)
+>
+> [**3.13.2. Diversificação dos Pontos de Venda 37**](#_awppf9gieu6q)
+>
+> [**3.13.3. Parcerias com Serviços de Entrega 37**](#_nfs13xw8wqvp)
+>
+> [**3.13.4. Degustações e Experiências Sensoriais 37**](#_7qceee9j6lvd)
+>
+> [**3.13.5. Amostras Grátis em Eventos 38**](#_4ethvujtkrkg)
+>
+> [**3.13.6. Canais de Venda Direta 38**](#_7oggihjxg00u)
+>
+> [**3.13.7. Plataforma de Multi Canais 38**](#_idutmpqgrr3)
+>
+> [**3.13.8. Distribuição Seletiva 38**](#_r1e29yypktfa)
+>
+> [**3.13.9. Expansão Mercadológica 38**](#_2ufwcymrsd6d)
+>
+> [**3.13.10. Distribuição Inteligente 38**](#_xup910whq66m)
+>
+> [**3.13.11. Experiência de Compra Personalizada 38**](#_jlep4i4xkoqo)
+>
+> [***3.14. PROMOÇÃO 38***](#_14exnduwnujb)
+>
+> [**3.14.1. Estratégias de Promoções a serem Praticadas 38**](#_4s2fdfay1zwh)
+>
+> [**3.14.2. Campanhas Publicitárias 38**](#_u3p091gracf2)
+>
+> [**3.14.3. Participação em Eventos 38**](#_wyswpcmrq57n)
+>
+> [**3.14.4. Parcerias com Influenciadores Digitais 39**](#_icgywabunyhx)
+>
+> [**3.14.5. Promoções Especiais De Lançamento 39**](#_lgcr0aivhg3k)
+>
+> [**3.14.6. Publicidade Online e Offline 39**](#_7ezsk6tqylpc)
+>
+> [**3.14.7. Vendas Diretas e Telemarketing 39**](#_f3hg17k9znot)
+>
+> [**3.14.8. Marketing Direto 39**](#_uu5y91apqz6q)
+>
+> [**3.14.9. Segmentação de Comunicação 39**](#_ouy63e8dy44m)
+>
+> [**3.14.10. Integração de Marketing Digital e Tradicional 39**](#_a6ozrjwb6liu)
+>
+> [**3.14.11. Campanhas de Aquisição 39**](#_l9gipnagcu87)
+>
+> [**3.14.12. Campanhas de Monetização 39**](#_yuxzp2uw56e6)
+>
+> [**3.14.13. Campanhas de Fidelização 39**](#_tmtw15ood0ww)
+>
+> [***3.15. PESSOAS 40***](#_o9sv2smw6byj)
+>
+> [**3.15.1. Estratégias Voltadas aos Funcionários  
+> As estratégias voltadas à equipe buscam garantir um ambiente colaborativo, produtivo e alinhado aos objetivos da empresa. 40**](#_y7zft1vblq1l)
+>
+> [**3.15.2. Recrutamento 40**](#_lloeavv9jt3)
+>
+> [**3.15.3. Treinamento 40**](#_zft58sj3750b)
+>
+> [**3.15.4. Código De Conduta 40**](#_g2lwk4okno66)
+>
+> [**3.15.5. Comunicação Interna 40**](#_uwgu5pyu3xkl)
+>
+> [**3.15.6. Avaliação e Remuneração 40**](#_8asmu3xj96p6)
+>
+> [**3.15.7. Desenvolvimento de Conhecimento 41**](#_1uc3498a1vtq)
+>
+> [***3.16. PROCESSOS 41***](#_o070h3pzqu18)
+>
+> [**3.16.1. Estratégias para os Processos da Empresa 41**](#_9z2hpss7z2gf)
+>
+> [**3.16.2. Adoção de Normas de Qualidade e Segurança. 41**](#_tlxhs4pfhn4b)
+>
+> [**3.16.3. Atenção aos Detalhes e Qualidade. 41**](#_wsx08iyx2bkk)
+>
+> [**3.16.4. Seleção Cuidadosa de Fornecedores e Parceiros. 41**](#_1efh7ndmg1qb)
+>
+> [**3.16.5. Sistema de Entrega Eficiente e Confiável. 41**](#_ylc03c5am51n)
+>
+> [**3.16.6. Experiência do Cliente no Uso do Produto. 42**](#_29lrwgqsqkue)
+>
+> [**3.16.7. Garantia de Qualidade e Satisfação. 42**](#_2bef5qk83ivg)
+>
+> [**● Política de reembolso integral nos primeiros 7 dias de assinatura; 42**](#)
+>
+> [**● Suporte humano com tempo de resposta menos de 2 horas para premium, menos de 24 horas para gratuíto; 42**](#)
+>
+> [**● Pesquisa de satisfação pós-resolução. 42**](#)
+>
+> [**3.16.8. Práticas Ambientais Responsáveis. 42**](#_kso62lv86u5g)
+>
+> [**● Compensação de carbono dos servidores via parceria com programa de reflorestamento; 42**](#)
+>
+> [**● Uso de energia renovável na infraestrutura; 42**](#)
+>
+> [**● Política de trabalho remoto (redução de deslocamento). 42**](#)
+>
+> [***3.17. Evidências Físicas 42***](#_5reqgnvxxbvu)
+>
+> [**3.17.1. Estratégias voltadas ao ambiente 42**](#_o758zepc4bt7)
 
-[7. ANEXOS 46](#anexos)
-> [7.1. Foto do Produto escolhido inicialmente 46](#foto-do-produto-escolhido-inicialmente)
->
-> [7.2. Foto do Produto Depois com sua Marca. 46](#foto-do-produto-depois-com-sua-marca.)
+[***4. ESTRUTURA ADMINISTRATIVA DA EMPRESA. 43***](#estrutura-administrativa-da-empresa.)
 
----
+> [**4.1. Constituição Jurídica 43**](#constituição-jurídica)
+>
+> [**4.1.1. Natureza do Projeto 43**](#natureza-do-projeto)
+>
+> [**4.1.2. Regime Tributário 43**](#regime-tributário)
+>
+> [**4.1.3. Responsabilidade Social e Ambiental 43**](#responsabilidade-social-e-ambiental)
+>
+> [***4.2. Estrutura Organizacional da Empresa 44***](#estrutura-organizacional-da-empresa)
+>
+> [**4.2.1. Equipe Gerencial 44**](#equipe-gerencial)
+>
+> [***4.3. Organograma da Empresa Detalhado: 45***](#organograma-da-empresa-detalhado)
+>
+> [**4.3.1. Diretoria Executiva: 45**](#diretoria-executiva)
+>
+> [**4.3.2. Núcleo de Desenvolvimento de Software 45**](#núcleo-de-desenvolvimento-de-software)
+>
+> [**4.3.3. Núcleo de Design e Experiência do Usuário (UX/UI) 45**](#núcleo-de-design-e-experiência-do-usuário-uxui)
+>
+> [**4.3.4. Núcleo de Conteúdo e Pedagogia 45**](#núcleo-de-conteúdo-e-pedagogia)
+>
+> [**4.3.5. Núcleo de Marketing e Comunicação 45**](#núcleo-de-marketing-e-comunicação)
+>
+> [**4.3.6. Núcleo de Suporte e Relacionamento com Usuários 46**](#núcleo-de-suporte-e-relacionamento-com-usuários)
+>
+> [**4.3.7. Imagem do Organograma Detalhado da Empresa. 46**](#imagem-do-organograma-detalhado-da-empresa.)
+
+[***5. ESTRUTURA FÍSICA DA EMPRESA 46***](#estrutura-física-da-empresa)
+
+> [***5.1. Layout: 46***](#layout)
+>
+> [***5.2. Capacidade Instalada 47***](#capacidade-instalada)
+
+[***6. IMPLEMENTAÇÃO DO PLANO DE MARKETING 47***](#implementação-do-plano-de-marketing)
+
+> [***6.1. Avaliação e Controle 47***](#avaliação-e-controle)
+>
+> [***6.2. Processos de Controle e Avaliação (Trimestral) 48***](#processos-de-controle-e-avaliação-trimestral)
+>
+> [**6.2.1. Planejamento 48**](#planejamento)
+>
+> [**6.2.2. Monitoramento 48**](#monitoramento)
+>
+> [**6.2.3. Avaliação 48**](#avaliação)
+>
+> [**6.2.4. Ação Corretiva 48**](#ação-corretiva)
+>
+> [**6.2.5. Comunicação Interna 48**](#comunicação-interna-1)
+>
+> [***6.3. Relatórios e Ferramentas. 48***](#relatórios-e-ferramentas.)
+>
+> [**6.3.1. Painel de Marketing. 48**](#painel-de-marketing.-o-painel-de-marketing-reunirá-dados-sobre-acessos-ao-site-número-de-usuários-cadastrados-origem-dos-visitantes-desempenho-das-campanhas-crescimento-das-redes-sociais-e-conversões-para-o-plano-premium.-esse-painel-facilitará-a-visualização-dos-resultados-e-ajudará-a-identificar-quais-canais-estão-trazendo-mais-retorno-para-a-marca.)
+>
+> [**6.3.2. Relatórios de Desempenho. 48**](#relatórios-de-desempenho.-os-relatórios-de-desempenho-serão-elaborados-mensalmente-e-analisados-de-forma-mais-completa-a-cada-trimestre.-eles-apresentarão-um-resumo-das-ações-realizadas-os-resultados-alcançados-as-dificuldades-encontradas-e-as-propostas-de-melhoria-para-o-próximo-período.-esses-relatórios-serão-importantes-para-manter-o-controle-do-crescimento-do-pomohistória.)
+>
+> [**6.3.3. Feedback dos Clientes. 48**](#feedback-dos-clientes.-o-feedback-dos-usuários-será-utilizado-como-uma-fonte-importante-de-melhoria.-por-meio-de-formulários-mensagens-no-suporte-comentários-nas-redes-sociais-e-pesquisas-de-satisfação-a-equipe-poderá-compreender-melhor-as-necessidades-dos-estudantes.-essas-informações-ajudarão-no-aperfeiçoamento-da-interface-dos-conteúdos-de-história-da-gamificação-e-do-atendimento-ao-usuário.)
+>
+> [**6.3.4. Reuniões de Revisão. 48**](#reuniões-de-revisão.-as-reuniões-de-revisão-serão-realizadas-para-discutir-os-relatórios-avaliar-os-resultados-e-definir-os-próximos-passos.-nelas-a-equipe-poderá-decidir-quais-campanhas-devem-continuar-quais-precisam-ser-alteradas-e-quais-novas-ações-podem-ser-colocadas-em-prática.-com-esse-acompanhamento-constante-a-implementação-do-plano-de-marketing-do-pomohistória-será-mais-organizada-e-alinhada-aos-objetivos-da-empresa.)
+
+[***7. ANEXOS 49***](#anexos)
+
+> [***7.1. Foto do Produto escolhido inicialmente 49***](#foto-do-produto-escolhido-inicialmente)
+>
+> [***7.2. Foto do Produto Depois com sua Marca. 49***](#foto-do-produto-depois-com-sua-marca.)
 
 # SUMÁRIO EXECUTIVO
 
-A premissa central do PomoHistória é resolver as dores dos estudantes que têm dificuldade de manter a constância nos estudos diante do volume denso de conteúdos de História Geral e do Brasil exigidos pelos vestibulares. Através de uma interface responsiva e intuitiva, o PomoHistória oferece um ambiente unificado onde o gerenciamento de tempo com a técnica de estudo pomodoro e o vasto banco de questões, são o motor que impulsiona o progresso acadêmico do usuário.
+A premissa central do PomoHistória é resolver uma dor objetiva dos estudantes que se preparam para vestibulares: a dificuldade de manter constância nos estudos diante do volume extenso de conteúdos de História Geral e História do Brasil. A proposta da plataforma é reunir, em um único ambiente digital, a técnica Pomodoro, módulos organizados de conteúdo, quizzes de revisão, trava pedagógica e gamificação visual, criando uma experiência de estudo mais estruturada, menos dispersiva e mais mensurável para o usuário.
 
-A análise de mercado indica que a maioria das ferramentas de produtividade atuais, como o *Focus To-Do* ou o *Forest*, são consideradas "vazias" do ponto de vista pedagógico, pois não oferecem o material de estudo integrado à mecânica de tempo. O PomoHistória preenche essa lacuna por ser uma EdTech que entrega conteúdo curricular com base nos principais vestibulares, avaliações contínuas e um sistema de recompensas visuais de gameficação baseado na evolução de um personagem virtual, pensado para atrair o público e também para estimular o usuário a continuar estudando, garantindo que o tempo investido pelo aluno se transforme em retenção de conhecimento mensurável.
+A análise de mercado indica que ferramentas de produtividade como Focus To-Do, Forest, Trello, Anki e temporizadores Pomodoro tradicionais ajudam no controle do tempo, mas não entregam, de forma integrada, conteúdo pedagógico específico de História. Por outro lado, plataformas educacionais amplas costumam oferecer aulas e materiais, mas nem sempre estimulam a disciplina diária do estudante por meio de mecânicas de foco e recompensas. O PomoHistória ocupa essa lacuna ao unir produtividade, aprendizagem e gamificação em uma aplicação web responsiva, acessível pelo navegador e pensada inicialmente para vestibulandos da Baixada Santista e do estado de São Paulo.
+
+O diferencial estratégico está na combinação entre gestão de tempo, banco de questões, evolução visual do personagem e controle mínimo de aprendizagem por aproveitamento. O usuário não apenas estuda por blocos de tempo, mas também responde a questões, visualiza seu progresso e recebe estímulos para manter a rotina.
 
 ## Desenvolvimento do Produto
 
-O desenvolvimento do PomoHistória na inovação contínua manifesta-se na integração nativa entre o temporizador digital e o banco de dados de questões de História do Brasil e História Geral dos principais vestibulares. Diferente de cronômetros genéricos, o PomoHistória utiliza o ciclos personalizáveis de foco profundo para preparar o cérebro do usuário para o momento da avaliação. O mecanismo de "trava pedagógica", que exige um aproveitamento mínimo de 70% nos questionários para a progressão temática, é o diferencial técnico que assegura a qualidade da aprendizagem e evita o avanço superficial nos módulos.
+O desenvolvimento do PomoHistória será orientado pela criação de um MVP funcional, capaz de validar a proposta principal antes de investimentos maiores em mídia paga, equipe externa ou expansão nacional. A primeira versão da aplicação deverá contemplar as funcionalidades essenciais: temporizador Pomodoro, cadastro de usuários, primeiros módulos de História Geral, quizzes básicos, sistema inicial de evolução do personagem e trava pedagógica de 70% de aproveitamento para progressão temática.
 
-O sistema de progressão contará com o personagem que irá acompanhar o usuário até o fim dos estudos e, a cada módulo completo, ele estará caracterizado com a época da história que está sendo estudada, porém o mesmo irá regredir se o usuário ficar muito tempo sem usar a aplicação.
+Diferente de cronômetros genéricos, o PomoHistória não tratará o tempo de estudo como uma atividade isolada. Cada ciclo de foco será conectado a uma trilha de aprendizagem, permitindo que o estudante conclua uma sessão de Pomodoro e, em seguida, responda às questões relacionadas ao tema estudado. Essa integração transforma o tempo dedicado em ação pedagógica mensurável, pois o progresso do usuário poderá ser acompanhado por acertos, frequência de uso, evolução do personagem e relatórios de desempenho.
 
-As campanhas de comunicação do produto serão ancoradas na comprovação científica dos benefícios da segmentação temporal. Literaturas estudadas para o projeto demonstram que a alternância entre blocos de trabalho focado e intervalos breves pode reduzir a fadiga mental em até 20% e aumentar o foco autorrelatado em até 25%. Ao transformar esses dados técnicos em narrativas de marketing, o PomoHistória posiciona-se não apenas como um software, mas como um aliado para o sucesso do vestibulando.
+O mecanismo de trava pedagógica, que exige aproveitamento mínimo de 70% nos questionários para a liberação de novos módulos, funciona como garantia de entrega de valor educacional. Ele evita que o estudante avance superficialmente pelos conteúdos e reforça a ideia de aprendizagem progressiva. Caso o usuário não atinja o percentual necessário, a plataforma deverá sugerir revisão do conteúdo, novo ciclo Pomodoro e tentativa posterior, ressignificando o erro como parte do processo de aprendizagem.
 
-| **Atributo de Produto** | **Funcionalidade Técnica** | **Impacto Estratégico de Marketing** |
-|------------------------|----------------------------|--------------------------------------|
-| **Temporizador Pomodoro** | Ciclos de 25 minutos de foco e 5 minutos de descanso programáveis | Autoridade em produtividade científica |
-| **Gamificação Visual** | Personagem que evolui com as questões que o estudante acerta | Retenção de usuários por motivação extrínseca |
-| **Questionários de História** | Banco de dados com questões de história de vestibulares | Diferenciação competitiva em relação a apps genéricos |
-| **Trava Pedagógica** | Exigência de 70% de acerto para progredir | Garantia de entrega de valor educacional real |
-| **Responsividade Web** | Framework adaptável a múltiplos dispositivos | Baixo custo de aquisição e alta acessibilidade |
+A gamificação será representada por um personagem virtual que acompanha o aluno ao longo da jornada. Esse personagem evolui conforme o usuário conclui ciclos, acerta questões e avança por períodos históricos. Em contrapartida, a falta de constância pode gerar regressão visual, reforçando o hábito de estudo sem recorrer a punições excessivas. Na comunicação de marketing, esse elemento será tratado como um ativo central da marca, pois torna o progresso visível e compartilhável.
+
+As campanhas de comunicação devem respeitar a etapa de desenvolvimento. Antes do lançamento oficial, a prioridade será a criação de landing page de espera, captação de e-mails, divulgação de bastidores do protótipo e formação de uma lista de early adopters. Após os testes beta, os aprendizados obtidos com os usuários serão utilizados para ajustar mensagens, funcionalidades e argumentos de venda.
+
+**Tabela 1 - Atributos do produto e impacto estratégico de marketing**
+
+| **Atributo de Produto**  | **Funcionalidade Técnica**                                                                                                               | **Impacto Estratégico de Marketing**                                                                                      |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Temporizador Pomodoro    | Ciclos programáveis de foco e descanso, inicialmente configurados no padrão 25 minutos de estudo e 5 minutos de pausa.                   | Associação direta com produtividade, disciplina e rotina de estudos, facilitando campanhas educativas sobre foco.         |
+| Módulos de História      | Conteúdos organizados por temas de História Geral e História do Brasil, com prioridade inicial para tópicos recorrentes em vestibulares. | Diferenciação frente a aplicativos genéricos, pois o tempo de estudo é conectado a conteúdo pedagógico específico.        |
+| Questionários de Revisão | Banco de questões com quizzes básicos no MVP e expansão gradual para questões avançadas, comentadas e segmentadas por vestibular.        | Geração de valor percebido, pois o aluno consegue verificar desempenho e identificar lacunas de aprendizagem.             |
+| Trava Pedagógica         | Exigência de 70% de aproveitamento para progressão nos módulos, com recomendação de revisão quando o índice não for atingido.            | Reforça a promessa de aprendizagem real, evitando que o usuário avance apenas por concluir etapas sem dominar o conteúdo. |
+| Gamificação Visual       | Personagem evolutivo relacionado aos períodos históricos estudados, com progressão por desempenho e constância.                          | Aumento de retenção e engajamento emocional, tornando o progresso visível, motivador e compartilhável.                    |
 
 ## Criação e Consolidação da Marca
 
-A marca PomoHistória foi concebida para ser um símbolo de foco e consistência acadêmica. O nome sintetiza a união entre a técnica pomodoro (que consiste em timers 25 minutos de foco profundo e descansos curtos de 5 minutos durante o estudo) e a disciplina de História, criando uma identidade verbal clara e de fácil memorização para o público-alvo. A consolidação da marca no mercado de EdTech brasileiro depende da percepção de que o aplicativo é o caminho mais curto e prazeroso entre o esforço do estudo e a aprovação no vestibular.
+A marca PomoHistória foi concebida para representar foco, constância e evolução acadêmica. O nome sintetiza a união entre a técnica Pomodoro e a disciplina de História, criando uma identidade verbal clara, memorável e diretamente relacionada à proposta de valor. A marca não deve ser apresentada apenas como um aplicativo de cronômetro, mas como uma ferramenta de estudo orientada por tempo, conteúdo e progresso.
 
-O propósito da marca é transformar as dores do período de vestibular em uma jornada de conquistas diárias. Ao associar o crescimento do personagem virtual à absorção de períodos históricos, a marca ressignifica o erro como parte do processo de evolução, fortalecendo o vínculo emocional com o estudante. A identidade visual utiliza cores e formas que equilibram a seriedade do ensino com a modernidade dos jogos digitais, criando um ambiente multissensorial que estimula o engajamento prolongado.
+A consolidação da marca dependerá da capacidade de provar, na prática, que o PomoHistória ajuda o estudante a organizar sua rotina e revisar História com maior frequência. Por isso, a comunicação inicial precisa se apoiar em validação, testes com usuários beta e resultados de uso, como número de ciclos concluídos, evolução em quizzes e depoimentos sobre melhora na constância. Essa abordagem é mais coerente do que utilizar, desde o início, promessas de aprovação em vestibulares sem base de dados suficiente.
 
-Os "ingredientes" que compõem o DNA da marca incluem a expertise pedagógica em História, a precisão da engenharia de software e a psicologia comportamental aplicada à produtividade. O compromisso com a atualização constante dos módulos frente às mudanças nas grades curriculares dos principais vestibulares (como FUVEST e ENEM) serve como um ingrediente vital para a manutenção da relevância e da autoridade da marca no longo prazo.
+O propósito da marca é transformar a preparação para vestibulares em uma jornada de conquistas diárias. Ao associar o crescimento do personagem virtual à absorção de períodos históricos, o PomoHistória ressignifica a rotina de estudo e torna a evolução mais concreta. O erro deixa de ser comunicado como fracasso e passa a ser interpretado como sinal de revisão, tentativa e aprendizado contínuo.
+
+Os elementos que compõem o DNA da marca são a precisão tecnológica, a organização pedagógica, a psicologia comportamental aplicada à produtividade e uma linguagem jovem, porém responsável. Visualmente, a marca deve equilibrar seriedade educacional e estética gamificada, utilizando elementos que remetam ao Pomodoro, à História e ao universo de jogos digitais sem perder credibilidade acadêmica.
+
+Na fase inicial, a consolidação ocorrerá principalmente no ambiente digital, com presença em landing page, Instagram, TikTok, YouTube, Discord e conteúdos de blog voltados a SEO. Em paralelo, a marca buscará legitimidade regional por meio de parcerias com cursinhos e escolas da Baixada Santista, utilizando a proximidade com a FATEC Rubens Lara como ponto de origem e credibilidade institucional.
 
 ### Objetivo do Plano De Marketing
 
-O objetivo primordial deste plano de marketing é posicionar o PomoHistória como uma solução em gerenciamento de tempo para vestibulandos, com foco em temas de História do Brasil e História Geral que aparecem em vestibulares. A meta é captar a atenção de vestibulandos que buscam eficiência e foco e que atualmente sofrem com a dispersão causada por métodos de estudo analógicos ou ferramentas digitais desconexas.
+O objetivo central deste plano de marketing é posicionar o PomoHistória como uma solução digital de estudo para vestibulandos que desejam melhorar sua constância, foco e desempenho em História por meio da técnica Pomodoro, de quizzes e de gamificação. O plano deve orientar o lançamento do MVP, a validação do produto com usuários reais e a construção gradual de base de usuários, evitando metas incompatíveis com a fase inicial do empreendimento.
 
-A estratégia geral envolve a criação de um funil de marketing orientado por conteúdo, onde a autoridade acadêmica dos proponentes Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima seja utilizada para validar a eficácia da aplicação. O plano busca não apenas a adesão em massa, mas a fidelização através da entrega de resultados: alunos que utilizam o PomoHistória devem apresentar um aumento perceptível em seu desempenho simulado e na constância de sua rotina de estudos.
+Para o primeiro ciclo, compreendido entre maio de 2026 e abril de 2027, a estratégia será dividida em três momentos: pré-lançamento, lançamento e validação pós-lançamento. No pré-lançamento, a prioridade será captar interessados e testar a aceitação da proposta. No lançamento, o foco será apresentar o MVP ao público e gerar os primeiros cadastros. No pós-lançamento, o objetivo será acompanhar retenção, conversão para Premium, satisfação do usuário e adequação das funcionalidades.
+
+As metas para o primeiro ano são: validar o MVP com pelo menos 50 usuários beta, alcançar aproximadamente 1000 usuários cadastrados, atingir 500 usuários ativos mensais, converter entre 5% e 10% da base ativa mais engajada para o plano Premium e estabelecer parcerias iniciais com 3 cursinhos ou instituições educacionais. Essas metas são mais coerentes com uma operação enxuta e com orçamento inicial limitado, mantendo a possibilidade de crescimento sem comprometer a credibilidade do plano.
+
+A estratégia geral envolve um funil de marketing orientado por conteúdo, comunidade e experimentação. A autoridade acadêmica dos proponentes Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima será utilizada como elemento de confiança, mas a prova principal da marca deverá vir do uso da plataforma, dos dados de engajamento e dos relatos de usuários beta.
 
 ### Estratégias de Produto
 
-A excelência do produto PomoHistória reside na sua autenticidade pedagógica. Cada questão presente nos questionários é selecionada para refletir o nível de complexidade dos exames reais, garantindo que a "qualidade" prometida no marketing seja entregue na prática. A variedade de conteúdos abrange desde a Pré-História até a Idade Contemporânea e também História Nacional, desde o Descobrimento do Brasil até temas mais recentes, permitindo que o usuário tenha uma cobertura holística do currículo exigido, sem a necessidade de buscar fontes externas de avaliação.
+A estratégia de produto do PomoHistória será estruturada a partir de uma lógica de MVP evolutivo. A primeira versão deve entregar o núcleo da proposta: foco com Pomodoro, estudo de História, quizzes e evolução visual. Funcionalidades mais robustas, como relatórios avançados, trilhas personalizadas, integração com escolas e expansão para outras disciplinas, deverão ser implementadas somente após a validação do uso recorrente e da aceitação da proposta pelo público.
 
-O design do produto foca na "Experiência de Onboarding Perfeita", conduzindo o novo usuário em menos de três minutos desde o cadastro até o início de seu primeiro ciclo Pomodoro focado. A implementação de uma interface responsiva e "convidativa" visualmente garante que o produto seja percebido como uma ferramenta moderna e onipresente, adequada ao estilo de vida dinâmico do estudante, sendo pensada para o uso tanto em computadores quanto em dispositivos móveis, permitindo flexibilidade.
+O conteúdo pedagógico será organizado em módulos progressivos, com temas de História Geral disponíveis inicialmente em formato introdutório e História do Brasil expandida no plano Premium. Essa divisão reforça a lógica freemium: o estudante consegue experimentar a ferramenta gratuitamente, mas encontra valor adicional na assinatura ao buscar aprofundamento, feedback detalhado e acompanhamento de desempenho.
+
+Cada questão inserida na plataforma deverá refletir o nível de complexidade esperado em vestibulares e exames como ENEM, FUVEST e demais processos seletivos relevantes para o público-alvo. Na fase inicial, recomenda-se que o conteúdo seja revisado por professor de História voluntário ou parceiro, evitando erros conceituais e fortalecendo a credibilidade da ferramenta.
+
+A experiência de onboarding será um componente estratégico do produto. O usuário deve sair do cadastro para o primeiro ciclo Pomodoro em menos de três minutos, entendendo rapidamente como estudar, responder questões e acompanhar a evolução do personagem. Quanto menor a fricção inicial, maior a chance de ativação e retenção.
+
+Além disso, a interface responsiva será essencial para a distribuição. Como o público jovem alterna entre celular, computador escolar, notebook pessoal e dispositivos compartilhados, a aplicação precisa ser simples, leve e acessível. A meta operacional é manter tempo de carregamento reduzido, navegação intuitiva e compatibilidade com diferentes tamanhos de tela.
 
 ### Estratégias de Preço
 
-A estratégia de precificação do PomoHistória é pautada pela competitividade e acessibilidade, reconhecendo a sensibilidade financeira do público jovem brasileiro. O modelo de negócio adotado é o *Freemium*, estruturado da seguinte forma:
+A estratégia de precificação do PomoHistória será baseada em acessibilidade, recorrência e percepção clara de valor. Como o público principal é composto por jovens vestibulandos, muitos deles dependentes financeiramente dos pais ou responsáveis, o preço precisa reduzir barreiras de entrada sem inviabilizar a manutenção da plataforma.
 
-- **Nível Gratuito**: Acesso ilimitado ao temporizador Pomodoro, aos módulos de História Geral e aos estágios de evolução do personagem virtual. Serve como o principal motor de aquisição e experimentação.
+O modelo adotado será Freemium. O plano gratuito funcionará como motor de aquisição, permitindo que o estudante teste a proposta, crie rotina e perceba valor antes de assinar. O plano Premium será direcionado aos usuários que desejam aprofundamento, acompanhamento mais completo e recursos adicionais para preparação intensiva.
 
-- **Nível Premium (Assinatura)**: Acesso à biblioteca completa de módulos de História do Brasil, questionários avançados com feedback detalhado, personalização exclusiva do personagem e relatórios de desempenho analíticos para monitoramento de longo prazo.
+- Nível Gratuito: acesso ao temporizador Pomodoro, módulos introdutórios de História Geral, quizzes básicos, evolução inicial do personagem e participação em campanhas ou desafios gratuitos.
 
-| **Modelo de Preço** | **Público-Alvo** | **Justificativa Estratégica** |
-|---------------------|------------------|-------------------------------|
-| **Freemium (Grátis)** | Estudantes em fase de descoberta | Redução de barreiras de entrada e crescimento viral |
-| **Assinatura Mensal (R$ 19,90)** | Vestibulandos de alta performance | Receita recorrente para atualização de conteúdos |
-| **Planos Semestrais (R$69,90)** | Alunos em cursinhos pré-vestibular | Alinhamento com o ciclo acadêmico natural |
-| **Assinatura Anual (R$ 149,00)** | Estudantes em preparação contínua | Maior retenção de usuários e fidelização de longo prazo. |
-| **Cupons de Desconto** | Parcerias com influenciadores | Estímulo à conversão rápida e monitoramento de CAC |
+- Nível Premium: acesso à biblioteca completa de História do Brasil, módulos avançados de História Geral, questionários com feedback detalhado, relatórios de desempenho, personalização do personagem e recursos adicionais de acompanhamento.
 
-Esta diversificação de preços permite que a empresa mantenha uma margem de lucro saudável enquanto garante que o produto permaneça acessível para a base da pirâmide de estudantes, utilizando o alto volume de usuários gratuitos para gerar autoridade e prova social.
+A precificação foi padronizada para eliminar divergências entre as partes do plano. O valor semestral adotado será R$69,90, mantendo coerência com a proposta de acessibilidade e com o ciclo de preparação de vestibulandos. O plano anual de R$149,00 será oferecido como alternativa de maior fidelização, com economia em relação à mensalidade avulsa.
+
+**Tabela 2 - Modelo de preços**
+
+| **Modelo de Preço**           | **Público-Alvo**                                                                                    | **Justificativa Estratégica**                                                                                                           |
+|-------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Freemium (Grátis)             | Estudantes em fase de descoberta, vestibulandos que ainda não conhecem a marca e usuários beta.     | Reduz a barreira de entrada, permite experimentação do produto e amplia a base para ações de remarketing, comunidade e indicação.       |
+| Assinatura Mensal (R$ 19,90) | Vestibulandos que desejam testar o Premium sem compromisso de longo prazo.                          | Gera receita recorrente inicial, facilita a conversão após o uso gratuito e permite cancelamento simples, reduzindo objeções de compra. |
+| Plano Semestral (R$ 69,90)   | Alunos de ensino médio, cursinhos e estudantes com preparação concentrada em um semestre letivo.    | Alinha o pagamento ao ciclo acadêmico, oferece desconto em relação ao plano mensal e favorece maior retenção.                           |
+| Assinatura Anual (R$ 149,00) | Estudantes em preparação contínua, treineiros e usuários que desejam acompanhamento de longo prazo. | Aumenta a previsibilidade de receita, reduz churn e estimula fidelização com melhor custo-benefício.                                    |
+| Cupons de Desconto            | Usuários vindos de influenciadores, cursinhos parceiros, webinars e campanhas sazonais.             | Estimula conversão rápida, permite mensurar canais por UTM e apoia testes de CAC sem comprometer a política de preços.                  |
+
+Para fortalecer a confiança do consumidor, a política comercial deverá incluir transparência nos valores, ausência de taxas ocultas, possibilidade de cancelamento simplificado e reembolso nos primeiros 7 dias de assinatura. Essa comunicação reduz inseguranças comuns em serviços digitais por assinatura e melhora a percepção ética da marca.
 
 ### Estratégias de Promoção
 
-As estratégias de promoção serão executadas sob uma lógica "Omnichannel", integrando esforços digitais e parcerias estratégicas. O foco principal recairá sobre o TikTok e o Instagram, plataformas onde o engajamento visual com conteúdos de "studygram" é massivo. Campanhas publicitárias serão segmentadas para atingir nichos específicos de interesse, como alunos que buscam por "História para o ENEM" e "métodos de estudo".
-
-Parcerias com influenciadores de educação (Edutubers) serão fundamentais para a promoção da confiança na marca. Através de "reviews" da ferramenta e demonstrações reais de uso durante sessões de "Study with Me", o PomoHistória será inserido organicamente na rotina do público-alvo. Feiras de profissões em faculdades servirão como pontos de contato físico para realizar demonstrações ao vivo do sistema.
-
-Também será fornecida uma demonstração gratuita para os interessados em assinar o plano Premium, onde o usuário ganhará acesso temporário a cosméticos para personalizar seu personagem como quiser, incentivando a compra do premium após o período de teste.
+| **Estratégia**                               | **Descrição**                                                                                                                                                                                | **Canais**                                                         | **Periodicidade**                                                                           | **Métrica de Sucesso**                                                                                                                      |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Marketing de Conteúdo Educacional            | Produção de conteúdos sobre Técnica Pomodoro, História para vestibular, organização de estudos e uso do PomoHistória. O foco será educar o público e gerar autoridade antes da venda direta. | Blog, YouTube, TikTok, Instagram                                   | 2 artigos por semana no blog, 1 vídeo semanal no YouTube e 3 Reels/TikToks por semana.      | Tráfego orgânico inicial entre 500 e 800 visitas/mês após o lançamento; tempo médio de leitura acima de 2 minutos.                          |
+| Campanhas em Redes Sociais (Orgânico)        | Publicações curtas mostrando evolução do personagem, bastidores do MVP, curiosidades históricas, desafios de 25 minutos e dicas de estudo.                                                   | TikTok e Instagram (Feed, Stories e Reels)                         | 1 publicação por dia durante lançamento e 3 a 5 publicações semanais na fase de manutenção. | Alcance de 2 mil a 5 mil impressões/mês após o lançamento; taxa de engajamento superior a 6%.                                               |
+| Tráfego Pago Piloto                          | Anúncios segmentados para validar criativos, palavras-chave e públicos. O investimento será limitado e ocorrerá somente após página de captura e MVP minimamente funcional.                  | Google Ads, TikTok Ads e Instagram Ads                             | Teste concentrado em 2 meses, com orçamento total inicial de R$ 400,00.                    | CTR (*Click Through Rate*) acima de 2%; custo por lead qualificado inferior a R$ 15,00; identificação dos criativos com melhor desempenho. |
+| Parcerias com Influenciadores (Micro e Nano) | Envio de acesso Premium vitalício para perfis de estudo, vestibular e História, priorizando criadores com comunidade engajada e linguagem próxima do público.                                | Instagram, TikTok e YouTube                                        | Ações pontuais durante pré-lançamento e lançamento, com 5 a 10 microinfluenciadores.        | Ao menos 5 publicações ou stories gerados; tráfego rastreado por UTM ( *Urchin Tracking Module*); primeiras conversões atribuídas ao canal. |
+| Programa de Indicação                        | Usuário que convidar 3 amigos ganha 1 mês de Premium. O objetivo é estimular crescimento orgânico sem depender de mídia paga constante.                                                      | E-mail, WhatsApp, redes sociais e painel do usuário                | Lançamento a partir do 3º mês após o MVP público.                                           | Número de indicações por usuário ativo; taxa de cadastro por link; crescimento orgânico da base.                                            |
+| E-mail Marketing e Automação                 | Fluxos de boas-vindas, tutorial de uso, lembretes de estudo e ofertas de upgrade para usuários com maior engajamento.                                                                        | Mailchimp, Brevo ou ferramenta gratuita integrada à landing page   | Automático, com gatilhos de cadastro, inatividade e conclusão de ciclos.                    | Taxa de abertura acima de 35%; CTR acima de 4%; conversão por e-mail entre 1% e 2%.                                                         |
+| Eventos e Webinars                           | Realização de encontros online sobre como estudar História com Pomodoro, além de demonstrações do produto para usuários beta e cursinhos parceiros.                                          | YouTube Live, Google Meet e eventos de cursinhos                   | Semana do Foco Histórico no lançamento e 1 webinar mensal após validação.                   | 50 participantes por webinar; conversão mínima de 20% dos inscritos em cadastros na plataforma.                                             |
+| Promoções Sazonais e Descontos               | Ofertas alinhadas aos períodos de maior busca por estudo, como pré-ENEM, inscrições de vestibulares, início de semestre e Black Friday.                                                      | Landing page, e-mail, redes sociais e influenciadores parceiros    | Campanhas em maio, setembro, novembro e início do ano letivo.                               | Aumento de cadastros e assinaturas no período; acompanhamento de ticket médio e conversão por cupom.                                        |
+| Comunidade e Gamificação Social              | Criação gradual de comunidade para troca de dicas, desafios de estudo e acompanhamento coletivo, sem tornar rankings obrigatórios ou punitivos.                                              | Discord, WhatsApp e Telegram                                       | Início com grupo beta; expansão após lançamento público.                                    | 150 membros ativos em 6 meses; maior retenção entre usuários participantes da comunidade.                                                   |
+| Programa de Afiliados B2B                    | Parcerias com cursinhos e escolas para indicação da ferramenta, com possibilidade futura de comissão ou plano institucional.                                                                 | E-mail comercial, reuniões presenciais e landing page de parceiros | Prospecção a partir do lançamento e consolidação no 2º semestre de operação.                | 3 cursinhos ou instituições parceiras no primeiro ano; geração de cadastros por canal institucional.                                        |
+| Prova Social e Cases de Uso                  | Coleta de depoimentos de usuários beta sobre rotina de estudo, constância, clareza da interface e evolução em simulados, sem prometer aprovação antes de dados reais.                        | Site, Instagram, YouTube e páginas de venda                        | Coleta contínua com consolidação trimestral.                                                | NPS (*Net Promoter Score*) inicial acima de 50; depoimentos publicados; aumento de conversão em páginas com prova social.                   |
+| Campanha de Bolsas (Sustentabilidade Social) | Concessão inicial de bolsas Premium para estudantes de baixa renda de escolas públicas, aproveitando o baixo custo marginal do produto digital.                                              | Site, redes sociais, e-mail para escolas parceiras e ONGs          | Primeiro edital piloto no início do ano letivo ou antes do ENEM.                            | 50 bolsas no primeiro ano; expansão gradual conforme crescimento da receita e capacidade operacional.                                       |
 
 ### Estratégias de Praças
 
-A "praça" principal do PomoHistória é o ambiente virtual, acessível via navegador em qualquer dispositivo conectado à internet. No entanto, a estratégia de distribuição seletiva envolve parcerias com plataformas de gestão escolar e cursinhos para vestibulandos da Baixada Santista, onde o PomoHistória pode ser sugerido como uma ferramenta para o estudo da matéria de história para as turmas.
+A praça principal do PomoHistória é o ambiente digital. A plataforma será disponibilizada como aplicação web responsiva, acessível por navegador, o que reduz barreiras de instalação e permite uso em diferentes dispositivos. A distribuição, portanto, não depende de pontos físicos de venda ou serviços de entrega, mas de canais digitais de aquisição, acesso estável à plataforma e parcerias educacionais.
 
-Em seguida, a expansão da atuação ocorrerá na praça de São Paulo capital, priorizando escolas particulares, cursinhos pré-vestibulares e instituições de ensino que possuam foco na preparação para ENEM e vestibulares de alta concorrência. Nessa etapa, o PomoHistória buscará fortalecer sua presença em um mercado educacional mais amplo e competitivo, ampliando o reconhecimento da plataforma e consolidando parcerias estratégicas.
+Na fase inicial, a presença digital será estruturada por meio de landing page, blog, redes sociais, e-mail marketing e comunidade. Esses canais serão responsáveis por atrair usuários, explicar a proposta, demonstrar o MVP, converter cadastros e manter relacionamento. O site deve apresentar demonstração do produto, planos, perguntas frequentes, política de privacidade, depoimentos e conteúdos educativos.
+
+A distribuição seletiva ocorrerá por parcerias com cursinhos, escolas e projetos educacionais da Baixada Santista, especialmente em Santos, São Vicente, Guarujá e Praia Grande. Nesses ambientes, o PomoHistória poderá ser apresentado como ferramenta complementar para o estudo de História, com demonstrações gratuitas, testes beta e cupons de acesso Premium.
+
+A expansão geográfica será dividida em fases. Em 2026 e 2027, a prioridade será validar o produto na Baixada Santista e nos canais digitais do estado de São Paulo. Em 2027, a atuação poderá ser ampliada para São Paulo capital e interior, priorizando cursinhos e escolas com foco em ENEM e vestibulares de alta concorrência. A expansão nacional deverá ser tratada como objetivo posterior, a partir de 2028 ou 2029, quando houver maior base de usuários, dados de retenção e estrutura operacional.
 
 ### Estratégias de Pessoas
 
-A estratégia de pessoas envolve a formação de uma equipe multidisciplinar que une professores de história e pesquisadores da área para maior precisão na escolha dos conteúdos; desenvolvedores responsáveis pela criação e manutenção da plataforma e banco de dados e um profissional designer de interfaces UI/UX para o desenvolvimento de uma aplicação com navegação navegação intuitiva e acessível.
+A estratégia de pessoas precisa refletir a realidade operacional da empresa. Na fase inicial, o PomoHistória será conduzido pelos três proponentes: Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima. A equipe combinará competências de desenvolvimento, front-end, back-end, banco de dados, design, conteúdo, marketing digital e atendimento ao usuário.
 
-A equipe de suporte ao cliente será treinada para atuar não apenas como resolvedores de problemas técnicos, mas como "mentores de produtividade", oferecendo dicas de como extrair o melhor proveito da Técnica Pomodoro. O treinamento contínuo dos colaboradores garante que o código do sistema e o conteúdo didático sigam os mais altos padrões de qualidade e segurança digital.
+Diego atuará com maior foco em arquitetura, back-end, banco de dados, infraestrutura e integração de pagamentos. Kauê terá atuação voltada ao front-end, lógica de gamificação, implementação dos quizzes, testes de usabilidade e integração da experiência do usuário. Gabrielle ficará responsável por design de interface, identidade visual, criação de conteúdo, redes sociais, parcerias e relacionamento com usuários.
+
+A formação de uma equipe multidisciplinar com professores de História, pesquisadores, designer UI/UX dedicado e suporte especializado é uma meta de crescimento, não uma estrutura já disponível no início. Para o MVP, o apoio externo deverá ocorrer de forma pontual, com professor voluntário para revisão dos conteúdos e eventual colaboração de designer parceiro em ajustes visuais.
+
+O atendimento ao usuário será tratado como parte da experiência de marca. Entretanto, para manter coerência com a equipe reduzida, o SLA (Service Level Agreement) inicial deverá ser realista: resposta em até 24 horas úteis para usuários Premium, até 48 horas úteis para usuários gratuitos e até 12 horas úteis para parceiros B2B em fase de teste. Como objetivo futuro, suporte em menos de 2 horas, após contratação ou estruturação de atendimento dedicado.
+
+A cultura interna deverá valorizar aprendizado contínuo, agilidade, transparência e foco no usuário. Reuniões semanais, uso de Kanban, retrospectivas quinzenais e análise de feedback serão práticas essenciais para manter alinhamento entre produto, marketing e conteúdo pedagógico.
 
 ### Estratégias de Processos
 
-A eficiência dos processos internos do PomoHistória garante uma entrega de valor consistente ao usuário final. Desde a modelagem inicial via UML até as rotinas de back-end descritas na monografia, cada etapa é projetada para reduzir o erro humano e maximizar a performance do sistema. O processo de avaliação de conhecimento é automatizado, fornecendo resultados instantâneos que permitem ao estudante identificar suas fraquezas sem perda de tempo.
+Os processos internos do PomoHistória devem garantir consistência entre desenvolvimento, conteúdo, atendimento e marketing. Desde a modelagem inicial, com wireframes, análise de requisitos, diagrama de casos de uso e fluxos de eventos, cada etapa precisa ser documentada para reduzir retrabalho e facilitar a evolução do MVP.
 
-O suporte pós-venda segue um fluxo de trabalho otimizado, onde o feedback do usuário é coletado através de canais diretos (como WhatsApp Business e e-mail) e integrado imediatamente ao ciclo de desenvolvimento do produto. Esta agilidade processual permite que o PomoHistória se adapte rapidamente a mudanças nas exigências dos exames ou a falhas de usabilidade detectadas pela comunidade.
+O desenvolvimento será conduzido com metodologia ágil, em ciclos curtos de planejamento, execução, teste e revisão. As funcionalidades prioritárias serão validadas com usuários beta antes de serem comunicadas como recursos definitivos. Esse processo reduz o risco de investir em funcionalidades pouco úteis e aumenta a aderência do produto às necessidades reais dos vestibulandos.
+
+No conteúdo pedagógico, o processo deve incluir seleção de temas, elaboração de questões, revisão por fonte confiável ou professor parceiro, cadastro no sistema, testes de funcionamento e monitoramento de desempenho. Caso muitos usuários errem determinada questão, a equipe deverá avaliar se o problema está no conteúdo, na formulação ou na ausência de material explicativo suficiente.
+
+O suporte pós-venda seguirá fluxo simples e rastreável: recebimento da dúvida por WhatsApp Business, e-mail ou formulário; classificação do problema; resposta ao usuário; registro do feedback; e encaminhamento para melhoria de produto, quando necessário. Reclamações recorrentes devem alimentar o backlog de desenvolvimento e as pautas de conteúdo educativo.
+
+Também serão adotados processos básicos de segurança e conformidade, incluindo política de privacidade, consentimento para uso de dados, proteção de informações de login e atenção à Lei Geral de Proteção de Dados (LGPD). Como o produto trabalha com dados de estudo e possíveis usuários menores de idade, a comunicação deve ser clara, responsável e transparente.
 
 ### Estratégias de Evidências Físicas
 
-Em um serviço intangível como um aplicativo web, as evidências físicas são traduzidas pela "palpabilidade" da interface e pelos artefatos de progresso gerados. A apresentação visual coerente, com o uso de iconografia histórica e um design intuitivo, atua como a prova material da qualidade do serviço. O personagem virtual, ao evoluir visualmente, materializa o esforço do aluno de uma maneira que ele possa "ver" o seu crescimento.
+Em um serviço digital, as evidências físicas são substituídas por elementos tangíveis da experiência: interface, identidade visual, relatórios, telas de progresso, personagem evolutivo, notificações, e-mails e materiais de apresentação. Esses elementos funcionam como prova visual da qualidade e ajudam o usuário a perceber o valor do serviço mesmo antes de concluir a preparação para um vestibular.
 
-A criação de experiências memoráveis é reforçada por notificações personalizadas e relatórios de desempenho que podem ser compartilhados em redes sociais, gerando "prova social" tangível para a marca. Mesmo sem um estabelecimento físico, o PomoHistória busca estimular os sentidos do usuário através de alertas sonoros suaves de início e fim de ciclo, criando um ritual de estudo que o cérebro associa à produtividade.
+A interface deverá apresentar organização clara, cores coerentes com a identidade da marca e elementos visuais que associem produtividade, História e gamificação. O personagem virtual será uma das principais evidências do progresso, pois transforma ciclos concluídos e acertos em evolução visual. Relatórios e dashboards também terão papel importante para tornar o desempenho mensurável.
+
+A landing page será outra evidência essencial. Ela deve apresentar proposta de valor, demonstrações do produto, prints da interface, explicação dos planos, depoimentos de usuários beta, política de bolsas e perguntas frequentes. Para parceiros B2B, materiais digitais como apresentação institucional, one page comercial e demonstração guiada substituirão materiais físicos tradicionais.
+
+Mesmo sem loja física, a marca poderá criar experiências memoráveis por meio de alertas sonoros suaves de início e fim de ciclo, notificações personalizadas, certificados simbólicos de conclusão de trilhas, conquistas visuais e relatórios compartilháveis. Esses recursos reforçam o ritual de estudo e ajudam a transformar o uso da plataforma em hábito.
 
 ### Visão de Futuro
 
-A visão de futuro do PomoHistória contempla a transição de uma ferramenta de nicho para um ecossistema completo de produtividade educacional. A consolidação regional, focada inicialmente no mercado da Baixada Santista devido às raízes na FATEC Rubens Lara, é o primeiro passo para uma expansão nacional que visa atingir milhões de vestibulandos em todo o Brasil.
+A visão de futuro do PomoHistória contempla a transição gradual de uma ferramenta de nicho para um ecossistema de produtividade educacional. No curto prazo, o foco será concluir o MVP, validar a aceitação com usuários beta, lançar a plataforma e construir uma base inicial de estudantes ativos. Essa etapa é essencial para gerar dados reais antes de qualquer expansão mais agressiva.
 
-O roadmap estratégico prevê a incorporação de Inteligência Artificial para personalizar os intervalos de pausa com base no nível de fadiga detectado por padrões de resposta do usuário, além da expansão da biblioteca de conteúdos para outras disciplinas das Ciências Humanas. O compromisso com a sustentabilidade e a responsabilidade social será refletido em parcerias com ONGs e escolas públicas, oferecendo a versão Premium gratuitamente para estudantes de baixa renda, fortalecendo a imagem de uma marca que constroi o futuro da educação no país.
+No médio prazo, após validação da retenção e da conversão para Premium, a empresa poderá ampliar a biblioteca de História, desenvolver trilhas personalizadas, oferecer relatórios mais robustos e iniciar planos institucionais para cursinhos e escolas. Também poderá expandir a atuação para São Paulo capital e interior, aproveitando dados de origem dos usuários e desempenho dos canais digitais.
+
+No longo prazo, o roadmap prevê a expansão para outras disciplinas das Ciências Humanas, como Geografia, Sociologia e Filosofia, mantendo a mesma lógica de Pomodoro, quizzes, progressão e gamificação. A incorporação de Inteligência Artificial deverá ocorrer apenas após a maturidade do produto, com objetivo de personalizar revisões, sugerir trilhas de estudo e identificar padrões de fadiga ou dificuldade.
+
+A responsabilidade social continuará fazendo parte da marca, mas de forma financeiramente sustentável. O programa de bolsas Premium começará com número limitado de estudantes, considerando o baixo custo marginal do produto digital, e será ampliado conforme crescimento da receita e da estrutura operacional. Essa abordagem preserva a proposta de democratização do acesso sem criar metas incompatíveis com a fase inicial do negócio.
+
+A consolidação nacional será tratada como uma meta futura, não imediata. Antes de alcançar milhões de vestibulandos no Brasil, o PomoHistória deverá provar sua utilidade em escala menor, conquistar usuários recorrentes, formar parcerias regionais e desenvolver processos confiáveis de atualização de conteúdo e atendimento.
 
 ## Proponente
 
-Os proponentes deste projeto são Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima, estudantes concluintes do curso de Tecnologia em Sistemas para Internet na Faculdade de Tecnologia Baixada Santista -- Rubens Lara. Localizada em Santos, SP, a instituição é reconhecida pela sua excelência no ensino tecnológico sob a gestão do Centro Paula Souza, provendo o alicerce técnico e metodológico necessário para a execução deste projeto e subsequente plano de negócio.
+Os proponentes deste projeto são Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima, estudantes concluintes do curso de Tecnologia em Sistemas para Internet da Faculdade de Tecnologia Baixada Santista - Rubens Lara, localizada em Santos, SP. A formação tecnológica do grupo oferece base para o desenvolvimento da aplicação web, estruturação do banco de dados, criação da interface, implementação de recursos de gamificação e planejamento de evolução do produto.
 
-A PomoHistória é dedicada à produção de softwares educacionais de alta performance, operando com a missão de unir a precisão dos sistemas digitais à profundidade do ensino humanístico. Com foco em inovação, a equipe proponente combina habilidades em desenvolvimento front-end, modelagem de dados e estratégias de gamificação, garantindo uma abordagem holística para o desafio da produtividade acadêmica.
+A equipe proponente possui competências complementares para a fase inicial do empreendimento. Diego contribui com experiência em desenvolvimento back-end, banco de dados e estrutura técnica. Kauê contribui com desenvolvimento front-end, lógica de sistemas, gamificação e testes de usabilidade. Gabrielle contribui com design, criação de conteúdo, comunicação digital e relacionamento com potenciais parceiros e usuários.
+
+A PomoHistória, enquanto proposta de negócio, dedica-se à criação de software educacional de alta acessibilidade, combinando técnica de produtividade, conteúdo histórico e experiência gamificada. A missão da empresa é auxiliar estudantes a transformarem o tempo de estudo em progresso visível, mensurável e conectado às exigências dos vestibulares.
 
 # EMPREENDEDOR
 
@@ -460,242 +537,283 @@ A PomoHistória é dedicada à produção de softwares educacionais de alta perf
 **Experiência na área:**
 
 - Projeto Acadêmico de Site FullStack, com foco em Springboot Java;
+
 - Projetos acadêmicos em Desenvolvimento de Software e Metodologias Ágeis;
+
 - Projeto de criação de API utilizando C# e Entity Framework;
+
 - Projeto de estudo de checagem de bandeiras de cartões de crédito utilizando GitHub Copilot e Engenharia de Prompts;
+
 - Projetos acadêmicos variados utilizando conhecimentos de Bancos de Dados SQL e JavaScript.
 
 # EMPREENDIMENTO
 
 ## PomoHistória
 
+O PomoHistória é uma aplicação web educacional criada para auxiliar estudantes na organização da rotina de estudos de História por meio da Técnica Pomodoro, de quizzes de revisão e de recursos de gamificação. A proposta do empreendimento é transformar o tempo dedicado aos estudos em progresso visível, mensurável e conectado às exigências dos vestibulares, evitando que o aluno precise alternar entre cronômetros genéricos, apostilas, vídeos soltos e plataformas sem integração entre produtividade e conteúdo.
+
 ## Características do Negócio
 
-**Produtos:** Aplicação web responsiva com temporizador Pomodoro integrado a módulos de História Geral e do Brasil, sistema de gamificação (personagem evolutivo), quizzes com trava pedagógica e relatórios de desempenho.
+**Produtos:** Aplicação web responsiva com temporizador Pomodoro integrado a módulos de História Geral e História do Brasil, quizzes com trava pedagógica de 70% de aproveitamento, sistema de gamificação por personagem evolutivo e relatórios de desempenho. Sob a perspectiva de marketing digital, o produto funciona como uma EdTech as a Service, distribuída em modelo SaaS, permitindo acompanhamento da jornada do usuário por meio de eventos como cadastro, primeiro ciclo concluído, resposta a quizzes, retorno à plataforma, indicação de amigos e conversão para plano Premium.
 
-**Público-alvo:** Jovens de 16 a 19 anos, treineiros ou vestibulandos e estudantes do ensino médio que buscam métodos eficientes de estudo para História.
+**Público-alvo:** Jovens de 16 a 19 anos, treineiros, vestibulandos e estudantes do ensino médio que precisam melhorar a constância nos estudos de História. No ambiente digital, esse público apresenta forte presença em TikTok, Instagram, YouTube, grupos de WhatsApp, comunidades de Discord e canais voltados à preparação para ENEM e vestibulares. A comunicação da marca deve falar a linguagem desse estudante, equilibrando leveza, objetividade e credibilidade acadêmica.
 
-**Diferenciais:** Integrar o temporizador que utiliza a técnica de estudo Pomodoro diretamente no site para seções de estudo mais dinâmicas e menos maçantes, gamificação com progressão e regressão temática do personagem, trava pedagógica de 70% de aproveitamento para avanço nos módulos.
+**Diferenciais:** O principal diferencial do PomoHistória é unir, em um único ambiente, três elementos que geralmente aparecem separados: gerenciamento de tempo, conteúdo específico de História e gamificação pedagógica. A combinação entre temporizador, módulos temáticos, quizzes, evolução do personagem e trava de 70% transforma a promessa de marketing em uma experiência concreta: o aluno percebe que cada ciclo de estudo gera avanço, revisão e feedback.
 
-**Qualidade Premium:** Interface intuitiva e responsiva, conteúdos organizados por temas e vestibular, sistema confiável de acompanhamento de desempenho do usuário.
+**Qualidade Premium:** A qualidade do produto será percebida pela clareza da interface, pela organização dos conteúdos, pela velocidade de carregamento, pela estabilidade da aplicação e pela utilidade dos relatórios. Na fase inicial, a credibilidade não deve depender de selos exagerados ou promessas de aprovação, mas de validação com usuários beta, revisão de conteúdo por professor parceiro e demonstrações reais de uso da plataforma.
 
-**Inovação Contínua:** Atualizações frequentes com novos conteúdos, aumento da base de questões conforme novos vestibulares, melhorias no sistema de gamificação e possíveis integrações com outras disciplinas além de História.
+**Inovação Contínua:** A inovação será tratada como processo gradual. O MVP contará com recursos essenciais; depois, com base no comportamento dos usuários, serão adicionados relatórios mais completos, novas trilhas de História, personalização do personagem e, futuramente, módulos de outras disciplinas das Ciências Humanas. Cada atualização deverá ser comunicada por release notes, e-mails de reengajamento e posts educativos nas redes sociais.
 
-**Sustentabilidade:** A PomoHistória incorpora a sustentabilidade em dois pilares fundamentais:
+**Sustentabilidade:** A sustentabilidade do PomoHistória será trabalhada em dois pilares. O primeiro é social, por meio de um programa inicial de bolsas Premium para estudantes de baixa renda de escolas públicas, começando com 50 bolsas no primeiro ano e ampliando conforme a capacidade operacional e financeira. O segundo é econômico, com modelo freemium, planos acessíveis, cancelamento simples e busca por receita recorrente sem depender de publicidade invasiva ou promessas incompatíveis com a fase inicial.
 
-- **Sustentabilidade Social:** Democratização do acesso à educação de qualidade. Por meio do Programa de Bolsas PomoHistória, a empresa destina anualmente 1% de sua receita bruta para conceder o plano Premium gratuito a estudantes de baixa renda de escolas públicas, comprovadamente inscritos no ENEM ou vestibulares. Além disso, a plataforma é totalmente acessível (responsividade e contraste adequado) e oferece conteúdo isento de preconceitos históricos, respeitando a diversidade cultural e étnica do Brasil.
-
-- **Sustentabilidade Econômica:** O modelo de negócios freemium garante receita recorrente (assinaturas premium e contratos B2B) e viabilidade de longo prazo, sem depender de capital predatório ou publicidade invasiva. A política de preços justos e transparentes (sem taxas ocultas) e o investimento contínuo em inovação (atualizações de conteúdo e funcionalidades) asseguram a perenidade da empresa, gerando empregos qualificados e impacto positivo na comunidade de vestibulandos.
-
-**Engajamento Comunitário:** Possibilidade futura de ranking entre usuários, desafios semanais e interação entre estudantes para troca de conhecimento.
+**Engajamento Comunitário:** O engajamento comunitário será desenvolvido de forma progressiva. Inicialmente, a comunidade servirá para captar feedback de usuários beta, divulgar desafios de estudo e incentivar constância. Em fases posteriores, poderão ser criados rankings opcionais, grupos de revisão, desafios semanais e eventos como o “Desafio PomoHistória - 7 dias de foco”.
 
 ## Situação Atual
 
-**Mercado:** Alta demanda por plataformas educacionais digitais e ferramentas de produtividade voltadas a estudantes, especialmente no contexto de vestibulares, especialmente no contexto de vestibulares e ensino híbrido. O mercado de aplicativos de estudo cresceu significativamente nos últimos anos, com espaço para soluções verticais (foco em uma disciplina).
+**Mercado:** Há demanda crescente por soluções digitais que ajudem estudantes a organizar a rotina, revisar conteúdos e manter foco. No entanto, o nicho específico de uma ferramenta que une Pomodoro e História ainda apresenta baixa saturação. Aplicativos de produtividade ajudam no controle do tempo, mas não oferecem conteúdo pedagógico integrado; plataformas educacionais amplas oferecem conteúdo, mas nem sempre estimulam a disciplina diária por meio de ciclos de foco e feedback visual.
 
-**Desafios:** Concorrência com aplicativos já consolidados (Focus To-Do, Forest, Trello, Anki) que não possuem conteúdo pedagógico integrado; necessidade de manter o engajamento dos usuários a longo prazo; garantir qualidade e atualização constante dos conteúdos históricos; vencer a resistência inicial à mudança de método de estudo.
+**Desafios:** Os principais desafios são o desconhecimento inicial da marca, a concorrência indireta de aplicativos já conhecidos, a necessidade de manter a qualidade dos conteúdos históricos e a dificuldade de converter usuários gratuitos em assinantes. Como o custo de troca entre ferramentas digitais é baixo, o PomoHistória precisará demonstrar valor rapidamente no onboarding e nas primeiras sessões de estudo.
 
-**Escala de Produção:** O produto encontra-se em fase de desenvolvimento inicial, precisando fazer wireframe, análise de requisitos, diagrama de caso de uso e fluxo de eventos.
+**Escala de Produção:** O produto está em fase de desenvolvimento inicial. As prioridades técnicas são definição de requisitos, wireframes, arquitetura da aplicação, fluxo de eventos, criação dos primeiros módulos de História Geral, implementação do temporizador, quizzes básicos e mecânica inicial do personagem. Para o marketing digital, isso significa iniciar ações de pré-lançamento, como landing page, lista de espera, bastidores do protótipo e captação de early adopters.
 
-**Oportunidades:** Crescimento do ensino digital e da procura por métodos de estudo, sazonalidade favorável (picos de busca antes do ENEM e vestibulares), baixa adesão de soluções que combinam produtividade e conteúdo específico.
+**Oportunidades:** A oportunidade está em ocupar um espaço ainda pouco explorado: produtividade aplicada a uma disciplina específica. A sazonalidade de ENEM e vestibulares permite campanhas em períodos de maior intenção de estudo, principalmente entre maio, setembro, novembro e início do ano letivo. A ausência de um player dominante no nicho “Pomodoro + História” favorece uma estratégia de posicionamento claro e de comunicação focada na dor do vestibulando.
 
-**Variação dos Custos de Insumos:** Custos principais são fixos (hospedagem em nuvem, licenças de software, salários de desenvolvedores e professores conteudistas) com baixa variação. Custos variáveis (suporte, marketing digital) crescem linearmente com a base de usuários.
+**Variação dos Custos de Insumos:** Os custos iniciais são majoritariamente fixos e controláveis: domínio, hospedagem, manutenção, criação de conteúdo, ferramentas gratuitas ou de baixo custo e pequeno teste de mídia paga. Por se tratar de um produto digital, o custo marginal por usuário adicional tende a ser baixo. Ainda assim, custos com suporte, servidores e mídia devem crescer conforme a base ativa aumenta.
 
-**Expansão de Mercado:** Inicialmente foco na Baixada Santista. Expansão nacional planejada para o segundo ano de operação, com conteúdos adaptados para vestibulares regionais.
+**Expansão de Mercado:** A atuação inicial será concentrada na Baixada Santista e em canais digitais voltados ao estado de São Paulo. A expansão estadual deve ocorrer após validação do MVP, retenção mínima e primeiras conversões Premium. A expansão nacional ficará como meta futura, a partir do amadurecimento do produto, da base de usuários e dos processos de atendimento e conteúdo.
 
-**Parcerias Estratégicas:** Escolas e cursinhos pré-vestibular (para adoção da ferramenta como complemento), criadores de conteúdo educacional ("edutubers" e "studygrammers"), plataformas de ensino online (integração via API) e associações de estudantes.
+**Parcerias Estratégicas:** As parcerias iniciais devem priorizar escolas, cursinhos populares, professores de História, microinfluenciadores de estudo e comunidades de vestibulandos. A estratégia mais viável para o primeiro ano é a permuta de acesso Premium vitalício ou temporário em troca de divulgação, feedback ou validação pedagógica, evitando custos elevados com influenciadores grandes antes de comprovar tração.
 
 ## Plano de Aprimoramento
 
 ### Objetivos:
 
-- Aumentar a capacidade de usuários ativos mensais (MAU) em 300% até o final do primeiro ano.
-- Incrementar a taxa de conversão de usuários gratuitos para premium em 15% em 12 meses.
-- Expandir a base de clientes para todos os estados da região Sudeste até dezembro/2026.
-- Diversificar a linha de produtos com módulos complementares de geografia e sociologia até o segundo ano.
-- Fidelizar usuários com taxa de retenção (churn) inferior a 5% ao mês.
-- Lançamento de novas funcionalidades (relatórios avançados, trilhas personalizadas) a cada trimestre.
+- Validar o MVP com 50 usuários beta até setembro de 2026, coletando feedback de usabilidade, clareza do conteúdo e motivação gerada pela gamificação.
+
+- Alcançar aproximadamente 1.000 usuários cadastrados até abril de 2027, considerando ações orgânicas, parcerias e campanha piloto de tráfego pago.
+
+- Atingir 500 usuários ativos mensais (MAU) até o final do primeiro ano, mantendo foco em recorrência e não apenas em cadastros.
+
+- Converter entre 5% e 10% dos usuários ativos mais engajados para o plano Premium, resultando em uma meta inicial realista de 25 a 50 assinantes pagos.
+
+- Firmar parcerias com pelo menos 3 cursinhos, escolas ou projetos educacionais da Baixada Santista no primeiro ano.
+
+- Realizar ações com 5 a 10 micro ou nano influenciadores educacionais, priorizando perfis com comunidade engajada e custo por permuta.
+
+- Lançar os primeiros módulos Premium de História do Brasil e relatórios básicos entre novembro de 2026 e abril de 2027.
+
+- Conceder 50 bolsas Premium no primeiro ano para estudantes de baixa renda, ampliando o programa conforme a receita e a estrutura operacional.
 
 ### Estratégias:
 
-- Investimento em Tecnologia: Adoção de infraestrutura escalável (AWS ou Google Cloud); contratação de desenvolvedor full stack e UX/UI designer.
-- Marketing Digital: Campanhas segmentadas em TikTok, Instagram e YouTube; produção de conteúdo gratuito sobre Técnica Pomodoro e História para vestibular.
-- Expansão de Produtos: Lançamento de planos semestrais/anuais com desconto; criação de "trilhas temáticas" (ex: "Idade Média para o ENEM").
-- Melhoria da Experiência com o cliente: Onboarding guiado em menos de 3 minutos; suporte via WhatsApp Business; coleta contínua de feedback via NPS.
-- Parcerias: Fechar acordos com pelo menos 5 cursinhos populares e 10 influenciadores educacionais no primeiro ano.
+- Investimento em tecnologia: utilizar stack acessível e escalável, com React, Java com Spring Boot, PostgreSQL e hospedagem inicial em plataformas de baixo custo, como Vercel ou Render, migrando para infraestrutura mais robusta somente quando houver demanda real.
 
-### Plano de Ação:
+- Marketing digital: priorizar conteúdo orgânico em TikTok, Instagram, YouTube e blog, com pequeno teste de tráfego pago apenas após a existência de landing page funcional e MVP demonstrável.
 
-- **Desenvolvimento de Produto**
+- Expansão de produto: começar com História Geral introdutória no plano gratuito e expandir História do Brasil, relatórios, questões comentadas e personalização no Premium.
 
-O desenvolvimento do PomoHistória será realizado integralmente pelos sócios Diego e Kauê (com apoio de Gabrielle no front-end e design), seguindo metodologia ágil (Scrum adaptado para 2 semanas de sprint).
+- Experiência do cliente: criar onboarding em menos de 3 minutos, suporte por WhatsApp Business ou e-mail, coleta contínua de feedback e acompanhamento de NPS.
 
-Etapas planejadas (primeiros 12 meses):
+- Parcerias: iniciar por cursinhos, professores e microinfluenciadores da Baixada Santista, utilizando acesso Premium, demonstrações e cupons rastreáveis como moeda de relacionamento.
 
-- **Mês 1 (Maio/26):** Definição da arquitetura, escolha do stack (React + Node.js + PostgreSQL), configuração do ambiente de desenvolvimento no GitHub.
-- **Mês 2-3 (Jun-Jul/26):** Implementação do MVP -- temporizador Pomodoro, cadastro/login, primeiros módulos de História Geral (10 temas), quizzes básicos.
-- **Mês 4 (Ago/26):** Sistema de gamificação (personagem que evolui) e trava pedagógica (exigência de 70% de acerto).
-- **Mês 5 (Set/26):** Integração com gateway de pagamento (Mercado Pago ou Stripe) para assinaturas; testes de usabilidade com 50 usuários beta.
-- **Mês 6 (Out/26):** Lançamento oficial do MVP.
-- **Meses 7-12 (Nov/26 -- Abr/27):** Correções de bugs, melhorias de performance, adição de novos módulos (História do Brasil), relatórios básicos.
+### Plano de Ação
 
-**Ferramentas gratuitas:** GitHub Education, Visual Studio Code, Firebase (autenticação e banco), Vercel ou Netlify para hospedagem.
+O desenvolvimento do PomoHistória será realizado principalmente pelos sócios Diego de Oliveira Ferreira, Kauê de Oliveira Martins e Gabrielle Almeida Lima. A divisão de tarefas respeitará as competências da equipe: Diego no back-end, banco de dados e infraestrutura; Kauê no front-end, quizzes e gamificação; Gabrielle no design, conteúdo, marketing e relacionamento com usuários. A metodologia utilizada será ágil, com sprints quinzenais, quadro Kanban e revisões frequentes.
 
-- **Campanhas Promocionais**
+O plano técnico terá como foco entregar o MVP antes de ampliar o escopo. Recursos como aplicativos nativos, inteligência artificial, relatórios avançados e expansão para outras disciplinas serão tratados como etapas posteriores, pois a prioridade é validar se o público utiliza, entende e retorna à plataforma.
 
-As campanhas serão executadas pela Gabrielle, com apoio dos demais, utilizando canais orgânicos e de baixo custo. Não haverá investimento em mídia paga significativo até validação do produto.
+- Mês 1 (Maio/2026): definição de requisitos, arquitetura, stack tecnológico, wireframes, repositório GitHub e estrutura inicial do banco de dados.
 
-**Principais ações:**
+- Meses 2 e 3 (Junho e Julho/2026): desenvolvimento do temporizador Pomodoro, cadastro/login, primeiros módulos de História Geral e quizzes básicos.
 
-- **Lançamento (Out/26):** "Semana do Foco Histórico" -- 7 dias de webinars gratuitos no YouTube sobre Técnica Pomodoro e dicas de História. Inscrição gera 15 dias de Premium grátis.
-- **Programa de Indicação:** Usuário que convidar 3 amigos ganha 1 mês de Premium. Funciona como viral orgânico.
-- **Parcerias com influenciadores (custo zero):** Envio de acesso vitalício ao Premium para 10 micro-influenciadores (studygrammers com 5k-20k seguidores) em troca de um post ou stories.
-- **Grupos de estudo:** Divulgação em comunidades de WhatsApp, Telegram e Discord de vestibulandos (ex: "Enem 2026", "Vestibulandos Unicamp").
-- **Conteúdo gratuito no TikTok/Instagram:** Postagem diária de 30 segundos mostrando o personagem evoluindo, curiosidades históricas e técnicas de estudo.
+- Mês 4 (Agosto/2026): implementação da gamificação, personagem evolutivo e trava pedagógica de 70% de aproveitamento.
 
-**Custo estimado das campanhas:** R$ 0 (apenas tempo da equipe).
+- Mês 5 (Setembro/2026): integração com gateway de pagamento, criação da landing page, testes de usabilidade com 50 usuários beta e ajustes do onboarding.
 
-- **Execução das Atividades**
+- Mês 6 (Outubro/2026): lançamento público do MVP com a campanha “Semana do Foco Histórico”.
 
-As atividades serão executadas de forma colaborativa e remota, com reuniões semanais (sábado de manhã) para alinhamento.
+- Meses 7 a 12 (Novembro/2026 a Abril/2027): correção de bugs, melhoria de performance, inclusão de módulos de História do Brasil, relatórios básicos e análise de retenção.
 
-**Cronograma macro de execução (primeiros 6 meses):**
+#### Campanhas Promocionais
 
-| Período | Atividade principal | Entregável |
-|---------|---------------------|-------------|
-| Maio/26 | Configuração do ambiente e definição de requisitos | Documento de arquitetura, repositório GitHub |
-| Jun/26 | Desenvolvimento do temporizador e cadastro | Protótipo funcional (apenas timer) |
-| Jul/26 | Criação dos primeiros módulos de História Geral | 10 quizzes com 5 questões cada |
-| Ago/26 | Implementação da gamificação e trava pedagógica | Personagem com 3 fases evolutivas |
-| Set/26 | Integração de pagamento e testes beta | 50 usuários testando versão fechada |
-| Out/26 | Lançamento público + campanha inicial | Site no ar, primeiros 100 usuários cadastrados |
+As campanhas serão executadas com foco em baixo custo, validação e consistência. A mídia paga será tratada como teste piloto, não como dependência central do crescimento. O orçamento inicial de anúncios será de R$400,00, concentrado entre setembro e outubro de 2026, para validar criativos, públicos e chamadas de conversão.
 
-**Acompanhamento:** Uso de quadro Kanban no Trello ou GitHub Projects; daily de 15 minutos por mensagem no WhatsApp; retrospectiva quinzenal.
+- Semana do Foco Histórico: campanha de lançamento com conteúdos gratuitos sobre Técnica Pomodoro, História para vestibular e demonstração da plataforma.
 
-- **Responsabilidades**
+- Programa de indicação: usuário que convidar 3 amigos ganhará 1 mês de Premium, com rastreamento por link único e parâmetros UTM.
 
-| Responsável | Principais atribuições |
-|-------------|------------------------|
-| Diego de Oliveira Ferreira | • Arquitetura e desenvolvimento back-end (Node.js, banco de dados) • Infraestrutura e hospedagem • Integração com gateway de pagamento • Manutenção e correção de bugs |
-| Kauê de Oliveira Martins | • Desenvolvimento front-end (React, CSS) • Gamificação e lógica do personagem • Implementação dos quizzes e trava pedagógica • Testes de usabilidade |
-| Gabrielle Almeida Lima | • Design da interface e identidade visual • Criação de conteúdo (questões, textos históricos) • Marketing digital e redes sociais • Parcerias com influenciadores e cursinhos • Atendimento ao usuário |
+- Parcerias com influenciadores: envio de acesso Premium para 5 a 10 micro ou nano influenciadores de estudo, História ou rotina de vestibular.
 
-- **Decisões estratégicas** (precificação, roadmap, parcerias B2B) são tomadas em conjunto pelos três, preferencialmente por consenso. Em caso de empate, Diego (líder técnico) tem voto de minerva, mas a cultura da equipe é de alinhamento pleno.
+- Grupos de estudo: divulgação moderada e respeitosa em comunidades de WhatsApp, Telegram e Discord, priorizando valor educativo em vez de propaganda direta.
 
-- **Suporte externo** (quando necessário): Um professor de História voluntário (ex-colega da FATEC) revisa o conteúdo dos quizzes, um designer amigo auxilia em ajustes pontuais. Ambos recebem créditos no site e acesso Premium vitalício.
+- Conteúdo gratuito: publicação de vídeos curtos, posts, curiosidades históricas, desafios Pomodoro e bastidores do desenvolvimento.
 
-- **Tabela de Custo Estimado**
+#### Execução das Atividades
 
-| Ações | RESPONSÁVEL | CUSTO ESTIMADO |
-|-------|-------------|----------------|
-| **Desenvolvimento e manutenção do site** | Diego + Kauê | **R$ 360,00** |
-| **Hospedagem e domínio** | Diego | **R$ 250,00** |
-| **Criação de conteúdo e quizzes** | Gabrielle + prof. voluntário | **R$ 600,00** |
-| **Design da marca e personagem** | Gabrielle | **R$ 0** |
-| **Marketing de conteúdo (blog, redes sociais)** | Gabrielle | **R$ 0** |
-| **Campanhas de anúncios (teste inicial)** | Gabrielle | **R$ 600,00** |
-| **Parcerias com influenciadores (troca por acesso)** | Gabrielle | **R$ 0** |
-| **E-mail marketing (ferramenta gratuita)** | Gabrielle | **R$ 0** |
-| **Webinars e demonstrações online** | Equipe toda | **R$ 0** |
-| **Promoções de lançamento (descontos)** | Equipe toda | **R$ 0** |
-| **Programa de indicação (viral)** | Equipe toda | **R$ 0** |
-| **Imprevistos e taxas bancárias** | Diego | **R$ 190,00** |
-| **TOTAL** | | **R$ 2.000,00** |
+As atividades serão executadas de forma colaborativa e remota, com reuniões semanais para alinhamento, retrospectivas quinzenais e registro das decisões em ferramentas como Trello, GitHub Projects ou Notion. O acompanhamento priorizará entregas concretas e métricas de uso, evitando crescimento artificial sem retenção.
 
-- **Tabela de Custos Mensais (12 meses)**
+**Tabela 3.1 - Cronograma macro de execução do MVP**
 
-| Ações | Mai/26 | Jun/26 | Jul/26 | Ago/26 | Set/26 | Out/26 | Nov/26 | Dez/26 | Jan/27 | Fev/27 | Mar/27 | Abr/27 |
-|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **Desenvolvimento e manutenção do site** | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 | R$ 30 |
-| **Hospedagem e domínio** | R$ 50 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 | R$ 20 |
-| **Criação de conteúdo e quizzes** | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 |
-| **Design da marca e personagem** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Marketing de conteúdo (blog, redes sociais)** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Campanhas de anúncios (teste inicial)** | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 | R$ 50 |
-| **Parcerias com influenciadores (troca por acesso)** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **E-mail marketing (ferramenta gratuita)** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Webinars e demonstrações online** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Promoções de lançamento (descontos)** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Programa de indicação (viral)** | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Imprevistos e taxas bancárias** | R$ 20 | R$ 10 | R$ 10 | R$ 10 | R$ 10 | R$ 10 | R$ 10 | R$ 10 | R$ 20 | R$ 20 | R$ 30 | R$ 30 |
-| **TOTAL** | R$ 200 | R$ 160 | R$ 160 | R$ 160 | R$ 160 | R$ 160 | R$ 160 | R$ 160 | R$ 170 | R$ 170 | R$ 180 | R$ 180 |
+| **Período**                | **Atividade principal**                                           | **Entregável**                                                           |
+|----------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Maio/2026                  | Configuração do ambiente, requisitos, arquitetura e wireframes    | Documento de requisitos, repositório GitHub e protótipos iniciais        |
+| Junho/2026                 | Desenvolvimento do temporizador Pomodoro e cadastro/login         | Protótipo funcional com timer e autenticação básica                      |
+| Julho/2026                 | Criação dos primeiros módulos de História Geral e quizzes básicos | 10 temas iniciais com 5 questões cada                                    |
+| Agosto/2026                | Implementação da gamificação e da trava pedagógica                | Personagem com fases evolutivas e progressão por 70% de acerto           |
+| Setembro/2026              | Integração de pagamento, landing page e testes beta               | 50 usuários beta testando a versão fechada                               |
+| Outubro/2026               | Lançamento público e campanha inicial                             | Site no ar, primeiros 100 usuários cadastrados e coleta de feedback      |
+| Novembro/2026 a Abril/2027 | Correções, novos módulos e relatórios básicos                     | Melhorias de retenção, módulos Premium e primeiras métricas consolidadas |
+
+#### Responsabilidades
+
+**Tabela 3.2 - Responsabilidades da equipe inicial**
+
+| **Responsável**            | **Principais atribuições**                                                                                                                               |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diego de Oliveira Ferreira | Arquitetura e desenvolvimento back-end; banco de dados; infraestrutura e hospedagem; integração com gateway de pagamento; manutenção e correção de bugs. |
+| Kauê de Oliveira Martins   | Desenvolvimento front-end; implementação dos quizzes; lógica da trava pedagógica; gamificação e evolução do personagem; testes de usabilidade.           |
+| Gabrielle Almeida Lima     | Design da interface e identidade visual; criação e organização de conteúdo; marketing digital; redes sociais; parcerias; atendimento inicial ao usuário. |
+| Apoio externo pontual      | Professor de História voluntário ou parceiro para revisão de conteúdo; designer parceiro para ajustes visuais quando necessário.                         |
+
+As decisões estratégicas relacionadas a precificação, roadmap, parcerias B2B, expansão e posicionamento serão tomadas em conjunto pelos três sócios. Na fase inicial, o consenso será priorizado, pois a equipe é pequena e precisa manter alinhamento entre tecnologia, conteúdo e comunicação.
+
+#### Tabela de Custo Estimado
+
+O orçamento operacional mínimo para o primeiro ano é de R$2.000,00. Esse valor representa um cenário enxuto de MVP, baseado em trabalho dos sócios, ferramentas gratuitas ou de baixo custo e uso pontual de anúncios apenas para validação. Ele não contempla contratação fixa de equipe externa, pois isso pertence a um cenário de captação posterior.
+
+**Tabela 3.3 - Custo estimado do cenário mínimo de MVP**
+
+| **Ações**                                    | **Responsável**                  | **Custo estimado** |
+|----------------------------------------------|----------------------------------|--------------------|
+| Desenvolvimento e manutenção do site         | Diego + Kauê                     | R$ 360,00         |
+| Hospedagem e domínio                         | Diego                            | R$ 250,00         |
+| Criação de conteúdo e quizzes                | Gabrielle + professor voluntário | R$ 600,00         |
+| Design da marca e personagem                 | Gabrielle                        | R$ 0,00           |
+| Marketing de conteúdo (blog e redes sociais) | Gabrielle                        | R$ 0,00           |
+| Campanhas de anúncios (teste piloto)         | Gabrielle                        | R$ 400,00         |
+| Parcerias com influenciadores por permuta    | Gabrielle                        | R$ 0,00           |
+| E-mail marketing em ferramenta gratuita      | Gabrielle                        | R$ 0,00           |
+| Webinars e demonstrações online              | Equipe toda                      | R$ 0,00           |
+| Promoções de lançamento                      | Equipe toda                      | R$ 0,00           |
+| Programa de indicação                        | Equipe toda                      | R$ 0,00           |
+| Imprevistos e taxas bancárias                | Diego                            | R$ 390,00         |
+| TOTAL                                        |                                  | R$ 2.000,00       |
+
+#### Tabela de Custos Mensais (12 meses)
+
+Para manter a legibilidade, a distribuição mensal dos custos foi dividida em dois semestres. O total permanece alinhado ao orçamento mínimo de R$2.000,00.
+
+**Tabela 3.4 - Custos mensais de maio a outubro de 2026**
+
+| **Ações**                            | **Mai/26** | **Jun/26** | **Jul/26** | **Ago/26** | **Set/26** | **Out/26** |
+|--------------------------------------|------------|------------|------------|------------|------------|------------|
+| Desenvolvimento e manutenção do site | R$ 30     | R$ 30     | R$ 30     | R$ 30     | R$ 30     | R$ 30     |
+| Hospedagem e domínio                 | R$ 30     | R$ 20     | R$ 20     | R$ 20     | R$ 20     | R$ 20     |
+| Criação de conteúdo e quizzes        | R$ 50     | R$ 50     | R$ 50     | R$ 50     | R$ 50     | R$ 50     |
+| Design da marca e personagem         | -         | -         | -         | -         | -         | -         |
+| Marketing de conteúdo                | -         | -         | -         | -         | -         | -         |
+| Campanhas de anúncios                | -         | -         | -         | -         | R$ 200    | R$ 200    |
+| Parcerias com influenciadores        | -         | -         | -         | -         | -         | -         |
+| E-mail marketing                     | -         | -         | -         | -         | -         | -         |
+| Webinars e demonstrações online      | -         | -         | -         | -         | -         | -         |
+| Promoções de lançamento              | -         | -         | -         | -         | -         | -         |
+| Programa de indicação                | -         | -         | -         | -         | -         | -         |
+| Imprevistos e taxas bancárias        | R$ 20     | R$ 20     | R$ 20     | R$ 20     | R$ 30     | R$ 40     |
+| TOTAL                                | R$ 130    | R$ 120    | R$ 120    | R$ 120    | R$ 330    | R$ 340    |
+
+**Tabela 3.5 - Custos mensais de novembro de 2026 a abril de 2027**
+
+| **Ações**                            | **Nov/26** | **Dez/26** | **Jan/27** | **Fev/27** | **Mar/27** | **Abr/27** | **Total anual** |
+|--------------------------------------|------------|------------|------------|------------|------------|------------|-----------------|
+| Desenvolvimento e manutenção do site | R$ 30     | R$ 30     | R$ 30     | R$ 30     | R$ 30     | R$ 30     | R$ 360         |
+| Hospedagem e domínio                 | R$ 20     | R$ 20     | R$ 20     | R$ 20     | R$ 20     | R$ 20     | R$ 250         |
+| Criação de conteúdo e quizzes        | R$ 50     | R$ 50     | R$ 50     | R$ 50     | R$ 50     | R$ 50     | R$ 600         |
+| Design da marca e personagem         | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Marketing de conteúdo                | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Campanhas de anúncios                | -         | -         | -         | -         | -         | -         | R$ 400         |
+| Parcerias com influenciadores        | -         | -         | -         | -         | -         | -         | R$ 0           |
+| E-mail marketing                     | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Webinars e demonstrações online      | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Promoções de lançamento              | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Programa de indicação                | -         | -         | -         | -         | -         | -         | R$ 0           |
+| Imprevistos e taxas bancárias        | R$ 30     | R$ 30     | R$ 50     | R$ 50     | R$ 40     | R$ 40     | R$ 390         |
+| TOTAL                                | R$ 130    | R$ 130    | R$ 150    | R$ 150    | R$ 140    | R$ 140    | R$ 2.000       |
 
 ### Controle e Avaliação:
 
-- **Antes da Implementação:** Validação do MVP com 50 usuários beta (vestibulandos reais); teste de usabilidade e carga na plataforma; definição de KPIs baseline (taxa de retenção, tempo médio de sessão, NPS inicial).
-- **Durante a Implementação:** Monitoramento semanal dos KPIs no painel de marketing (Google Analytics, Mixpanel, Stripe); revisão quinzenal da equipe para ajustes rápidos; coleta contínua de feedback via chat in-app.
-- **Após a Implementação:** Análise mensal da evolução dos KPIs; relatório trimestral completo com plano de ação corretiva; pesquisa de satisfação anual (NPS, CSAT).
+- **Antes da implementação:** Antes da implementação, a equipe deverá validar o MVP com 50 usuários beta, realizando teste de usabilidade, análise de tempo de carregamento, verificação de bugs e coleta de comentários sobre clareza da proposta. Os indicadores de base serão taxa de ativação, tempo médio de sessão, conclusão de ciclos Pomodoro, desempenho em quizzes e NPS inicial.
+
+- **Durante a implementação:** Durante a implementação, os KPIs serão monitorados semanalmente por ferramentas como Google Analytics, Mixpanel ou alternativas gratuitas. A equipe fará revisão quinzenal para priorizar correções, ajustar mensagens de marketing e identificar pontos de abandono no funil de cadastro, primeiro ciclo e conversão Premium.
+
+- **Após a implementação:** Após o lançamento, a análise será mensal, com relatório trimestral consolidado. Os principais indicadores serão usuários cadastrados, MAU, retenção, churn, conversão Premium, receita, número de indicações, engajamento em comunidade, satisfação e desempenho dos canais de aquisição.
 
 ## Análise de Ambiente
 
 ### Fatores Econômicos
 
-**Inflação:** Pode reduzir o poder de compra do público-alvo (jovens dependentes dos pais), exigindo preços competitivos e plano gratuito robusto.
+**Inflação:** A inflação pode reduzir o poder de compra das famílias e impactar a disposição a pagar por assinaturas educacionais. Por esse motivo, o plano gratuito precisa entregar valor real e o Premium deve ser percebido como acessível em comparação a materiais avulsos, aulas particulares ou plataformas mais amplas.
 
-**Renda Disponível:** A crise econômica pode afetar a disposição a pagar por assinaturas.
+**Renda disponível:** Como muitos usuários dependem financeiramente dos pais ou responsáveis, a decisão de compra tende a exigir justificativa clara de benefício. O produto deverá comunicar economia de tempo, organização da rotina e apoio à preparação para vestibulares.
 
-**Estratégia:** plano freemium com valor claro e descontos para planos semestrais/anuais.
-
-**Taxa de juros:** Se elevada, dificulta investimentos iniciais e captação de recursos. A empresa buscará bootstrap (capital próprio) e, futuramente, financiamento coletivo (crowdfunding) ou edital de incentivo a EdTechs.
+**Taxa de juros:** Taxas de juros elevadas dificultam captação e tornam mais prudente o modelo bootstrap. Por isso, a empresa iniciará com orçamento enxuto e buscará editais, crowdfunding ou apoio institucional apenas como cenário de aceleração, não como condição para lançar o MVP.
 
 ### Fatores Socioculturais
 
-**Preferências por produtos digitais:** Jovens estão cada vez mais acostumados com plataformas de estudo online e apps de produtividade (gamificação, recompensas visuais).
+**Preferências por produtos digitais:** Estudantes do ensino médio estão acostumados ao uso de plataformas digitais, vídeos curtos, comunidades de estudo e ferramentas de produtividade. A PomoHistória aproveita esse comportamento para transformar o estudo de História em uma experiência mais visual, modular e acompanhável.
 
-**Saúde e bem-estar:** A Técnica Pomodoro reduz estresse e ansiedade, valor que será comunicado no marketing do produto. A técnica aplicada evita a glorificar excesso de horas de estudo sem pausas.
+**Saúde e bem-estar:** A Técnica Pomodoro será comunicada como forma de estudar com pausas, foco e equilíbrio, evitando discursos que glorifiquem excesso de horas sem descanso. O posicionamento deve conectar produtividade com saúde mental e constância.
 
-**Valores Culturais:** História do Brasil e Geral são disciplinas de grande peso em vestibulares, mas muitos alunos têm dificuldade de reter datas e processos. A gamificação com evolução temática atende a essa necessidade.
+**Valores culturais e educacionais:** História Geral e História do Brasil são disciplinas relevantes para vestibulares, mas muitos alunos têm dificuldade de reter processos, datas e relações entre períodos históricos. A gamificação com personagem temático ajuda a transformar o conteúdo em uma jornada visual e mais memorável.
 
-**Sazonalidade e festividades:** Picos de uso antes do ENEM (novembro), FUVEST (janeiro) e vestibulares de meio de ano (junho/julho). As campanhas devem ser intensificadas nesses períodos.
+**Sazonalidade:** As campanhas devem acompanhar momentos de maior intenção de estudo: início do ano letivo, inscrições de vestibulares, período pré-ENEM, FUVEST e revisões de meio de ano. A verba de mídia paga, quando houver, deve ser concentrada nesses picos, não distribuída sem critério durante todo o ano.
 
 ### Fatores Políticos/Legais
 
-**Regulamentações Sanitárias:** Não se aplica (produto digital). Porém, é preciso seguir a LGPD (Lei Geral de Proteção de Dados) no tratamento de dados dos usuários (termo de consentimento, política de privacidade).
+**Regulamentações e LGPD:** Por se tratar de produto digital, regulamentações sanitárias não se aplicam. Entretanto, a empresa deverá seguir a LGPD, com política de privacidade, consentimento para uso de dados, cuidado com informações de menores de idade e comunicação clara sobre finalidade dos dados coletados.
 
-**Políticas Tributárias:** Enquadramento como MEI ou Simples Nacional; alíquotas reduzidas para serviços digitais (ISS, PIS, COFINS).
+**Políticas tributárias e consumo:** No início, a estrutura jurídica poderá ser analisada entre MEI, microempresa ou Simples Nacional, conforme evolução do faturamento e natureza das atividades. A cobrança de assinaturas deve respeitar regras de cancelamento, reembolso e transparência previstas pelo Código de Defesa do Consumidor.
 
-**Legislação Ambiental:** Não se aplica diretamente, mas a empresa adotará práticas verdes (uso de energia renovável em servidores, compensação de carbono).
+**Legislação ambiental:** A operação digital não gera impacto físico direto como embalagem ou logística. Mesmo assim, a marca poderá adotar práticas responsáveis, como trabalho remoto, uso consciente de recursos tecnológicos e comunicação sobre redução de materiais impressos.
 
-**Legislação Trabalhista:** Contratação de desenvolvedores e designers como PJ ou CLT conforme crescimento; atenção aos direitos trabalhistas e previdenciários.
+**Legislação trabalhista:** Contratações futuras de professores, designers, desenvolvedores ou atendentes deverão respeitar a modalidade adequada de vínculo, seja prestação de serviço, PJ ou CLT, conforme necessidade e crescimento.
 
 ### Fatores Tecnológicos
 
-**Inovação na Produção:** Uso de metodologias ágeis (Scrum, Kanban) e integração contínua (CI/CD) para atualizações frequentes sem downtime.
+**Inovação na produção:** O desenvolvimento utilizará metodologias ágeis, versionamento em GitHub e integração contínua conforme a maturidade do projeto. A prioridade técnica é entregar estabilidade, carregamento rápido e segurança básica desde o MVP.
 
-**Marketing Digital:** Segmentação avançada por interesses (alunos que buscam "Técnica Pomodoro", "história para o ENEM") usando plataformas de anúncio; retargeting para usuários que visitaram o site mas não assinaram.
+**Marketing digital:** A segmentação de anúncios, quando utilizada, deverá focar interesses e buscas relacionados a “técnica Pomodoro”, “história ENEM”, “vestibular”, “studytok” e “rotina de estudos”. O retargeting será aplicado apenas após haver tráfego suficiente e respeitando consentimento e boas práticas.
 
-**E-commerce:** Plataforma própria com integração a gateways de pagamento (Stripe, Mercado Pago, PicPay) e assinaturas recorrentes.
+**E-commerce:** A plataforma terá cobrança recorrente por gateway de pagamento confiável, como Mercado Pago, Stripe, Asaas ou PicPay, conforme viabilidade. A experiência de compra precisa ser simples, segura e transparente.
 
-**Automação de Processos:** Onboarding automatizado com e-mails de boas-vindas, tutoriais interativos e lembretes de estudo baseados no comportamento do usuário.
+**Automação de processos:** Automação será usada para boas-vindas, lembretes de estudo, recuperação de usuários inativos e ofertas de upgrade para quem demonstrar alto engajamento. No início, ferramentas gratuitas ou de baixo custo serão priorizadas.
 
 ### Concorrência
 
-**Concorrentes Diretos:** Aplicativos de produtividade (Focus To-Do, Forest, Engross, Pomodoro Timer) e plataformas de estudo de história (Descomplica, Stood, Curso Enem Gratuito, Khan Academy). Comparado ao PomoHistória, nenhum dos aplicativos citados anteriormente integra temporizador + conteúdo de história.
+**Concorrentes diretos e próximos:** A concorrência direta é limitada, pois poucos produtos integram Pomodoro, conteúdo de História e gamificação pedagógica em um só ambiente. Ainda assim, aplicativos de produtividade como Focus To-Do, Forest e Pomodoro Timer competem pela atenção do estudante, enquanto plataformas como Descomplica, Stoodi, Khan Academy e Curso Enem Gratuito competem pelo aprendizado.
 
-**Concorrentes Indiretos:** Métodos tradicionais (cronômetro manual + livro/apostila), canais do YouTube com playlists de estudo ("study with me"), grupos de estudo no Discord.
+**Concorrentes indiretos:** Os concorrentes indiretos incluem cronômetros manuais, apostilas, playlists do YouTube, “study with me”, grupos de Discord, fichas de revisão e aplicativos de flashcards como Anki. O PomoHistória precisa demonstrar que a integração entre tempo, conteúdo e progresso visual reduz a dispersão causada por ferramentas separadas.
 
-**Estratégias Competitivas:** A PomoHistória se diferencia pela integração nativa e pela trava pedagógica (exigência de 70% de acerto para progredir), que nenhum concorrente oferece. Além disso, o personagem evolui (e regride) conforme o desempenho e a constância gera engajamento emocional.
+**Estratégia competitiva:** A estratégia competitiva será focada em nicho. Em vez de concorrer com grandes EdTechs em todas as disciplinas, o PomoHistória se posicionará como ferramenta específica de História para vestibulandos que precisam de constância, revisão e motivação visual.
 
-**Posicionamento no Mercado:** PomoHistória se posiciona como uma ferramenta essencial de estudo. É uma marca séria com foco no resultado, mas jovem e gamificada.
+**Posicionamento no mercado:** A marca será séria no conteúdo, jovem na linguagem e simples no uso. Essa combinação permite comunicar autoridade sem afastar o público adolescente.
 
 ### Fatores Internos
 
-**Capacidade Produtiva:** Equipe atual (3 sócios) consegue desenvolver e manter a plataforma. Necessidade de contratação futura de professor conteudista (história) e suporte ao cliente.
+- **Capacidade produtiva:** A equipe atual de três sócios é suficiente para desenvolver e validar o MVP, mas não para sustentar, sozinha, uma operação nacional ou suporte em tempo real. Por isso, o crescimento deve ser gradual e apoiado por processos documentados, automação e parcerias pontuais.
 
-**Qualidade do Produto:** MVP validado com beta testers; design responsivo e intuitivo; precisão histórica garantida por fontes confiáveis e alinhamento com editais de vestibular.
+- **Qualidade do produto:** A qualidade será garantida por testes de usabilidade, revisão de conteúdo, padronização visual, acompanhamento de bugs e métricas de experiência. Na fase inicial, o selo mais importante será o feedback real dos usuários beta.
 
-**Recursos Humanos:** Os três sócios possuem formação em Sistemas para Internet (desenvolvimento, banco de dados, metodologias ágeis). Gabrielle tem habilidades em design e marketing; Diego e Kauê em back-end e front-end.
+- **Recursos humanos:** Os sócios possuem formação em Sistemas para Internet e competências complementares em desenvolvimento, design, banco de dados, marketing e conteúdo. A contratação de professor conteudista e atendimento dedicado deve ocorrer apenas quando houver receita ou captação para sustentar esses custos.
 
-**Cultura Organizacional:** Inovação, foco no usuário, transparência e aprendizado contínuo. Valorizamos o feedback rápido e iteração.
+- **Cultura organizacional:** A cultura interna deverá valorizar transparência, aprendizado contínuo, foco no usuário, revisão constante e tomada de decisão baseada em dados.
 
-**Gestão Financeira:** Bootstrap inicial (recursos próprios). Planejamento de fluxo de caixa com projeção de break-even em 18 meses.
+- **Gestão financeira:** A gestão financeira será baseada em bootstrap no primeiro ciclo. O ponto de equilíbrio será acompanhado por número de assinantes, receita recorrente, custos de infraestrutura e taxa de churn.
 
-**Análise SWOT:**
+**Tabela 3.6 - Análise SWOT do PomoHistória**
 
-- **Forças (S):** Produto inovador (integração única); equipe técnica multidisciplinar; baixo custo de escala; modelo freemium com baixa barreira de entrada.
-- **Fraquezas (W):** Marca desconhecida; orçamento limitado para marketing; dependência de terceiros (gateways de pagamento, servidores); conteúdo inicial restrito a História.
-- **Oportunidades (O):** Crescimento do mercado EdTech; falta de concorrentes diretos; possibilidade de expansão para outras disciplinas; parcerias com cursinhos e escolas.
-- **Ameaças (T):** Grandes players (Descomplica, Stood) podem copiar a funcionalidade; mudanças nos editais dos vestibulares; oscilação econômica que reduz assinaturas; vazamento de dados (risco de segurança).
+| **Forças**                                                                                                                            | **Fraquezas**                                                                                                                       | **Oportunidades**                                                                                                                                              | **Ameaças**                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Integração única entre Pomodoro, História, quizzes e gamificação; baixo custo marginal; modelo freemium; equipe técnica complementar. | Marca desconhecida; orçamento limitado; equipe pequena; conteúdo inicial restrito a História; dependência de servidores e gateways. | Crescimento do ensino digital; falta de concorrente direto; sazonalidade favorável de vestibulares; expansão para outras disciplinas; parcerias com cursinhos. | Grandes EdTechs podem copiar funcionalidades; mudanças em editais; oscilação econômica; baixa retenção se o produto não gerar hábito; riscos de segurança de dados. |
 
 ## Definição do Público-Alvo
 
@@ -703,53 +821,35 @@ As atividades serão executadas de forma colaborativa e remota, com reuniões se
 
 #### Geográfico
 
-Região Sudeste (inicialmente), com maior concentração de vestibulandos. Cidades-polo: Cidades da Baixada Santista (Santos, São Vicente, Guarujá, Praia Grande) e, posteriormente, São Paulo.
+A atuação inicial será concentrada na Região Sudeste, especialmente na Baixada Santista, com foco em Santos, São Vicente, Guarujá e Praia Grande. Posteriormente, a expansão digital poderá alcançar São Paulo capital e interior, conforme dados de aquisição e retenção.
 
 #### Demográficos
 
-Jovens de 16 a 19 anos (ensino médio e cursinho), de todos os sexos, pertencentes a classe média, com renda mensal entre R$3.000 e R$10.000 e que sejam estudantes do ensino médio ou concluintes que desejam cursar ensino superior.
+Jovens de 16 a 19 anos, de todos os sexos, estudantes do ensino médio, treineiros ou concluintes em preparação para ENEM e vestibulares. A renda familiar estimada concentra-se em classes média e média baixa, mas o modelo freemium permite acesso também a estudantes com menor poder aquisitivo.
 
 #### Psicográficos
 
-Jovens que tenham um estilo de vida disciplinado, buscam eficiência, usam tecnologia para estudar, mas que sofrem com ansiedade e procrastinação. Tem como valores meritocracia junto com a saúde mental e estão abertos a novas ferramentas, insatisfeitos com métodos tradicionais ineficientes.
+São estudantes que desejam melhorar desempenho e rotina, mas sofrem com procrastinação, ansiedade, excesso de conteúdo e dificuldade de manter constância. Valorizam tecnologia, praticidade, linguagem visual, recompensas e ferramentas que mostrem progresso de forma simples.
 
 #### Comportamentais
 
-**Ocasiões de compra:** Véspera de vestibulares (setembro a novembro) e início do ano letivo (fevereiro/março).
-
-**Benefícios procurados:** Aumento de produtividade, retenção de conteúdo histórico, redução da procrastinação.
-
-**Ocasiões de uso:** Diariamente, em sessões de 25 minutos.
-
-**Fidelidade à marca:** Baixa inicialmente (testam várias ferramentas), mas alta quando percebem resultados.
-
-**Taxa de uso:** Estudantes intensivos usam 2-4 horas/dia.
+As principais ocasiões de compra são início do ano letivo, volta às aulas, período de inscrições de vestibulares e meses anteriores ao ENEM. Os benefícios procurados são organização do tempo, revisão eficiente, redução da procrastinação e maior retenção de História. A fidelidade inicial tende a ser baixa, pois o estudante testa várias ferramentas; porém, pode aumentar quando percebe evolução clara, relatórios e vínculo com o personagem.
 
 ### Pessoas Jurídicas
 
 #### Geográfico
 
-Região Sudeste (inicialmente). Com foco inicial na área da baixada santista e, posteriormente, capitais e grandes centros metropolitanos com alta concentração de professores de escolas e cursinhos.
+Inicialmente, escolas, cursinhos e projetos educacionais da Baixada Santista. Em seguida, instituições de São Paulo capital e interior. A expansão para outras regiões deverá ocorrer somente depois da validação do produto e de processos de atendimento B2B.
 
 #### Características Gerais
 
-**Ramo de atividade:** Educação (cursinhos pré-vestibular, escolas de ensino médio, plataformas de ensino complementar).
+O público jurídico é composto por cursinhos pré-vestibulares, escolas de ensino médio, projetos populares de preparação para vestibulares e plataformas de ensino complementar. Essas instituições buscam melhorar engajamento dos alunos, oferecer ferramentas digitais de apoio e acompanhar desempenho em temas específicos.
 
-**Serviços e produtos oferecidos:** Aulas preparatórias, simulados, material didático.
-
-**Número de funcionários:** De 10 (pequenos cursinhos) a 500+ (grandes redes).
-
-**Tempo de atuação no mercado:** Mais de 3 anos.
+O porte pode variar de pequenos cursinhos com cerca de 10 colaboradores até redes maiores com centenas de funcionários. Para o primeiro ano, a prioridade serão instituições pequenas e médias, pois oferecem maior abertura para testes, demonstrações e parcerias de validação.
 
 #### Comportamentais
 
-**Ocasiões de compra:** Início do ano letivo (fevereiro) ou do semestre (agosto).
-
-**Hábitos de consumo:** Compram licenças institucionais para todos os alunos (plano corporativo).
-
-**Benefícios procurados:** Complementar a grade curricular com ferramenta de apoio, melhorar os resultados dos alunos nos vestibulares, gerar relatórios de desempenho para professores.
-
-**Taxa de uso:** Alunos usam diariamente; a instituição deseja integração via API com seu ambiente virtual de aprendizagem.
+As ocasiões de compra ou teste institucional tendem a ocorrer no início do ano letivo, início do segundo semestre e períodos de revisão para ENEM. Os benefícios procurados são complementação da grade curricular, relatórios de desempenho, maior engajamento dos alunos e diferenciação pedagógica. O modelo B2B deve começar como parceria piloto antes de contratos corporativos mais complexos.
 
 ## Posicionamento no mercado
 
@@ -757,714 +857,626 @@ Região Sudeste (inicialmente). Com foco inicial na área da baixada santista e,
 
 #### Exclusividade e Autenticidade
 
-**Descrição:** Ser reconhecida como a EdTech que uniu dois nichos (produtividade e história) em um único ambiente, rompendo com a fragmentação de ferramentas de estudo.
+A marca deseja ser reconhecida como a EdTech que uniu produtividade e História em uma experiência única de estudo, reduzindo a fragmentação entre temporizador, conteúdo, revisão e acompanhamento de progresso.
 
-**Promessa da Marca:** "Você nunca mais estudará História no escuro. Com a PomoHistória, cada minuto focado vira progresso visível e retenção garantida."
+**Promessa da marca:** “Com o PomoHistória, cada minuto focado se transforma em revisão, progresso visível e evolução na sua jornada de estudos.” A promessa evita garantir aprovação direta, mas reforça constância e aprendizagem mensurável.
 
-**Comunicação:** Tom jovem, mas sério, com apresentação de dados científicos para ajudar a convencer o usuário. depoimentos reais de usuários aprovados; demonstrações da gamificação.
+**Comunicação:** A comunicação terá tom jovem, direto e responsável. Serão utilizados bastidores, demonstrações da gamificação, depoimentos de usuários beta e conteúdos educativos, sem exagerar em promessas antes de haver dados reais de aprovação.
 
 #### Qualidade Premium
 
-**Descrição:** O plano premium oferece conteúdo exclusivo (História do Brasil completo), relatórios analíticos e personalização avançada.
+O Premium será apresentado como um aprofundamento da experiência gratuita, com História do Brasil completa, História Geral avançada, relatórios, feedback detalhado e personalização do personagem. O valor percebido deve vir do ganho de clareza e acompanhamento, não apenas da quantidade de conteúdos.
 
-**Processo de desenvolvimento:** Conteúdo revisado por professores especialistas em vestibulares; desenvolvimento de software com testes rigorosos.
+**Processo de desenvolvimento:** O conteúdo deverá ser revisado por fontes confiáveis e professor parceiro, enquanto o software passará por testes de usabilidade e estabilidade. Essa combinação fortalece a credibilidade educacional e técnica do produto.
 
-**Comunicação:** Destacar o custo-benefício (menos de R$20/mês) e a economia com outros materiais.
+**Comunicação:** A mensagem principal será o custo-benefício: por menos de R$20,00 mensais, o estudante tem uma ferramenta integrada de foco, revisão e acompanhamento de História.
 
 #### Experiência do Consumidor
 
-**Descrição:** Jornada do usuário fluida, do primeiro cadastro ao hábito diário de estudo. Suporte humano e rápido.
+A experiência desejada é fluida: o estudante entra, entende a proposta, inicia um ciclo Pomodoro, responde questões, visualiza progresso e recebe orientação para continuar. A simplicidade do uso será decisiva para retenção.
 
-**Promoção da Experiência:** Onboarding interativo, tutoriais em vídeo, dicas de produtividade por e-mail.
+**Promoção da experiência:** A experiência será promovida com onboarding guiado, tutoriais curtos, dicas por e-mail, desafios semanais e comunidade de apoio.
 
-**Engajamento do Cliente:** Comunidade no Discord, desafios mensais, leaderboards (futuro).
+**Engajamento do cliente:** O engajamento será trabalhado por desafios, personagem evolutivo, conquistas, feedbacks visuais e comunidade. Rankings, quando existirem, deverão ser opcionais para evitar pressão excessiva.
 
 #### Sustentabilidade e Responsabilidade Social
 
-**Descrição:** Democratizar o acesso ao estudo. Oferecer a versão premium gratuitamente para estudantes de baixa renda de escolas públicas comprovados (programa de bolsas).
+A marca deseja democratizar o acesso ao estudo de História, oferecendo plano gratuito funcional e bolsas Premium para estudantes de baixa renda. No primeiro ano, o programa de bolsas será limitado a 50 estudantes, com possibilidade de ampliação conforme a capacidade financeira.
 
-**Iniciativas:** Parceria com ONGs educacionais; compensação de carbono dos servidores; relatório anual de impacto social.
+**Iniciativas:** Parcerias com escolas públicas, cursinhos populares e ONGs educacionais serão priorizadas. A comunicação poderá utilizar um selo próprio, como “Empresa Amiga do Vestibulando”, sem afirmar certificações não obtidas.
 
-**Comunicação:** Destaque no site e redes sociais sobre o programa de bolsas; selo "Empresa B em formação".
+**Comunicação:** A responsabilidade social será comunicada em landing page, redes sociais e relatórios simples de impacto, destacando número de bolsas concedidas e histórias de uso da plataforma.
 
-### Posicionamento Estratégico da Marca no Mercado
+### 3.7.2. Posicionamento Estratégico da Marca no Mercado
 
-**Atuação:** Inicialmente na Baixada Santista (devido à base da FATEC), com rápida expansão digital para os grandes centros urbanos do Sudeste (São Paulo, Rio de Janeiro, Belo Horizonte). Após 12 meses, expansão para Sul e Nordeste.
+A atuação inicial será regional e digital: Baixada Santista como base de validação e canais online para alcançar estudantes do estado de São Paulo. Após o primeiro ano, com dados de retenção e conversão, a marca poderá ampliar sua atuação para São Paulo capital e interior. A expansão nacional será planejada apenas em etapa posterior, quando houver equipe, conteúdo e suporte suficientes.
 
-**Digital:** 100% online via navegador (web app), com planos para aplicativos nativos (iOS/Android) no segundo ano.
+**Digital:** A distribuição será 100% online via navegador, com possibilidade futura de aplicativo nativo para Android e iOS. O web app permite menor custo de entrada e maior flexibilidade para testes iniciais.
 
-#### Público-Alvo: Vestibulandos (Pessoas Físicas) e Cursinhos (Pessoas Jurídicas)
+#### 3.7.2.1. Público-Alvo: Vestibulandos e Cursinhos
 
-**Pessoas Físicas:** Jovens de 16 a 19 anos, de classe média, que estudam para vestibulares (ENEM, FUVEST, Unicamp) e sentem dificuldade específica em História ou em manter constância nos estudos.
+**Pessoas físicas:** Jovens de 16 a 19 anos, estudantes para ENEM, FUVEST, Unicamp e vestibulares regionais, que têm dificuldade em História ou em manter constância nos estudos.
 
-**Pessoas Jurídicas:** Cursinhos pré-vestibular da rede privada e pública que buscam inovação pedagógica para complementar suas aulas.
+**Pessoas jurídicas:** Cursinhos e escolas que buscam uma ferramenta complementar para revisão, produtividade e acompanhamento de desempenho em História.
 
-#### Análise de Forças e Fraquezas nesta Posição
+**Tabela 3.7 - Análise de forças e fraquezas do posicionamento**
 
-| **Pontos fortes** | **Pontos fracos** |
-|-------------------|-------------------|
-| **Produto Único:** Não há concorrente direto que integre *timer* Pomodoro + base de dados histórica com trava pedagógica. | **Marca Desconhecida:** Ausência de reconhecimento inicial frente a gigantes como Descomplica ou Stoodi. |
-| **Sustentabilidade Social:** Programa de bolsas para escolas públicas fortalece a imagem ética da marca. | **Capacidade de Produção Inicial:** Equipe pequena (3 pessoas), o que limita a velocidade de criação de novos conteúdos. |
-| **Acessibilidade Financeira:** Modelo Freemium permite entrada gratuita com barreira zero. | **Distribuição Inicial:** Restrita ao ambiente digital; dependência de algoritmos de busca e redes sociais para crescer. |
-| **Gamificação Pedagógica:** O personagem que evolui (e regride) com o desempenho gera engajamento emocional único. | **Concorrência Indireta:** Apps de produtividade (Forest, Focus To-Do) já possuem base instalada grande, mesmo sem conteúdo. |
+| **Pontos fortes**                                                                         | **Pontos fracos**                                                                       |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Produto único: integração entre timer Pomodoro, História, quizzes e trava pedagógica.     | Marca desconhecida: ausência de reconhecimento frente a plataformas consolidadas.       |
+| Sustentabilidade social: programa inicial de bolsas fortalece o propósito da marca.       | Capacidade produtiva inicial: equipe de três pessoas limita velocidade de expansão.     |
+| Acessibilidade financeira: modelo freemium reduz barreira de entrada.                     | Distribuição inicial dependente de canais digitais, algoritmos e parcerias regionais.   |
+| Gamificação pedagógica: personagem evolutivo cria vínculo emocional e reforça constância. | Concorrência indireta forte de apps de produtividade e plataformas educacionais amplas. |
 
-#### Estratégias Utilizadas
+#### 3.7.2.2. Estratégias Utilizadas
 
-- **Marketing de conteúdo (autoridade):**
-  - Produção de vídeos no TikTok e YouTube mostrando a eficácia da Técnica Pomodoro para reter datas e fatos históricos.
-  - Blog com artigos de produtividade científica (ex: "Como o cérebro retém informação em blocos de 25 minutos").
-- **Promoções e eventos (prova social):**
-  - "Dia da Demonstração" em cursinhos parceiros da Baixada Santista.
-  - Participação em feiras de profissões com desafios ao vivo (quem responde mais questões de História em 25 minutos ganha Premium).
-- **Inovação constante (barreira de saída):**
-  - Lançamento de novas funcionalidades a cada 2 meses (relatórios, skins, modos de estudo), mantendo o produto à frente de qualquer imitador.
-- **Sustentabilidade como diferencial competitivo:**
-  - Comunicação ativa do programa de bolsas (1% da receita para estudantes de baixa renda).
-  - Selo "Empresa Amiga do Vestibulando" que será usado em todas as campanhas para gerar identificação ética.
+- Marketing de conteúdo: vídeos e posts sobre Pomodoro, revisão de História, organização de estudos e demonstração do personagem evolutivo.
 
-## Definição da Marca
+- Eventos e prova social: demonstrações em cursinhos parceiros, webinars e desafios de 25 minutos relacionados a temas históricos.
 
-### Logotipo da empresa
+- Inovação gradual: novas funcionalidades a partir de feedback real, priorizando retenção e usabilidade antes de expansão acelerada.
 
-O logotipo da PomoHistória combina o ícone de um tomate (símbolo da Técnica Pomodoro) estilizado como um livro aberto ou pergaminho. As cores principais são: laranja vibrante (produtividade, energia), marrom-terra (história, tradição) e branco (simplicidade, foco). A tipografia é moderna, sem serifa, com leve toque manuscrito no "P" e "H". O logotipo será responsivo (versão horizontal para web, versão reduzida para favicon e apps).
+- Sustentabilidade como diferencial: programa de bolsas, comunicação ética e parceria com instituições educacionais de impacto social.
 
-### Slogan
+## 3.8. Definição da Marca
 
-*"Foco que virou história. Sua aprovação, um Pomodoro de cada vez."*
+### 3.8.1. Logotipo da empresa
 
-### Posicionamento Online
+O logotipo da PomoHistória combina o símbolo do tomate, associado à Técnica Pomodoro, com elementos visuais de livro, pergaminho ou linha do tempo histórica. As cores principais serão laranja, marrom-terra e branco, equilibrando energia, tradição, foco e simplicidade. A tipografia deve ser moderna, sem serifa, com boa leitura em telas pequenas. O logotipo terá versões horizontal, reduzida e favicon para uso no site, redes sociais e futura aplicação mobile.
 
-**Website:** [www.pomohistoria.com.br](https://www.pomohistoria.com.br/) (domínio a ser registrado). Site com landing page com demonstração do produto, planos, blog com artigos sobre produtividade e história, área de suporte.
+### 3.8.2. Slogan
 
-**Presença nas Redes Sociais:** No Instagram e no TikTok postagem de conteúdo curto com dicas de história, curiosidades sobre a técnica pomodoro, desafios de 25 minutos e evolução de personagens de usuários. Posts tem hashtags estratégicas para o público-alvo como "#PomoHistoria", "#FocoQueVirouHistoria" e "#FocaNaHistoria".
+“Foco que virou história. Sua aprovação, um Pomodoro de cada vez.”
 
-**YouTube:** Vídeos tutoriais, webinars, "study with me" ao vivo, análise de questões de história com a ferramenta após vestibulares.
+### 3.8.3. Posicionamento Online
 
-**Discord:** Comunidade para troca de experiências, grupos de estudo, desafios semanais.
+**Website:** O website www.pomohistoria.com.br, a ser registrado, deverá conter landing page, demonstração do produto, planos, blog, FAQ, política de privacidade, formulário de suporte e área para lista de espera ou cadastro.
 
-**LinkedIn:** Posicionamento institucional, parcerias com escolas, artigos sobre EdTech e produtividade.
+**Redes sociais:** Instagram e TikTok serão usados para vídeos curtos com dicas de História, desafios de 25 minutos, bastidores da plataforma e evolução do personagem. As hashtags principais serão \#PomoHistoria, \#FocoQueVirouHistoria, \#StudyTok e \#HistoriaEnem.
 
-## Definições de Objetivos e Metas (Período De Maio/2026 a Abril/2027)
+**YouTube:** O canal no YouTube será utilizado para tutoriais, webinars, estudos guiados e análise de questões de História após vestibulares.
 
-### Objetivos
+**Discord/WhatsApp:** A comunidade servirá para grupos de estudo, desafios semanais e coleta de feedback de usuários beta.
 
-| **Objetivo** | **Meta** | **Ação** |
-|--------------|----------|----------|
-| Aumentar as conversões (assinaturas premium) | 1.000 assinantes pagos até abril/2027 (taxa de conversão de 5% sobre usuários ativos) | 1) Campanhas de remarketing para usuários gratuitos com alta atividade; 2) Oferta de desconto de 30% no primeiro mês; 3) Demonstração do premium com 7 dias grátis |
-| Expandir a Presença Online | 50.000 visitas únicas ao site por mês; 20.000 seguidores somados (Instagram + TikTok) | 1) SEO agressivo para "história para o ENEM"; 2) Parcerias com 10 influenciadores; 3) Anúncios pagos segmentados |
-| Melhorar a Satisfação do Cliente | NPS ≥ 60; taxa de retenção (churn) < 5% ao mês | 1) Suporte via WhatsApp em até 2 horas; 2) Pesquisa de satisfação pós-onboarding; 3) Roadmap público de funcionalidades |
-| Ampliar a Variedade de Produtos | Lançar módulo de "História do Brasil Recente" (Premium) e 2 trilhas temáticas gratuitas | 1) Contratação de professor conteudista; 2) Desenvolvimento de 200 novas questões; 3) Lançamento em duas etapas (out/2026 e jan/2027) |
-| Fortalecer a Marca | Ser citada em pelo menos 3 veículos de imprensa especializados (EdTech, educação) | 1) Assessoria de imprensa; 2) Cases de sucesso de usuários aprovados; 3) Participação em podcasts educacionais |
-| Otimizar a Logística e Entrega (digital) | Disponibilidade (uptime) de 99,9%; tempo de carregamento < 2 segundos | 1) Contrato com servidor cloud com SLA; 2) Monitoramento 24/7; 3) Testes de carga mensais |
-| Implementar Práticas Sustentáveis | Conceder 500 bolsas gratuitas do plano premium para estudantes de baixa renda até abril/2027 | 1) Parceria com escolas públicas e ONGs; 2) Formulário de candidatura simplificado; 3) Relatório de impacto |
-| Aumentar a Capacidade de Personalização | Oferecer 3 skins de personagem de História mais recentes | 1) Desenvolvimento de sistema de customização; 2) Pesquisa com usuários sobre preferências |
-| Melhorar o Atendimento ao Cliente | Tempo médio de resposta < 2 horas (canais: e-mail, WhatsApp, chat in-app) | 1) Contratação de atendente (meio período); 2) Base de conhecimento com FAQ; 3) Chatbot para dúvidas comuns |
-| Aumentar o Faturamento em %: | R$30.000,00 de receita anual (considerando assinaturas premium e planos corporativos) | 1) Ticket médio de R$19,90/mês (plano mensal), 99,90/semestral e R$149,00/ano; 2) Vendas B2B para 10 cursinhos; 3) Upsell de relatórios avançados |
+**LinkedIn:** O LinkedIn será utilizado para posicionamento institucional, relacionamento com escolas, cursinhos e parceiros de EdTech.
 
-## Definição das estratégias de marketing
+## 3.9. Definições de Objetivos e Metas (Período de Maio/2026 a Abril/2027)
 
-### Investimentos e suas possíveis fontes
+### 3.9.1. Objetivos
 
-| **Destinação dos Recursos** | **Valor (R$)** | **Justificativa** |
-|-----------------------------|----------------|--------------------|
-| Hospedagem e infraestrutura em nuvem | R$ 2.500,00 | Serviços AWS/GCP (camada gratuita inicial + upgrades conforme demanda) para 12 meses |
-| Domínio e certificado SSL | R$ 100,00 | Registro de domínio (.com.br) por 1 ano |
-| Ferramentas de marketing e CRM | R$ 1.500,00 | Assinatura de ferramentas como RD Station (plano básico) ou Mailchimp + agendador de redes sociais |
-| Gateways de pagamento (taxas iniciais) | R$ 500,00 | Configuração de Stripe, Mercado Pago ou Asaas (taxas de abertura e primeiras transações) |
-| Produção de conteúdo inicial | R$ 2.000,00 | Contratação pontual de um professor de História para revisar e estruturar os primeiros 100 quizzes e módulos |
-| Design e identidade visual | R$ 1.200,00 | Pacote básico de logotipo, paleta de cores, ícones e assets do personagem (via plataforma como 99designs ou profissional freelancer) |
-| Marketing digital (campanha piloto) | R$ 1.500,00 | Testes iniciais de anúncios no Instagram e Google Ads (R$ 500/mês por 3 meses) |
-| Imprevistos e taxas bancárias | R$ 700,00 | Reserva de 7% para ajustes e custos não previstos |
-| **TOTAL** | **R$ 10.000,00** | |
+**Tabela 3.8 - Objetivos, metas e ações do primeiro ano**
 
-**Possíveis Fontes de Captação**
+| **Objetivo**                        | **Meta**                                                                                                                 | **Ação**                                                                                                                    |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Aumentar conversões Premium         | 25 a 50 assinantes pagos até abril/2027, representando 5% a 10% dos 500 usuários ativos mensais.                         | Remarketing para usuários engajados; teste gratuito limitado; desconto no primeiro mês; e-mails de upgrade baseados em uso. |
+| Expandir presença online            | 1.000 usuários cadastrados, 500 MAU e 3.000 seguidores somados em Instagram e TikTok.                                    | Conteúdo orgânico frequente; SEO inicial; divulgação em grupos de estudo; parcerias com microinfluenciadores.               |
+| Melhorar satisfação do cliente      | NPS inicial acima de 50 e churn mensal abaixo de 8% na base Premium.                                                     | Onboarding simples; pesquisa pós-uso; roadmap transparente; correções priorizadas por feedback.                             |
+| Ampliar variedade de produto        | Lançar módulos Premium de História do Brasil e 2 trilhas temáticas gratuitas até abril/2027.                             | Revisão de conteúdo por professor parceiro; criação de novos quizzes; cronograma de publicação por temas.                   |
+| Fortalecer a marca                  | Firmar 3 parcerias educacionais regionais e obter 10 depoimentos qualificados de usuários beta.                          | Demonstrações em cursinhos; coleta de cases de uso; publicação de prova social em landing pages.                            |
+| Otimizar entrega digital            | Disponibilidade mínima de 99% e tempo de carregamento médio inferior a 3 segundos no MVP.                                | Hospedagem estável; monitoramento básico; otimização de imagens e código; testes de carga simples.                          |
+| Implementar responsabilidade social | Conceder 50 bolsas Premium no primeiro ano.                                                                              | Formulário simplificado; parceria com escolas públicas; critérios claros de seleção; relatório de impacto.                  |
+| Aumentar personalização             | Oferecer 3 skins ou fases visuais do personagem relacionadas a períodos históricos.                                      | Pesquisa com usuários; criação de assets visuais; desbloqueio por progresso e constância.                                   |
+| Melhorar atendimento                | Responder usuários Premium em até 24 horas úteis, gratuitos em até 48 horas úteis e parceiros B2B em até 12 horas úteis. | FAQ, respostas padronizadas, WhatsApp Business e registro de dúvidas recorrentes.                                           |
+| Gerar faturamento inicial           | R$ 5.000,00 a R$ 15.000,00 de receita no primeiro ciclo anual.                                                         | Planos mensal, semestral e anual; cupons rastreáveis; testes B2B; upsell de relatórios e personalização.                    |
 
-| Fonte | Valor Alvo (R$) | Estratégia e Viabilidade |
-|-------|----------------|---------------------------|
-| Recursos próprios (bootstrap) | R$ 6.000,00 | Contribuição igualitária entre os 3 sócios: R$ 2.000,00 cada, provenientes de economia pessoal, estágio ou trabalho autônomo. É a fonte mais rápida e sem burocracia. |
-| Edital de fomento à inovação da FATEC / CPS | R$ 3.000,00 | Submissão do projeto PomoHistória a editais internos como o "Programa de Apoio à Inovação" do Centro Paula Souza. Valor compatível com premiações de protótipos e MVPs. |
-| Crowdfunding entre amigos e familiares | R$ 1.000,00 | Campanha simples e direta via Vaquinha Online ou Catarse, oferecendo recompensas simbólicas (agradecimento no site, 1 mês de Premium grátis). Ideal para complementar o valor restante. |
-| **TOTAL** | **R$ 10.000,00** | |
+## 3.10. Definição das estratégias de marketing
 
-### Fatores para a montagem da estratégia de marketing
+### 3.10.1. Investimentos e suas possíveis fontes
+
+O plano financeiro será organizado em dois cenários para evitar conflito entre orçamento mínimo e expansão ideal. O cenário operacional mínimo, já apresentado no Plano de Ação, considera R$2.000,00 para lançar e validar o MVP. O cenário de captação ideal, apresentado a seguir, considera R$10.000,00 e seria utilizado apenas se a equipe obtiver recursos adicionais por editais, crowdfunding ou aporte dos sócios.
+
+**Tabela 3.9 - Destinação de recursos no cenário de captação ideal**
+
+| **Destinação dos recursos**                     | **Valor**     | **Justificativa**                                                                                    |
+|-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------|
+| Hospedagem e infraestrutura em nuvem            | R$ 2.000,00  | Reserva para upgrades de hospedagem, banco de dados e monitoramento conforme aumento de usuários.    |
+| Domínio, certificado SSL e ferramentas técnicas | R$ 300,00    | Registro de domínio, manutenção de certificado e pequenas ferramentas de produtividade técnica.      |
+| Ferramentas de marketing e CRM                  | R$ 1.000,00  | Uso de ferramenta de e-mail marketing, landing page, agendamento de redes e automação básica.        |
+| Gateway de pagamento e taxas iniciais           | R$ 500,00    | Cobertura de taxas de transação, testes de cobrança e eventuais custos de integração.                |
+| Produção e revisão de conteúdo                  | R$ 2.000,00  | Contratação pontual de professor de História para revisar módulos, questões e comentários.           |
+| Design e identidade visual                      | R$ 1.200,00  | Aprimoramento do logotipo, paleta, ícones, personagem e materiais digitais.                          |
+| Marketing digital piloto                        | R$ 2.000,00  | Testes controlados de anúncios em períodos de maior demanda, sem dependência contínua de mídia paga. |
+| Imprevistos e taxas bancárias                   | R$ 1.000,00  | Reserva para custos não previstos, ajustes legais, bancos de imagem ou ferramentas pontuais.         |
+| TOTAL                                           | R$ 10.000,00 | Cenário ideal de aceleração, não obrigatório para validar o MVP.                                     |
+
+**Tabela 3.10 - Possíveis fontes de captação**
+
+| **Fonte**                       | **Valor alvo**              | **Estratégia e viabilidade**                                                                              |
+|---------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------|
+| Recursos próprios (bootstrap)   | R$ 2.000,00 a R$ 6.000,00 | Contribuição dos sócios conforme disponibilidade, priorizando o cenário mínimo para lançar o MVP.         |
+| Editais de fomento à inovação   | Até R$ 3.000,00            | Submissão a programas da FATEC, Centro Paula Souza ou iniciativas voltadas a EdTechs e inovação.          |
+| Crowdfunding entre rede próxima | Até R$ 1.000,00            | Campanha simples com recompensas simbólicas, como agradecimento no site ou acesso Premium.                |
+| Parcerias educacionais          | Valor variável              | Apoio de cursinhos, professores ou instituições em troca de visibilidade, acesso ou piloto institucional. |
+| TOTAL POTENCIAL                 | Até R$ 10.000,00           | Valor destinado a acelerar o projeto, sem substituir a viabilidade do cenário mínimo.                     |
+
+### 3.10.2. Fatores para a montagem da estratégia de marketing
 
 #### Internos
 
-**Objetivos da Marca:** Expandir para outros estados do Brasil e se consolidar no mercado como uma ferramenta de estudo indispensável para a matéria de história.
+**Objetivos da marca:** O objetivo da marca no primeiro ano não é dominar o mercado nacional, mas validar o MVP, formar base inicial de usuários e comprovar retenção. A consolidação nacional será um objetivo futuro.
 
-**Natureza dos Produtos:** PomoHistória é um produto de natureza digital.
+**Natureza dos produtos:** O produto é digital, escalável e baseado em assinatura. Essa natureza permite testes rápidos, coleta de dados e ajustes frequentes.
 
-**Ciclo de Vida dos Produtos:** Lançamento (MVP) e crescimento inicial. Estratégia focada em aquisição e ativação.
+**Ciclo de vida dos produtos:** O produto está em fase de introdução/MVP. A estratégia deve focar aquisição inicial, ativação, validação e retenção, não crescimento acelerado.
 
-**Recursos Disponíveis:** Equipe enxuta (3 sócios) com habilidades complementares (dev, design, marketing). Orçamento limitado no primeiro ano.
+**Recursos disponíveis:** A equipe é enxuta, com três sócios e orçamento limitado. Isso exige priorização de canais orgânicos, parcerias e automação.
 
 #### Externos
 
-**Nível de Competição:** Baixo (nenhum concorrente direto com integração pomodoro + conteúdo histórico). Ameaça de entrantes (grandes EdTechs) média.
+**Nível de competição:** A concorrência direta é baixa, mas a concorrência indireta é forte. O posicionamento precisa explicar rapidamente por que a integração entre Pomodoro e História é diferente de usar um cronômetro comum e uma apostila separada.
 
-**Comportamento do Consumidor:** Vestibulandos buscam soluções práticas, baratas e com resultado perceptível. Decisão de compra influenciada por pares e influenciadores digitais.
+**Comportamento do consumidor:** Vestibulandos buscam soluções práticas, baratas e com resultado perceptível. A decisão de compra é influenciada por colegas, professores, influenciadores e evidências sociais.
 
-**Eficiência dos Canais de Comunicação:** TikTok e Instagram são os mais eficientes para o público (alto engajamento com conteúmos de estudo). Google Ads é eficiente para captar demanda por "técnica pomodoro" e "história enem".
+**Eficiência dos canais:** TikTok, Instagram, YouTube, blog e comunidades de estudo são os canais prioritários. Google Ads pode ser testado para captar demanda ativa por “história ENEM” e “técnica Pomodoro”.
 
-**Regulamentações Governamentais:** LGPD exige transparência no uso de dados e consentimento. Seguir as normas do CDC para assinaturas (canceis facilmente, reembolso em 7 dias).
+**Regulamentações:** A estratégia deve respeitar LGPD, Código de Defesa do Consumidor, política de reembolso, cancelamento facilitado e clareza sobre dados coletados.
 
-#### Principais Ações de Marketing
+#### Principais ações de marketing
 
-**Campanha Publicitária:** "Foco que vira história" (vídeos com depoimentos, explicação da gamificação).
+- Campanha publicitária “Foco que vira História”, com vídeos demonstrando o problema da dispersão e a solução integrada da plataforma.
 
-**Participação em Eventos:** Feira de profissões na FATEC, simpósios de educação.
+- Participação em eventos acadêmicos regionais, feiras de profissões e encontros com cursinhos parceiros.
 
-**Presença nas Mídias Sociais:** Conteúdo diário no TikTok e Instagram (dicas de história, desafios pomodoro).
+- Presença em mídias sociais com conteúdo educativo, bastidores do produto e desafios Pomodoro.
 
-**Parcerias com Influenciadores:** "Edutubers" (Pirulla, Débora Aladim, etc.) e "studygrammers" com mais de 10k seguidores.
+- Parcerias com microinfluenciadores e studygrammers entre 5 mil e 20 mil seguidores, priorizando engajamento e permuta.
 
-**Promoções e Ofertas Especiais:** Primeiro mês de premium com 50% de desconto; plano anual com 2 meses grátis.
+- Promoções de lançamento, como 15 dias de Premium para inscritos em webinar e desconto no primeiro mês.
 
-## PRODUTO
+## 3.11. PRODUTO
 
-O produto **PomoHistória** é uma aplicação web educacional que proporciona uma experiência interativa de aprendizagem, integrando técnicas de produtividade, gamificação e conteúdo acadêmico voltado ao ensino de História. A plataforma busca promover maior foco, organização e constância nos estudos, oferecendo ao usuário um ambiente digital dinâmico e motivador.
+O PomoHistória é uma aplicação web educacional que integra Técnica Pomodoro, conteúdos de História, questionários de revisão, trava pedagógica e gamificação. A primeira versão será um MVP focado em validar se os estudantes conseguem estudar com mais constância quando tempo, conteúdo e progresso visual estão conectados.
 
-### Ciclo de Vida Do Produto - Fase Atual
+A primeira versão terá cadastro, temporizador, módulos introdutórios de História Geral, quizzes básicos e evolução simples do personagem. Recursos avançados, como relatórios detalhados, personalização ampla, trilhas adaptativas e expansão para outras disciplinas, serão implementados após validação de uso e retenção.
 
-Crescimento: O produto encontra-se em fase de crescimento e consolidação, com desenvolvimento contínuo de funcionalidades, ampliação do conteúdo acadêmico e fortalecimento da identidade digital da plataforma.
+### 3.11.1. Ciclo de Vida do Produto - Fase Atual
 
-### Ações a partir da fase atual
+A fase atual é de desenvolvimento e introdução de MVP. Portanto, não é adequado classificá-lo como produto em crescimento ou consolidação, pois ainda não há base ativa suficiente, métricas de retenção consolidadas ou receita recorrente relevante. A estratégia correta é validar a proposta, corrigir a experiência e preparar o lançamento público.
 
-**Expansão de Mercado:** Ampliação do alcance da plataforma para estudantes de diferentes regiões e futuras expansões para outras áreas do conhecimento além da História.
+### 3.11.2. Ações a partir da fase atual
 
-**Aumentar a Presença Online e Física:** Fortalecimento da presença em redes sociais, plataformas educacionais e participação em eventos acadêmicos e tecnológicos.
+- Finalizar requisitos, wireframes e fluxo de navegação do MVP.
 
-**Participar de Feiras e Eventos:** Participação em feiras de tecnologia, educação e inovação voltadas ao público jovem e estudantil.
+- Desenvolver o temporizador, quizzes, progressão do personagem e trava pedagógica.
 
-**Inovação:** Implementação contínua de novas funcionalidades, melhorias na gamificação e utilização de tecnologias voltadas à personalização da experiência do usuário.
+- Criar landing page e lista de espera para captar interessados antes do lançamento.
 
-**Novos Produtos e Edições Sazonais:** Desenvolvimento de conteúdos especiais para vestibulares, ENEM e períodos de alta demanda acadêmica.
+- Realizar teste beta com 50 usuários e priorizar ajustes de usabilidade.
 
-**Personalização de Produtos:** Criação de trilhas de estudo personalizadas conforme desempenho e progresso do estudante.
+- Lançar campanha inicial com foco em demonstração do produto, não em promessas de aprovação.
 
-**Melhoria de Serviços:** Aprimoramento contínuo da interface, desempenho da plataforma e experiência de navegação.
+- Publicar novos módulos e melhorias de forma gradual, com base em feedback real.
 
-**Otimização da Logística de Entrega:** Garantia de estabilidade, rapidez de carregamento e acessibilidade da aplicação em diferentes dispositivos.
+### 3.11.3. Estratégias de Crescimento
 
-**Aprimoramento do Atendimento ao Cliente:** Implementação de canais de suporte eficientes e mecanismos de feedback para maior proximidade com os usuários.
+- Crescimento orgânico por conteúdo educativo, SEO inicial, vídeos curtos e comunidade.
 
-### Estratégias de Crescimento
+- Programa de indicação para transformar usuários satisfeitos em canal de aquisição.
 
-**Marketing Digital:** Fortalecimento da marca através de campanhas digitais e produção de conteúdo educativo.
+- Parcerias com cursinhos e professores para validação e demonstração em turmas.
 
-**Campanhas nas Redes Sociais:** Divulgação da plataforma em redes sociais por meio de conteúdos interativos, dicas de estudo e divulgação de funcionalidades.
+- Campanhas sazonais em meses de maior procura por preparação para vestibulares.
 
-**Promoções e Ofertas Especiais:** Disponibilização de benefícios promocionais para novos usuários e campanhas sazonais.
+- Melhoria contínua baseada em métricas de ativação, retenção e conversão.
 
-**Parcerias Estratégicas:** Desenvolvimento de parcerias com instituições de ensino, professores e criadores de conteúdo educacional.
+### 3.11.4. Oportunidades de Crescimento Visualizadas
 
-**Colaborações com Estabelecimentos:** Cooperação com escolas, cursinhos preparatórios e plataformas acadêmicas.
+As principais oportunidades estão na expansão de módulos de História do Brasil, criação de trilhas específicas para ENEM e FUVEST, desenvolvimento de versão mobile, oferta de planos institucionais para cursinhos e ampliação futura para Geografia, Sociologia e Filosofia. Essas oportunidades devem ser tratadas como roadmap, não como obrigação do primeiro MVP.
 
-**Participação em Eventos:** Presença em eventos acadêmicos e tecnológicos para fortalecimento da marca.
+## 3.12. PREÇO
 
-**Feedback e Melhoria Contínua:** Monitoramento constante da experiência do usuário para aprimoramento da plataforma.
+A política de preços do PomoHistória será orientada por acessibilidade, transparência e recorrência. O modelo freemium permite que o estudante utilize a ferramenta gratuitamente antes de assinar, enquanto os planos pagos financiam atualização de conteúdo, estabilidade técnica e evolução da plataforma.
 
-**Pesquisas de Satisfação:** Realização de pesquisas periódicas para identificar oportunidades de melhoria.
+O plano gratuito incluirá temporizador Pomodoro, módulos introdutórios de História Geral, quizzes básicos, evolução inicial do personagem e participação em desafios gratuitos. O plano Premium incluirá História do Brasil completa, módulos avançados de História Geral, questionários com feedback detalhado, relatórios de desempenho, personalização do personagem e recursos adicionais de acompanhamento.
 
-**Implementação de Sugestões:** Análise e aplicação de sugestões relevantes enviadas pelos usuários.
+**Tabela 3.11 - Estrutura de preços do PomoHistória**
 
-**Sustentabilidade:** Promoção de práticas digitais sustentáveis através de um produto totalmente virtual.
+| **Plano** | **Valor**  | **Oferta principal**                                                                   |
+|-----------|------------|----------------------------------------------------------------------------------------|
+| Freemium  | Gratuito   | Temporizador, módulos introdutórios, quizzes básicos e evolução inicial do personagem. |
+| Mensal    | R$ 19,90  | Acesso Premium sem compromisso de longo prazo.                                         |
+| Semestral | R$ 69,90  | Preço alinhado ao ciclo acadêmico e à preparação semestral.                            |
+| Anual     | R$ 149,00 | Melhor custo-benefício para preparação contínua e maior retenção.                      |
+| Cupons    | Variável   | Descontos rastreáveis para influenciadores, webinars e cursinhos parceiros.            |
 
-**Embalagens Ecológicas:** Por tratar-se de um produto digital, não há necessidade de embalagens físicas, reduzindo impactos ambientais.
+### 3.12.1. Estratégias a serem Adotadas pela Empresa
 
-**Práticas Sustentáveis:** Utilização consciente de recursos tecnológicos e incentivo à digitalização do aprendizado.
+A estratégia de preço combinará entrada gratuita, planos pagos acessíveis, cupons sazonais e transparência de cancelamento. O objetivo é reduzir objeções de compra e estimular conversão apenas depois que o usuário perceber valor.
 
-**Expansão Geográfica:** Possibilidade de expansão para novas regiões e mercados educacionais.
+### 3.12.2. Diversificação de Preços na Diversidade dos Produtos
 
-**Novas Regiões:** Ampliação gradual da plataforma para diferentes estados e instituições de ensino.
+A diversificação ocorrerá por nível de acesso: gratuito, mensal, semestral, anual e, futuramente, institucional. Cada plano deve ter benefícios claros, evitando confusão entre o que é gratuito e o que pertence ao Premium.
 
-**Pontos de Venda Estratégicos:** Disponibilização da plataforma em canais digitais amplamente acessíveis.
+### 3.12.3. Preço Baseado nos Valores Percebidos aos Produtos Especiais
 
-### Oportunidades de Crescimento Visualizadas
+O Premium será precificado com base nos benefícios percebidos: conteúdo completo, feedback, relatórios, personalização e acompanhamento. A comunicação deve mostrar como esses recursos ajudam o estudante a estudar com mais clareza e constância.
 
-**Expansão Online:** Ampliação da presença digital e desenvolvimento futuro de versão mobile da plataforma.
+### 3.12.4. Estratégia de Preços Acessíveis aos Produtos Tradicionais
 
-**Novos Segmentos de Mercado:** Expansão para outras disciplinas e públicos acadêmicos.
+O plano gratuito garantirá acesso real à proposta central, enquanto o Premium terá valor inferior ao de muitos materiais avulsos ou assinaturas educacionais amplas, mantendo acessibilidade para o público jovem.
 
-**Eventos e Festividades:** Criação de campanhas temáticas em períodos de vestibulares e datas educacionais importantes.
+### 3.12.5. Ajuste de Preços por Segmento
 
-## PREÇO
+Estudantes individuais terão planos freemium e Premium. Cursinhos e escolas poderão testar, futuramente, planos institucionais por turma ou lote de alunos, com relatórios agregados e condições negociadas.
 
-O preço do PomoHistória é definido para refletir sua qualidade, acessibilidade e proposta educacional inovadora, mantendo um valor competitivo e acessível ao público estudantil. A plataforma utilizará o modelo freemium, permitindo que usuários tenham acesso gratuito a uma experiência completa e funcional, incluindo o temporizador Pomodoro, módulos introdutórios de História, evolução do personagem virtual e recursos básicos de acompanhamento de desempenho.
+### 3.12.6. Estrutura de Preços Dinâmico
 
-Além da modalidade gratuita, o PomoHistória contará com planos premium voltados para estudantes que desejam aprofundamento acadêmico e maior personalização da experiência. O plano mensal terá valor de R$19,90, oferecendo acesso a conteúdos avançados, módulos adicionais de História Contemporânea e temas mais recorrentes em vestibulares, além de questionários especializados, relatórios detalhados e funcionalidades exclusivas. O plano semestral será disponibilizado por R$99,90, alinhando-se aos ciclos acadêmicos e vestibulares. Já o plano anual terá valor de R$149,00, oferecendo maior custo-benefício para estudantes em preparação contínua de longo prazo.
+Os preços não devem variar de forma confusa. A dinâmica ocorrerá por campanhas sazonais, cupons e períodos promocionais, principalmente antes de ENEM, FUVEST, início do ano letivo e Black Friday.
 
-### Estratégias a serem Adotadas pela Empresa.
+### 3.12.7. Preços com Relação aos Custos
 
-As estratégias de precificação buscam equilibrar acessibilidade, competitividade e sustentabilidade financeira da plataforma.
+Como o custo marginal de usuários digitais é baixo, a empresa pode manter plano gratuito robusto. Ainda assim, o preço Premium precisa cobrir hospedagem, conteúdo, suporte, taxas de pagamento e evolução do produto.
 
-### Diversificação de Preços na Diversidade dos Produtos
+### 3.12.8. Estratégia de Pacotes Combinados de Vendas
 
-**Variação Por Composição:** Disponibilização de diferentes planos e funcionalidades conforme o perfil e necessidade do usuário.
+Pacotes combinados poderão incluir assinatura Premium, trilhas temáticas, acesso antecipado a conteúdos, certificados digitais e, no B2B, relatórios para professores.
 
-### Preço Baseado Nos Valores Percebidos Aos Produtos Especiais
+### 3.12.9. Fidelização do Cliente
 
-**Qualidade e Exclusividade:** Planos premium com recursos avançados, conteúdos exclusivos e personalização da experiência.
+A fidelização será estimulada por planos semestrais e anuais, evolução do personagem, relatórios de progresso, desafios e recompensas por constância. O programa de indicação também funcionará como ferramenta de retenção.
 
-### Estratégia De Preços Acessíveis Aos Produtos Tradicionais
+### 3.12.10. Preço para Adentrar no Mercado
 
-**Equilíbrio entre Qualidade e Preço:** Manutenção de funcionalidades essenciais acessíveis ao público jovem e estudantil.
+O plano gratuito e descontos de lançamento serão usados para reduzir barreiras iniciais. A meta não é maximizar receita no primeiro mês, mas formar base, provar valor e converter usuários engajados de forma sustentável.
 
-### Ajuste de Preços por Segmento
+### 3.12.11. Transparência nos Preços
 
-**Segmentação de Mercado:** Adaptação de planos voltados para estudantes, instituições e possíveis parceiros educacionais.
+Todos os planos devem apresentar preço, benefícios, forma de cobrança, política de cancelamento e reembolso de 7 dias de maneira clara. A transparência é essencial para gerar confiança em um público jovem e em seus responsáveis.
 
-### Estrutura de Preços Dinâmico
+## 3.13. PRAÇA
 
-**Promoções e Descontos Sazonais:** Ofertas promocionais em períodos de vestibulares, ENEM e campanhas especiais.
+### 3.13.1. Estratégias de Praça
 
-### Preços com Relação aos Custos
+A praça principal do PomoHistória é digital. A plataforma será acessada por navegador, sem necessidade inicial de aplicativo instalado. A estratégia de distribuição envolve site, landing page, blog, redes sociais, comunidade, e-mail marketing e parcerias educacionais.
 
-**Margem de Lucro Saudável:** Definição de preços compatíveis com custos operacionais e crescimento sustentável da plataforma.
+### 3.13.2. Diversificação dos Pontos de Venda
 
-### Estratégia de Pacotes Combinados de Vendas.
+Embora o produto não dependa de ponto físico, os canais de acesso serão diversificados: site oficial, landing pages de campanhas, links de influenciadores, páginas para cursinhos parceiros e futuras lojas de aplicativos. A expressão “ponto de venda” deve ser entendida como ponto digital de conversão.
 
-**Pacotes Promocionais:** Combinação de funcionalidades e benefícios em planos diferenciados.
+### 3.13.3. Parcerias com Serviços de Entrega
 
-### Fidelização do Cliente.
+Por ser um serviço digital, a entrega corresponde à disponibilidade da plataforma. A empresa utilizará hospedagem confiável, monitoramento de estabilidade e canais de suporte para garantir acesso contínuo ao usuário.
 
-**Programas de Fidelidade:** Sistema de recompensas e benefícios para usuários ativos e frequentes.
+### 3.13.4. Degustações e Experiências Sensoriais
 
-### Preço para Adentrar no Mercado
+A degustação será substituída por demonstrações gratuitas, testes beta, vídeos de uso e sessões guiadas em webinars ou eventos de cursinhos. O objetivo é permitir que o estudante experimente a dinâmica de Pomodoro, quiz e evolução visual antes de assinar.
 
-**Lançamento de Novos Produtos:** Estratégias promocionais para introdução de novas funcionalidades e serviços.
+### 3.13.5. Amostras Grátis em Eventos
 
-### Transparência nos Preços
+Em feiras, palestras e eventos acadêmicos, serão oferecidos cupons de teste, acesso temporário Premium e desafios rápidos de História. Essas ações funcionam como amostras digitais da plataforma.
 
-**Comunicação Clara:** Apresentação objetiva dos planos, funcionalidades e benefícios oferecidos pela plataforma.
+### 3.13.6. Canais de Venda Direta
 
-## PRAÇA
+A venda direta ocorrerá pelo site, por landing pages e por contato com escolas e cursinhos. No B2B, a abordagem será consultiva, com demonstração da plataforma e proposta piloto.
 
-### Estratégias de Praça
+### 3.13.7. Plataforma de Multicanais
 
-As estratégias de distribuição visam ampliar o alcance da plataforma, garantindo acessibilidade, praticidade e presença digital eficiente.
+A presença multicanal integrará site, redes sociais, e-mail, comunidade e atendimento. A comunicação deve manter identidade visual e mensagem consistentes em todos os pontos de contato.
 
-### Diversificação dos Pontos de Venda
+### 3.13.8. Distribuição Seletiva
 
-**Pontos de Venda Físicos e Online:** Disponibilização da plataforma em ambiente totalmente digital, com acesso facilitado por navegadores e dispositivos móveis.
+Na fase inicial, a distribuição seletiva priorizará canais onde o público já busca estudo e produtividade: grupos de vestibulandos, perfis de estudo, cursinhos parceiros e comunidades educacionais.
 
-### Parcerias com Serviços de Entrega
+### 3.13.9. Expansão Mercadológica
 
-**Entrega sob Demanda e Aplicativos de produto:** Utilização de serviços de hospedagem e distribuição digital para garantir estabilidade e disponibilidade contínua.
+A expansão será feita em fases: Baixada Santista e validação digital em 2026/2027; São Paulo capital e interior em 2027; expansão nacional gradual a partir de 2028, conforme dados e estrutura.
 
-### Degustações e Experiências Sensoriais
+### 3.13.10. Distribuição Inteligente
 
-**Experiências em Lojas Parceiras:** Disponibilização de demonstrações da plataforma em instituições de ensino e eventos acadêmicos.
+A distribuição inteligente será orientada por dados de acesso, origem dos usuários, conversão por canal, retenção e custo por aquisição. Canais com baixa conversão serão ajustados ou interrompidos.
 
-### Amostras Grátis em Eventos
+### 3.13.11. Experiência de Compra Personalizada
 
-**Eventos e Feiras:** Oferta de testes gratuitos e acesso demonstrativo em feiras educacionais e tecnológicas.
+A experiência de compra deve reconhecer o perfil do usuário. Um estudante recém-cadastrado receberá mensagens educativas; um usuário ativo poderá receber oferta de Premium; uma instituição receberá proposta com foco em turma, relatórios e suporte.
 
-### Canais de Venda Direta
+## 3.14. PROMOÇÃO
 
-**Vendas Corporativas e Parcerias:** Parcerias com escolas, cursinhos e instituições de ensino.
+### 3.14.1. Estratégias de Promoções a serem Praticadas
 
-### Plataforma de Multi Canais
+As estratégias promocionais terão como objetivo gerar conhecimento de marca, demonstrar valor do MVP, captar usuários beta, converter usuários engajados e formar comunidade. A comunicação precisa ser educativa antes de ser comercial.
 
-**Integração de Canais:** Integração entre site, redes sociais e futuras aplicações mobile.
+### 3.14.2. Campanhas Publicitárias
 
-### Distribuição Seletiva
+A campanha “Foco que vira História” será a principal linha criativa. Ela mostrará estudantes dispersos com várias ferramentas e, em seguida, a solução integrada do PomoHistória. Os anúncios pagos serão limitados a testes de R$400,00 no período inicial.
 
-**Seleção de Canais:** Escolha estratégica de canais digitais alinhados ao público-alvo.
+### 3.14.3. Participação em Eventos
 
-### Expansão Mercadológica
+A empresa poderá participar de feiras de profissões, eventos acadêmicos, apresentações em cursinhos e lives educacionais. O foco será demonstração do produto e captação de usuários beta ou leads.
 
-**Novos Mercados Geográficos:** Expansão gradual para novas regiões e instituições acadêmicas.
+### 3.14.4. Parcerias com Influenciadores Digitais
 
-### Distribuição Inteligente
+As parcerias iniciais serão com micro e nano influenciadores de estudo, preferencialmente entre 5 mil e 20 mil seguidores, que falem com vestibulandos. Grandes influenciadores poderão ser considerados no futuro, mas não fazem parte do cenário de baixo custo do primeiro ano.
 
-**Logística e Distribuição:** Infraestrutura digital eficiente para garantir estabilidade e acessibilidade da plataforma.
+### 3.14.5. Promoções Especiais de Lançamento
 
-### Experiência de Compra Personalizada
+Durante o lançamento, inscritos em webinars poderão receber 15 dias de Premium. Usuários beta poderão ganhar acesso estendido em troca de feedback qualificado. O primeiro mês poderá ter desconto promocional para validar conversão.
 
-**Atendimento ao Cliente:** Suporte digital acessível e acompanhamento personalizado da experiência do usuário.
+### 3.14.6. Publicidade Online e Offline
 
-## PROMOÇÃO
+A publicidade online será concentrada em redes sociais, Google Ads e e-mail marketing. A publicidade offline será pontual, por meio de cartazes, apresentações ou materiais em cursinhos e eventos, sempre com QR Code para cadastro.
 
-### Estratégias de Promoções a serem Praticadas
+### 3.14.7. Vendas Diretas e Telemarketing
 
-As estratégias de promoção visam fortalecer a identidade da marca, ampliar o alcance digital e aumentar o engajamento dos usuários.
+O telemarketing tradicional não é adequado ao público principal. A venda direta será feita por mensagens consultivas para escolas, cursinhos e professores, além de atendimento receptivo para usuários interessados.
 
-### Campanhas Publicitárias
+### 3.14.8. Marketing Direto
 
-**Mídias Tradicionais E Digitais:** Divulgação em redes sociais, plataformas digitais e ambientes acadêmicos.
+O marketing direto será feito por e-mail, WhatsApp Business e mensagens dentro da plataforma, com segmentação por comportamento: usuário novo, ativo, inativo, beta tester, Premium ou parceiro institucional.
 
-### Participação em Eventos
+### 3.14.9. Segmentação de Comunicação
 
-**Feiras e Festivais:** Participação em eventos voltados à educação, tecnologia e inovação.
+A comunicação será segmentada por necessidade: vestibulandos que procrastinam, estudantes que têm dificuldade em História, treineiros, professores e cursinhos. Cada público receberá argumentos e chamadas diferentes.
 
-### Parcerias com Influenciadores Digitais
+### 3.14.10. Integração de Marketing Digital e Tradicional
 
-**Marketing de Influência:** Parcerias com criadores de conteúdo educacional e influenciadores estudantis.
+As ações presenciais em eventos e cursinhos serão integradas com canais digitais por QR Codes, cupons, landing pages específicas e rastreamento por UTM.
 
-### Promoções Especiais De Lançamento
+### 3.14.11. Campanhas de Aquisição
 
-**Ofertas de Lançamento:** Disponibilização de períodos gratuitos e benefícios promocionais para novos usuários.
+As campanhas de aquisição usarão conteúdo gratuito, SEO, redes sociais, influenciadores, indicação e pequenos testes de mídia paga. A métrica principal será cadastro ativado, não apenas clique.
 
-### Publicidade Online e Offline
+### 3.14.12. Campanhas de Monetização
 
-**Anúncios Online e Offline:** Campanhas digitais segmentadas e divulgação em ambientes acadêmicos.
+A monetização será focada em usuários que já concluíram ciclos, responderam quizzes ou demonstraram interesse em relatórios e conteúdos avançados. Isso evita ofertas prematuras para quem ainda não percebeu valor.
 
-### Vendas Diretas e Telemarketing
+### 3.14.13. Campanhas de Fidelização
 
-**Vendas em Pontos de Venda Físicos e Online:** Divulgação direta em escolas, cursinhos e canais digitais.
+A fidelização será trabalhada por sequência de estudos, evolução do personagem, relatórios de desempenho, desafios semanais, e-mails de progresso e programa de indicação.
 
-### Marketing Direto
+## 3.15. PESSOAS
 
-**Promoções Exclusivas Para Clientes Fiéis:** Benefícios e recompensas para usuários recorrentes.
+### 3.15.1. Estratégias Voltadas aos Funcionários
 
-### Segmentação de Comunicação
+As estratégias de pessoas devem refletir a fase inicial do empreendimento. No primeiro ano, a empresa não contará com grande equipe contratada; as atividades serão realizadas pelos três sócios, com apoio externo pontual. A meta é criar uma cultura de colaboração, aprendizado rápido e foco no usuário.
 
-**Comunicação Segmentada:** Criação de campanhas específicas para diferentes perfis de estudantes.
+### 3.15.2. Recrutamento
 
-### Integração de Marketing Digital e Tradicional
+No curto prazo, o recrutamento será limitado a apoios pontuais, como professor de História, designer parceiro ou colaborador para revisão. Contratações fixas só serão consideradas após receita recorrente ou captação. Os critérios serão competência técnica, alinhamento com educação, responsabilidade com dados e capacidade de trabalhar em ambiente enxuto.
 
-**Abordagem Omnichannel:** Integração entre redes sociais, campanhas digitais e ações presenciais.
+### 3.15.3. Treinamento
 
-### Campanhas de Aquisição
+O treinamento interno será feito por estudo contínuo, documentação, troca entre os sócios e revisão de boas práticas de UX, marketing digital, segurança, LGPD e conteúdo educacional. Qualquer pessoa que atue no projeto deverá entender a proposta de valor, o público-alvo e o funcionamento da plataforma.
 
-**Ofertas Especiais Para Novos Clientes:** Períodos de teste gratuito e campanhas promocionais.
+### 3.15.4. Código de Conduta
 
-### Campanhas de Monetização
+O código de conduta terá como princípios responsabilidade, respeito, transparência, linguagem adequada ao público jovem, cuidado com dados pessoais e compromisso com qualidade pedagógica. A comunicação da marca não deve explorar ansiedade do vestibulando nem prometer aprovação sem evidências.
 
-**Aumento do Ticket Médio:** Disponibilização de funcionalidades premium e conteúdos exclusivos.
+### 3.15.5. Comunicação Interna
 
-### Campanhas de Fidelização
+A comunicação interna será organizada por reuniões semanais, quadro Kanban, documentação de decisões e retrospectivas quinzenais. A equipe deverá registrar bugs, sugestões, demandas de conteúdo e dúvidas recorrentes de usuários em um backlog único.
 
-**Recompensas para Clientes Fiéis:** Sistema de progressão, conquistas e benefícios para permanência na plataforma.
+### 3.15.6. Avaliação e Remuneração
 
-## PESSOAS
+Na fase inicial, os sócios trabalharão com divisão de responsabilidades e reinvestimento no projeto. A remuneração direta dependerá da geração de receita. Colaboradores externos poderão receber acesso Premium, créditos no site ou pagamento pontual, conforme acordo e orçamento disponível.
 
-### Estratégias Voltadas aos Funcionários
+### 3.15.7. Desenvolvimento de Conhecimento
 
-As estratégias voltadas à equipe buscam garantir um ambiente colaborativo, produtivo e alinhado aos objetivos da empresa.
+O conhecimento do produto será desenvolvido por testes internos, uso da plataforma, análise de métricas e contato direto com usuários. A equipe também deverá acompanhar tendências de EdTech, gamificação, ensino híbrido, vestibulares e marketing de conteúdo.
 
-### Recrutamento
+## 3.16. PROCESSOS
 
-#### Processo Seletivo:
+### 3.16.1. Estratégias para os Processos da Empresa
 
-**Objetivo:** Selecionar profissionais alinhados aos valores da plataforma e ao setor educacional e tecnológico.
+Os processos do PomoHistória serão documentados para garantir qualidade, continuidade e aprendizado. Mesmo com equipe pequena, é necessário registrar requisitos, decisões, critérios de conteúdo, fluxo de atendimento, bugs e métricas de marketing.
 
-**Métodos:** Análise de competências técnicas, criatividade, comunicação e alinhamento com a cultura organizacional.
+### 3.16.2. Adoção de Normas de Qualidade e Segurança
 
-### Treinamento
+A empresa adotará boas práticas inspiradas em frameworks de segurança, como controle de acesso, backups periódicos, proteção de dados sensíveis, uso de HTTPS, política de privacidade e cuidado com LGPD. Não será afirmada certificação ISO enquanto ela não existir formalmente.
 
-#### Programas de Capacitação e Desenvolvimento Contínuo:
+### 3.16.3. Atenção aos Detalhes e Qualidade
 
-**Objetivo:** Alinhar todos ao propósito da marca e garantir conhecimento técnico.
+O código passará por revisão entre os sócios, testes básicos e correções antes de novas publicações. O conteúdo histórico será revisado por fonte confiável ou professor parceiro. Questões com alto índice de erro serão analisadas para identificar se o problema está no usuário, no enunciado ou no material de apoio.
 
-**Métodos:** Promover atualização constante da equipe.
+### 3.16.4. Seleção Cuidadosa de Fornecedores e Parceiros
 
-**Conteúdo:** Treinamentos internos, cursos e acompanhamento de tendências tecnológicas e educacionais.
+Fornecedores de hospedagem, pagamento, e-mail marketing e automação serão escolhidos com base em segurança, custo, facilidade de uso e possibilidade de escala. Parceiros de conteúdo e influenciadores serão avaliados por reputação, alinhamento pedagógico e linguagem adequada ao público.
 
-### Código De Conduta
+### 3.16.5. Sistema de Entrega Eficiente e Confiável
 
-#### Diretrizes de Comportamento e Ética
+A entrega do produto corresponde à estabilidade da plataforma. Serão usados deploys controlados, versionamento no GitHub, monitoramento básico de disponibilidade e plano de contingência para falhas. O objetivo inicial será disponibilidade mínima de 99% e carregamento inferior a 3 segundos.
 
-**Objetivo:** Garantir um ambiente ético, respeitoso e colaborativo.
+### 3.16.6. Experiência do Cliente no Uso do Produto
 
-**Princípios:** Responsabilidade, respeito, transparência e comprometimento.
+- Onboarding em menos de 3 minutos, levando o usuário do cadastro ao primeiro ciclo Pomodoro.
 
-**Implementação:** Divulgação de normas internas e acompanhamento contínuo das práticas organizacionais.
+- Tutorial interativo opcional para explicar timer, quizzes, progresso e personagem.
 
-### Comunicação Interna
+- Dicas contextuais após erros em quizzes, incentivando revisão em vez de abandono.
 
-#### Métodos para Comunicação Interna:
+- E-mails ou mensagens de lembrete para estimular constância, respeitando preferências do usuário.
 
-**Objetivo:** Facilitar a integração e alinhamento entre os membros da equipe.
+- Feedback visual claro ao concluir ciclos, acertar questões e desbloquear etapas.
 
-**Métodos:** Reuniões periódicas, plataformas digitais e comunicação colaborativa.
+### 3.16.7. Garantia de Qualidade e Satisfação
 
-### Avaliação e Remuneração
+- Política de reembolso integral nos primeiros 7 dias de assinatura.
 
-**Avaliação e Reconhecimento:** Monitoramento de desempenho e reconhecimento por resultados alcançados.
+- Suporte humano em até 24 horas úteis para Premium, até 48 horas úteis para gratuito e até 12 horas úteis para parceiros B2B em teste.
 
-**Remuneração Competitiva:** Oferta de benefícios compatíveis com o mercado e incentivo ao desenvolvimento profissional.
+- Pesquisa de satisfação após resolução de problemas e coleta de NPS trimestral.
 
-### Desenvolvimento de Conhecimento
+- Base de conhecimento com dúvidas frequentes para reduzir tempo de resposta.
 
-**Conhecimento Profundo do Produto:** Capacitação da equipe sobre funcionalidades, objetivos e diferenciais da plataforma.
+### 3.16.8. Práticas Ambientais Responsáveis
 
-**Capacitação em Processos:** Treinamentos voltados aos processos internos e experiência do usuário.
+- Produto 100% digital, reduzindo necessidade de materiais impressos e deslocamentos.
 
-## PROCESSOS
+- Trabalho remoto como padrão da equipe inicial, diminuindo deslocamentos.
 
-### Estratégias para os Processos da Empresa
+- Uso consciente de recursos de hospedagem, evitando infraestrutura superdimensionada antes da demanda.
 
-Processos documentados e otimizados para garantir qualidade, rapidez e satisfação do cliente.
+- Possibilidade futura de compensação de carbono ou escolha de provedores com energia renovável, quando houver viabilidade financeira.
 
-### Adoção de Normas de Qualidade e Segurança.
+## 3.17. Evidências Físicas
 
-**Implementação de Normas:** Seguimos o framework ISO 27001 (segurança da informação) adaptado para pequenas empresas; backups diários; criptografia de dados sensíveis.
+### 3.17.1. Estratégias voltadas ao ambiente
 
-### Atenção aos Detalhes e Qualidade.
+Como o PomoHistória é um serviço digital, as evidências físicas são representadas pelos elementos tangíveis da experiência: interface, personagem, relatórios, e-mails, landing page, materiais de divulgação, certificados digitais e atendimento. Esses elementos tornam a qualidade do serviço perceptível antes mesmo de resultados de longo prazo.
 
-**Foco na qualidade:** Revisão por pares do código; testes automatizados (unitários, integração); revisão de conteúdo histórico por professor especialista antes do lançamento.
+**Tabela 3.12 - Evidências físicas e digitais do PomoHistória**
 
-**Compromisso com a excelência:** Ciclo de feedback rápido (usuários reportam bugs, desenvolvedores corrigem em até 48h).
+| **Evidências físicas/digitais**      | **Objetivo**                                                  | **Ação**                                                                                         |
+|--------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Interface visual coerente            | Transmitir profissionalismo, confiança e identidade da marca. | Criar design system simples, paleta padronizada, ícones consistentes e navegação responsiva.     |
+| Personagem virtual evolutivo         | Materializar o progresso do aluno e aumentar motivação.       | Criar fases visuais associadas aos períodos históricos e feedback ao concluir módulos.           |
+| Relatórios de desempenho             | Provar valor com dados concretos de estudo e aprendizagem.    | Exibir tempo de estudo, acertos, evolução por tema e histórico de ciclos concluídos.             |
+| E-mails transacionais e de marketing | Fortalecer relacionamento e percepção de cuidado.             | Usar templates responsivos, linguagem amigável e mensagens baseadas no comportamento do usuário. |
+| Materiais de divulgação              | Gerar reconhecimento e prova social.                          | Produzir posts, vídeos tutoriais, apresentações para cursinhos e peças com identidade visual.    |
+| Certificados e conquistas digitais   | Recompensar avanço e incentivar compartilhamento.             | Emitir certificados simbólicos por conclusão de trilhas e conquistas dentro da plataforma.       |
+| Atendimento ao cliente               | Transmitir acolhimento e confiança.                           | Usar scripts de atendimento, FAQ, WhatsApp Business e registro de dúvidas recorrentes.           |
+| Pacotes para licenças corporativas   | Profissionalizar venda B2B.                                   | Criar apresentação em PDF, contrato digital, proposta piloto e manual básico para professores.   |
+| Conteúdo gratuito                    | Demonstrar autoridade e captar leads.                         | Publicar blog, e-books simples, webinars e materiais com chamada para cadastro.                  |
 
-### Seleção Cuidadosa de Fornecedores e Parceiros.
-
-**Processo de contratação:** Fornecedores de servidores (AWS, Google Cloud) devem ter certificação de segurança e LGPD.
-
-**Escolha de parceiros:** Para conteúdo (professores) e influenciadores, verificamos idoneidade e alinhamento com os valores da marca.
-
-**Estabelecimento de critérios:** Contratos com cláusulas de confidencialidade, qualidade de serviço (SLA) e rescisão por descumprimento.
-
-### Sistema de Entrega Eficiente e Confiável.
-
-**Utilização de sistemas:** CI/CD (GitHub Actions) para deploy automatizado; monitoramento de uptime (UptimeRobot); escalonamento automático na nuvem.
-
-**Garantir a entrega:** SLA de 99,9% de disponibilidade; plano de contingência em caso de falha de região da nuvem.
-
-### Experiência do Cliente no Uso do Produto.
-
-- Onboarding em menos de 3 minutos;
-- Tutorial interativo opcional;
-- Dicas contextuais;
-- Notificações push (via e-mail ou WhatsApp) para lembrar o estudo diário.
-
-### Garantia de Qualidade e Satisfação.
-
-- Política de reembolso integral nos primeiros 7 dias de assinatura;
-- Suporte humano com tempo de resposta menos de 2 horas para premium, menos de 24 horas para gratuito;
-- Pesquisa de satisfação pós-resolução.
-
-### Práticas Ambientais Responsáveis.
-
-- Compensação de carbono dos servidores via parceria com programa de reflorestamento;
-- Uso de energia renovável na infraestrutura;
-- Política de trabalho remoto (redução de deslocamento).
-
-## Evidências Físicas
-
-### Estratégias voltadas ao ambiente
-
-| EVIDÊNCIAS FÍSICAS | OBJETIVO | AÇÃO |
-|--------------------|----------|------|
-| Interface visual coerente (cores, tipografia, ícones) | Transmitir profissionalismo, confiança e identidade da marca | Contratação de UX/UI designer; criação de design system (biblioteca de componentes) |
-| Personagem virtual (evolução visual) | Materializar o progresso do aluno, gerando motivação extrínseca | Animações suaves; skins desbloqueáveis; feedback visual a cada módulo concluído |
-| Relatórios de desempenho (gráficos, métricas) | Provar o valor do produto com dados concretos | Relatórios exportáveis em PDF; dashboards com tempo de estudo, acertos, evolução |
-| E-mails transacionais e de marketing (design profissional) | Fortalecer o relacionamento e a percepção de qualidade | Templates responsivos, com ilustrações exclusivas e linguagem amigável |
-| Materiais de divulgação (posts, vídeos, panfletos em eventos) | Gerar prova social e reconhecimento da marca | Produção de material gráfico com identidade visual; vídeos tutoriais bem editados |
-| Certificados e selos (ex: "Concluinte do Módulo Idade Média") | Recompensar conquistas e incentivar compartilhamento social | Sistema automático de emissão de certificados digitais com QR code de verificação |
-| Atendimento ao cliente (chat, e-mail, WhatsApp) | Transmitir acolhimento e resolução rápida | Scripts de atendimento padronizados, mas com toque humano; tempo de resposta medido |
-| Embalagens/pacotes (para licenças corporativas) | Profissionalismo na venda B2B | Apresentação em PDF, contrato digital com design da marca, manual do professor |
-| Conteúdo gratuito (blog, e-books, webinars) | Demonstrar autoridade e gerar leads | Material bem produzido, com fontes acadêmicas, design atrativo e chamadas para ação |
-
-# ESTRUTURA ADMINISTRATIVA DA EMPRESA.
-
-[... A empresa xxxxx fundada em xxxx ...]
+# ESTRUTURA ADMINISTRATIVA DA EMPRESA. 
 
 ## Constituição Jurídica
 
-### Constituição Jurídica
+### Natureza do Projeto
+
+O PomoHistória é um projeto de pesquisa e desenvolvimento vinculado à disciplina de Marketing e Negócios do curso de Sistemas para Internet da FATEC Rubens Lara. Não possui CNPJ, inscrição municipal ou qualquer outra forma de personalidade jurídica. As atividades são realizadas pelos próprios estudantes-autores, sem vínculo empregatício ou societário formal.
 
 ### Regime Tributário
 
+Não se aplica. Por se tratar de projeto acadêmico sem fins lucrativos e sem comercialização real (apenas simulação de modelo de negócio), não há obrigações tributárias ou fiscais. Caso no futuro o grupo decida transformar o projeto em uma startup, o regime seria Simples Nacional ou MEI (para faturamento inicial baixo).
+
 ### Responsabilidade Social e Ambiental
+
+Mesmo sem constituição legal, o projeto incorpora princípios de responsabilidade social e ambiental em sua condução:
+
+- **Social:** O plano de marketing prevê um programa de bolsas (simulado) para estudantes de baixa renda. No âmbito acadêmico, os integrantes se comprometem a compartilhar os resultados e o conhecimento gerado com a comunidade da FATEC.
+
+- **Ambiental:** Todo o desenvolvimento é digital, evitando impressões desnecessárias. O código e a documentação são armazenados em repositórios na nuvem. As reuniões são preferencialmente remotas, reduzindo deslocamentos.
 
 ## Estrutura Organizacional da Empresa
 
-A estrutura organizacional da empresa ..... é composta ...
+A estrutura organizacional do PomoHistória é funcional e enxuta, composta pelos três integrantes do grupo, que acumulam múltiplas funções. Eventualmente, contamos com a colaboração voluntária de um professor de História (revisor de conteúdo) e de um designer amigo (apoio pontual). Não há hierarquia rígida; as decisões estratégicas são tomadas por consenso.
 
 ### Equipe Gerencial
 
-## Organograma da Empresa Detalhado:
+| **Papel**                                        | **Responsável**                           | **Principais atribuições**                                                                                                                                                                                           |
+|--------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Líder Técnico (CTO)**                          | Diego de Oliveira Ferreira                | Arquitetura de software, back-end, banco de dados, infraestrutura (hospedagem), integração de pagamentos (simulação), segurança e manutenção.                                                                        |
+| **Desenvolvedor Front-end**                      | Kauê de Oliveira Martins                  | Implementação da interface (React/CSS), gamificação (lógica do personagem), quizzes, trava pedagógica, testes de usabilidade.                                                                                        |
+| **Designer e Marketing (CMO)**                   | Gabrielle Almeida Lima                    | Identidade visual, design da interface (UI/UX), criação de conteúdo (questões, textos históricos), gestão de redes sociais (simulada), parcerias com influenciadores (simulação), atendimento ao usuário (feedback). |
+| **Revisor de Conteúdo (colaborador voluntário)** | Professor/estudante de História (externo) | Revisão e validação da precisão histórica dos quizzes e módulos.                                                                                                                                                     |
+| **Apoio de Design (colaborador voluntário)**     | Designer freelancer (amigo)               | Ajustes pontuais em logotipo, ícones e assets visuais.                                                                                                                                                               |
 
-### Diretoria Executiva:
+## Organograma da Empresa Detalhado
 
-Departamento De Produção:
+### Diretoria Executiva
 
-Gerente de Produção:
+- **Composto por:** Diego, Gabrielle e Kauê (decisões colegiadas).
 
-Supervisor de Linha de Produção:
+- **Funções:** Definir roadmap, priorizar funcionalidades, aprovar mudanças no escopo, gerenciar prazos e entregas acadêmicas.
 
-Operadores de Máquinas:
+### Núcleo de Desenvolvimento de Software
 
-Equipe de Controle de Qualidade:
+**Líder:** Diego
 
-### Departamento de Marketing e Vendas:
+**Membros:** Kauê
 
-Gerente de Marketing:
+**Atividades:** Programação (front-end e back-end), configuração de ambiente, versionamento (Git), testes, deploy.
 
-Gerente de Vendas:
+### Núcleo de Design e Experiência do Usuário (UX/UI)
 
-Equipe de Marketing Digital:
+**Líder:** Gabrielle
 
-Equipe de Marketing Tradicional
+**Atividades:** Criação de wireframes, prototipagem, design visual, definição de paleta de cores, tipografia, ícones, animações do personagem.
 
-Equipe de Relações Públicas:
+### Núcleo de Conteúdo e Pedagogia
 
-Equipe de Atendimento ao Cliente:
+**Líder:** Kauê (com apoio do revisor voluntário)
 
-### Departamento Administrativo e Financeiro:
+**Atividades:** Pesquisa e elaboração de questões de História, estruturação dos módulos (Pré-História ao Brasil República), escrita de textos explicativos, definição da trava pedagógica.
 
-Gerente Administrativo:
+### Núcleo de Marketing e Comunicação 
 
-Gerente Financeiro:
+**Líder:** Gabrielle
 
-Contadores:
+**Atividades:** Planejamento de campanhas (para o plano de marketing), criação de posts simulados, contato simulado com influenciadores, elaboração de material para feiras e eventos acadêmicos.
 
-Analistas Financeiros:
+### Núcleo de Suporte e Relacionamento com Usuários 
 
-Assistente Administrativo:
+**Líder:** Diego(com auxílio dos demais)
 
-### Departamento de Recursos Humanos:
+**Atividades:** Coleta de feedback dos usuários beta, resposta a e-mails simulados, registro de bugs e sugestões.
 
-Gerente de RH:
+### Imagem do Organograma Detalhado da Empresa. 
 
-Recrutadores:
-
-Analistas de RH:
-
-Coordenador de Treinamento e Desenvolvimento:
-
-Assistente de RH:
-
-### Departamento de Logística e Distribuição:
-
-Gerente de Logística:
-
-Coordenador de Distribuição:
-
-Analistas de Logística:
-
-Equipe de Armazenamento e Estoque:
-
-Motoristas e Auxiliares de Entrega:
-
-### Departamento de Pesquisa e Desenvolvimento:
-
-Gerente de P&D:
-
-Equipe de Desenvolvimento de Produtos:
-
-Engenheiros de Alimentos:
-
-Técnicos Laboratoriais:
-
-### Departamento de Qualidade e Segurança Alimentar:
-
-Gerente de Qualidade:
-
-Coordenador de Controle de Qualidade:
-
-Inspetores de Qualidade:
-
-Equipe de Auditoria Interna:
-
-### Imagem do Organograma Detalhado da Empresa.
-
-Anexar: ...
+<img src="plano-marketing_atualizado_media/media/image1.png" style="width:6.29897in;height:2.47222in" />
 
 # ESTRUTURA FÍSICA DA EMPRESA
 
-## Layout:
+## Layout
 
-O espaço físico da fábrica ... ...
+O desenvolvimento das atividades ocorre de forma híbrida e remota, utilizando computadores pessoais, plataformas colaborativas online e ambientes digitais de desenvolvimento. As reuniões de planejamento, alinhamento e acompanhamento do projeto são realizadas majoritariamente de maneira virtual, por meio de ferramentas de comunicação, organização e gerenciamento de tarefas, garantindo integração e produtividade entre os membros da equipe. A empresa PomoHistoria, conforme o crescimento do projeto e a obtenção de lucros ao longo das etapas implementadas, poderá futuramente contar com uma sede física em uma pequena sala comercial, destinada à realização de encontros presenciais, reuniões estratégicas e integração entre parceiros e colaboradores.
 
 ## Capacidade Instalada
 
-A fábrica está equipada com máquinas modernas e automatizadas ... ...
+A capacidade operacional do projeto está diretamente relacionada à infraestrutura digital utilizada pelos integrantes, incluindo computadores pessoais, serviços de hospedagem em nuvem e plataformas de versionamento de código.
 
-## Infraestrutura
-
-A infraestrutura da fábrica inclui sistemas de controle ... ...
-
-## Imagem da Planta Baixa da Empresa
-
-Anexar
-
-Legenda detalhada:
-
-Desenvolver uma planta baixa para representar os principais pontos de forma detalhada:
-
-Recepção de matérias-primas (xx m²):
-
-Área de preparo (xxm²):
-
-Área de moldagem e resfriamento (xx m²):
-
-Embalagem (xx m²):
-
-Área de estocagem (xx m²):
-
-Área de expedição (xx m²):
-
-Área administrativa (xx m²):
-
-Banheiros e vestiários (xx m²):
-
-Descarte de resíduos (x m²):
+A aplicação foi planejada para suportar crescimento gradual de usuários, utilizando arquitetura escalável baseada em serviços cloud e banco de dados online.
 
 # IMPLEMENTAÇÃO DO PLANO DE MARKETING
 
 ## Avaliação e Controle
 
-|  | MÉTRICAS | FERRAMENTAS | FREQUÊNCIA | AÇÕES |
-|--|----------|-------------|------------|-------|
-| Criação e manutenção do website | | | | |
-| Campanhas de publicidade on line | | | | |
-| Seo e Marketing de conteúdo | | | | |
-| Marketing de Influenciadores | | | | |
-| Parcerias com Lojas Varejos e Outros | | | | |
-| Campanhas de email Marketing | | | | |
-| Treinamentos da Equipe | | | | |
-| Degustações em Lojas Parceiras e Eventos | | | | |
-| Promoções de Lancamentos de Novos Produtos | | | | |
-| Ações em Datas Festivas | | | | |
+|                                                | **MÉTRICAS** | **FERRAMENTAS** | **FREQUÊNCIA** | **AÇÕES** |
+|------------------------------------------------|--------------|-----------------|----------------|-----------|
+| **Criação e manutenção do website**            |              |                 |                |           |
+| **Campanhas de publicidade on line**           |              |                 |                |           |
+| **Seo e Marketing de conteúdo**                |              |                 |                |           |
+| **Marketing de Influenciadores**               |              |                 |                |           |
+| **Parcerias com Lojas Varejos e Outros**       |              |                 |                |           |
+| **Campanhas de email Marketing**               |              |                 |                |           |
+| **Treinamentos da Equipe**                     |              |                 |                |           |
+| **Degustações em Lojas Parceiras e Eventos**   |              |                 |                |           |
+| **Promoções de Lançamentos de Novos Produtos** |              |                 |                |           |
+| **Ações em Datas Festivas**                    |              |                 |                |           |
 
 ## Processos de Controle e Avaliação (Trimestral)
 
-A avaliação trimestral inclui planejamento, monitoramento, avaliação, ação corretiva e comunicação interna.
+A cada trimestre, a equipe do PomoHistória realizará uma análise geral das ações desenvolvidas. Essa avaliação servirá para comparar os resultados obtidos com os objetivos planejados, permitindo entender se a empresa está avançando na direção correta ou se será necessário realizar mudanças nas estratégias.
 
 ### Planejamento
 
-Definir metas:
-
-Alocar recursos
-
-Elaborar cronograma
+No planejamento trimestral, serão definidas as metas principais do período, como aumento no número de usuários cadastrados, crescimento das redes sociais, maior acesso ao site e melhoria na conversão para o plano premium. Também serão organizadas as campanhas que serão realizadas, os conteúdos que serão publicados e as possíveis parcerias com escolas, cursinhos ou influenciadores educacionais.
 
 ### Monitoramento
 
-Relatórios regulares
-
-Ferramentas de análise
+O monitoramento será feito durante toda a execução das ações. A equipe acompanhará os dados das redes sociais, do site e da própria plataforma, observando o desempenho das campanhas e o comportamento dos usuários por meio de ferramentas como Google Analytics, Meta Business Suite, Instagram Insights, Facebook Insights e Google Search Console. Esse acompanhamento permitirá perceber rapidamente quais estratégias geram mais interesse e quais apresentam baixo retorno.
 
 ### Avaliação
 
-Comparar resultados
-
-Analisar desvios
+Na etapa de avaliação, os resultados serão comparados com as metas estabelecidas no planejamento. Caso o número de acessos, cadastros ou assinaturas esteja abaixo do esperado, a equipe analisará os motivos e buscará entender se o problema está na comunicação, no público-alvo, no conteúdo divulgado ou na experiência do usuário dentro da plataforma.
 
 ### Ação Corretiva
 
-Implementar ajustes
-
-Revisar as estratégias
+Quando forem encontrados problemas ou resultados abaixo do esperado, serão aplicadas ações corretivas. Essas ações podem envolver mudanças nas campanhas, melhoria dos conteúdos publicados, ajustes na linguagem usada nas redes sociais, revisão das promoções ou aprimoramento de funcionalidades da plataforma.
 
 ### Comunicação Interna
 
-Reuniões regulares
-
-Transparência
+A comunicação interna será realizada por meio de reuniões periódicas entre os integrantes da equipe. Nessas reuniões, serão discutidos os resultados das ações, as dificuldades encontradas e as próximas decisões do projeto. A organização das tarefas poderá ser feita com ferramentas como Trello, Google Drive ou GitHub Projects, garantindo que todos acompanhem o andamento das atividades.
 
 ## Relatórios e Ferramentas.
 
-### Painel de Marketing.
+Os relatórios e ferramentas terão a função de reunir as informações mais importantes sobre o desempenho do plano de marketing. Eles ajudarão a equipe a tomar decisões com base em dados reais, evitando que as estratégias sejam definidas apenas por opinião ou tentativa.
 
-### Relatórios de Desempenho.
+### Painel de Marketing
 
-### Feedback dos Clientes.
+O painel de marketing reunirá dados sobre acessos ao site, número de usuários cadastrados, origem dos visitantes, desempenho das campanhas, crescimento das redes sociais e conversões para o plano premium. Esse painel facilitará a visualização dos resultados e ajudará a identificar quais canais estão trazendo mais retorno para a marca.
 
-### Reuniões de Revisão.
+### Relatórios de Desempenho
+
+Os relatórios de desempenho serão elaborados mensalmente e analisados de forma mais completa a cada trimestre. Eles apresentarão um resumo das ações realizadas, os resultados alcançados, as dificuldades encontradas e as propostas de melhoria para o próximo período. Esses relatórios serão importantes para manter o controle do crescimento do PomoHistória.
+
+### Feedback dos Clientes
+
+O feedback dos usuários será utilizado como uma fonte importante de melhoria. Por meio de formulários, mensagens no suporte, comentários nas redes sociais e pesquisas de satisfação, a equipe poderá compreender melhor as necessidades dos estudantes. Essas informações ajudarão no aperfeiçoamento da interface, dos conteúdos de História, da gamificação e do atendimento ao usuário.
+
+### Reuniões de Revisão
+
+As reuniões de revisão serão realizadas para discutir os relatórios, avaliar os resultados e definir os próximos passos. Nelas, a equipe poderá decidir quais campanhas devem continuar, quais precisam ser alteradas e quais novas ações podem ser colocadas em prática. Com esse acompanhamento constante, a implementação do plano de marketing do PomoHistória será mais organizada e alinhada aos objetivos da empresa.
 
 # ANEXOS
 
